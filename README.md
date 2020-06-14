@@ -5,7 +5,7 @@
 <br />
 ## Contributors <br />
 **Teamname:** MASC off <br />
-**Members:** Aaron Alphonsus, Marc Mascarenhas, Shashwati Shradha, Chang Xu<br />
+**Members:**  Marc Mascarenhas,Aaron Alphonsus, Shashwati Shradha, Chang Xu<br />
 <br />
 
 ## Problem Statement <br />
