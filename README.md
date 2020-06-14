@@ -1,5 +1,4 @@
 # Covid19Hackathon
-## Project Information <br />
 **"Analyzing University Response to COVID-19 in the United States" <br />**
 <br />
 **Authors:** Aaron Alphonsus, Marc Mascarenhas, Shashwati Shradha, Chang Xu<br />
