@@ -15,3 +15,6 @@ Has the pandemic disproportionately affected lower ranked colleges? <br />
 What has been the response of colleges which heavily depend on tuition from out of state and international students?<br />
 <br />
 We’re interested in understanding the motivations and timelines behind how colleges in the US have responded to the situation.<br />
+## Folders <br />
+**Datasets:** includes the data we used for producing our graphs and visualization tools<br />
+
