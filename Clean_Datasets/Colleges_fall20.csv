@@ -1,0 +1,981 @@
+,Institution,Control,State,Category
+0,Abilene Christian University,Private,TX,In-person
+1,Academy of Art University,Private,CA,In-person
+2,Adelphi University,Private,NY,Hybrid model
+3,Adrian College,Private,MI,In-person
+4,Agnes Scott College,Private,GA,In-person
+5,Albany College of Pharmacy and Health Sciences,Private,NY,In-person
+6,Albion College,Private,MI,In-person
+7,Allan Hancock College,Public,CA,Online
+8,Allegheny College,Private,PA,In-person
+9,Alma College,Private,MI,In-person
+10,American University,Private,DC,Undecided
+11,Amherst College,Private,MA,Undecided
+12,Andrews University,Private,MI,In-person
+13,Angelo State University,Public,TX,In-person
+14,Anne Arundel Community College,Public,MD,Online
+15,Antioch College,Private,OH,Hybrid model
+16,Appalachian Bible College,Private,WV,In-person
+17,Appalachian State University,Public,NC,In-person
+18,Aquinas College,Private,MI,In-person
+19,Arcadia University,Private,PA,Hybrid model
+20,Arizona State University,Public,AZ,Hybrid model
+21,Arkansas State University,Public,AR,In-person
+22,Arkansas Tech University,Public,AR,In-person
+23,Asbury University,Private,KY,In-person
+24,Assumption College,Private,MA,Considering options
+25,Auburn University,Public,AL,Hybrid model
+26,Auburn University at Montgomery,Public,AL,In-person
+27,Augusta College,Public,GA,In-person
+28,Augustana College,Private,IL,In-person
+29,Augustana University,Private,SD,In-person
+30,Austin Peay State University,Public,TN,In-person
+31,Austin Peay State University,Public,TN,In-person
+32,Averett University,Private,VA,In-person
+33,Avila University,Private,MO,In-person
+34,Azusa Pacific University,Private,CA,In-person
+35,Babson College,Private,MA,Considering options
+36,Bakersfield College,Public,CA,Online
+37,Ball State University,Public,IN,In-person
+38,Bard College,Private,NY,In-person
+39,Bard College at Simon's Rock,Private,MA,In-person
+40,Barnard College,Private,NY,Considering options
+41,Barry University,Private,FL,Considering options
+42,Bates College,Private,ME,Undecided
+43,Bay Atlantic University,Private,DC,Undecided
+44,Bay Path University,Private,MA,Considering options
+45,Baylor University,Private,TX,In-person
+46,Beacon College,Private,FL,In-person
+47,Belhaven University,Private,MS,In-person
+48,Bellevue College,Public,WA,Online
+49,Belmont University,Private,TN,Considering options
+50,Beloit College,Private,WI,Hybrid model
+51,Bemidji State University,Public,MN,Hybrid model
+52,Benedictine College,Private,KS,In-person
+53,Bennington College,Private,VT,In-person
+54,Bentley University,Private,MA,In-person
+55,Berkeley City College,Public,CA,Online
+56,Berklee College of Music,Private,MA,Considering options
+57,Bethany College,Private,WV,In-person
+58,Bethel College,Private,KS,In-person
+59,Bethel University,Private,MN,In-person
+60,Binghamton University,Public,NY,In-person
+61,Biola University,Private,CA,In-person
+62,Bloomfield College,Private,NJ,Considering options
+63,Bloomsburg University,Public,PA,In-person
+64,Bluffton University,Private,OH,In-person
+65,Bob Jones University,Private,SC,In-person
+66,Boise State University,Public,ID,Hybrid model
+67,Boston College,Private,MA,In-person
+68,Boston University,Private,MA,In-person
+69,Bowdoin College,Private,ME,Undecided
+70,Bowling Green State University,Public,OH,In-person
+71,Bradley University,Private,IL,In-person
+72,Brandeis University,Private,MA,Considering options
+73,Brevard College,Private,NC,In-person
+74,Brigham Young University,Private,UT,Undecided
+75,Brown University,Private,RI,Considering options
+76,Bryant University,Private,RI,In-person
+77,Bryn Mawr College,Private,PA,In-person
+78,Bryn Mawr College,Private,PA,In-person
+79,Bucknell University,Private,PA,In-person
+80,Buena Vista University,Private,IA,In-person
+81,Buffalo State College,Public,NY,Considering options
+82,Butler University,Private,IN,In-person
+83,Butte College,Public,CA,Hybrid model
+84,BYU - Hawaii,Private,HI,Online
+85,California Baptist University,Private,CA,In-person
+86,California Institute of the Arts,Private,CA,Hybrid model
+87,California Lutheran University,Private,CA,Considering options
+88,California State University — all system campuses,Public,CA,Link
+89,California State University — Bakersfield,Public,CA,Online
+90,California State University — Channel Islands,Public,CA,Online
+91,California State University — Chico,Public,CA,Online
+92,California State University — Dominguez Hills,Public,CA,Online
+93,California State University — East Bay,Public,CA,Online
+94,California State University — Fresno State,Public,CA,Online
+95,California State University — Fullerton,Public,CA,Online
+96,California State University — Humboldt,Public,CA,Online
+97,California State University — Long Beach,Public,CA,Online
+98,California State University — Los Angeles,Public,CA,Online
+99,California State University — Maritime Academy,Public,CA,Online
+100,California State University — Monterey Bay,Public,CA,Online
+101,California State University — Northridge,Public,CA,Online
+102,California State University — Polytechnic at Pomona,Public,CA,Online
+103,California State University — Polytechnic at San Luis Obispo,Public,CA,Online
+104,California State University — Sacramento,Public,CA,Online
+105,California State University — San Bernardino,Public,CA,Online
+106,California State University — San Diego State University,Public,CA,Online
+107,California State University — San Francisco State University,Public,CA,Online
+108,California State University — San José State University,Public,CA,Online
+109,California State University — San Marcos,Public,CA,Online
+110,California State University — Sonoma State University,Public,CA,Online
+111,California State University — Stanislaus,Public,CA,Online
+112,California University of Pennsylvania,Public,PA,In-person
+113,Calvin University,Private,MI,In-person
+114,Cameron University,Public,OK,Considering options
+115,Campbell University,Private,NC,Considering options
+116,Cañada College,Public,CA,Online
+117,Cape Cod Community College,Public,MA,Hybrid model
+118,Cape Fear Community College,Public,NC,Hybrid model
+119,Capitol Technological University,Private,MD,In-person
+120,Carleton College,Private,MN,Considering options
+121,Carlow University,Private,PA,Hybrid model
+122,Carnegie Mellon University,Private,PA,Hybrid model
+123,Carroll College,Private,MT,In-person
+124,Carroll University,Public,WI,In-person
+125,Case Western Reserve University,Private,OH,Hybrid model
+126,Catholic University of America,Private,DC,In-person
+127,Cazenovia College,Private,NY,In-person
+128,Cedarville University,Private,OH,In-person
+129,Centenary University,Private,NJ,Considering options
+130,Central Christian College of the Bible,Private,MO,In-person
+131,Central Michigan University,Public,MI,In-person
+132,Central New Mexico Community College,Public,NM,Online
+133,Central State University,Public,OH,In-person
+134,Centre College,Private,KY,Hybrid model
+135,Chaffey College,Public,CA,Online
+136,Chaminade University,Private,HI,In-person
+137,Chapman University,Private,CA,In-person
+138,Charleston Southern University,Private,SC,In-person
+139,Chatham University,Private,PA,In-person
+140,Chowan University,Private,NC,In-person
+141,Christian Brothers University,Private,TN,In-person
+142,Christopher Newport University,Public,VA,In-person
+143,Citrus College,Public,CA,Online
+144,City College of San Francisco,Public,CA,Online
+145,Claremont Colleges,Private,CA,In-person
+146,Clarion University of Pennsylvania,Public,PA,In-person
+147,Clark University,Private,MA,Undecided
+148,Clarke University,Private,IA,In-person
+149,Clemson University,Public,SC,Considering options
+150,Cleveland Institute of Art,Private,OH,Hybrid model
+151,Cleveland State University,Public,OH,Considering options
+152,Coastal Carolina University,Public,SC,In-person
+153,Colby College,Private,ME,Undecided
+154,Colgate University,Private,NY,Considering options
+155,College for Creative Studies,Private,MI,In-person
+156,College of Alameda,Public,CA,Online
+157,College of Idaho,Private,ID,In-person
+158,College of New Jersey,Public,NJ,Undecided
+159,College of Our Lady of the Elms,Private,MA,In-person
+160,College of Saint Benedict and Saint John's University,Private,MN,In-person
+161,College of San Mateo,Public,CA,Online
+162,College of the Atlantic,Private,ME,In-person
+163,College of the Desert,Public,CA,Online
+164,College of the Holy Cross,Private,MA,Undecided
+165,College of William & Mary,Public,VA,In-person
+166,College of William & Mary ,Public,VA,In-person
+167,College of Wooster,Private,OH,Considering options
+168,Colorado Christian University,Private,CO,Considering options
+169,Colorado College,Private,CO,Considering options
+170,Colorado Mesa University,Public,CO,In-person
+171,Colorado School of Mines,Public,CO,In-person
+172,Colorado State University,Public,CO,In-person
+173,Columbia College,Private,SC,In-person
+174,Columbia College,Private,MO,In-person
+175,Columbia College Chicago,Private,IL,Considering options
+176,Columbia International University,Private,SC,In-person
+177,Columbia University,Private,NY,Considering options
+178,Community College of Allegheny County,Public,PA,In-person
+179,Community College of Philadelphia,Public,PA,Online
+180,Concord University,Public,WV,In-person
+181,Concordia University Ann Arbor,Private,MI,In-person
+182,Concordia University Chicago,Private,IL,In-person
+183,Concordia University Irvine,Private,CA,In-person
+184,Concordia University Nebraska,Private,NE,In-person
+185,Concordia University St. Paul,Private,MN,In-person
+186,Concordia University Texas,Private,TX,In-person
+187,Concordia University Wisconsin,Private,WI,In-person
+188,Converse College,Private,SC,In-person
+189,Cornell College,Private,IA,In-person
+190,Cornell University,Private,NY,Undecided
+191,Cornerstone University,Private,MI,In-person
+192,Cornish College of the Arts,Private,WA,Undecided
+193,Cottey College,Private,MO,In-person
+194,Covenant College,Private,GA,In-person
+195,Crafton Hills College,Public,CA,Online
+196,Creighton University,Private,NE,In-person
+197,Culinary Institute of America,Private,NY,In-person
+198,Cuyahoga Community College,Public,OH,Hybrid model
+199,Cypress College,Public,CA,Online
+200,Dabney S. Lancaster Community College,Public,VA,Hybrid model
+201,Daemen College,Private,NY,In-person
+202,Dallas Baptist University,Private,TX,In-person
+203,Dallas County Community College District,Public,TX,Online
+204,Dartmouth College,Private,NH,Considering options
+205,Davenport University,Private,MI,Undecided
+206,Davidson College,Private,NC,Considering options
+207,De Anza College,Public,CA,Online
+208,Denison University,Private,OH,In-person
+209,DePaul University,Private,IL,In-person
+210,DePauw University,Private,IN,In-person
+211,Diablo Valley College,Public,CA,Online
+212,Dickinson College,Private,PA,Considering options
+213,DigiPen Institute of Technology,Private,WA,Considering options
+214,Doane University,Public,NE,In-person
+215,Dominican University ,Private,IL,In-person
+216,Dominican University of California,Private,CA,In-person
+217,Donnelly College,Private,KS,In-person
+218,Dordt University,Private,IA,In-person
+219,Drake University,Private,IA,In-person
+220,Drew University,Private,NJ,Considering options
+221,Drexel University,Private,PA,Undecided
+222,Drury University,Private,MO,In-person
+223,Duke University,Private,NC,Considering options
+224,Duke University,Private,NC,In-person
+225,Duquesne University,Private,PA,In-person
+226,Earlham College,Private,IN,In-person
+227,East Carolina University,Public,NC,In-person
+228,East Tennessee State University,Public,TN,Undecided
+229,Eastern Florida State College,Public,FL,Hybrid model
+230,Eastern Illinois University,Public,IL,In-person
+231,Eastern Michigan University,Public,MI,In-person
+232,Eastern Nazarene College,Private,MA,In-person
+233,Eastern Washington University,Public,WA,Online
+234,Eckerd College,Private,FL,In-person
+235,Edinboro University,Public ,PA,In-person
+236,Elmhurst College,Private,IL,In-person
+237,Elon University,Private,NC,In-person
+238,Embry-Riddle Aeronautical University,Private,AZ,In-person
+239,Embry-Riddle Aeronautical University,Private,FL,In-person
+240,Emerson College,Private,MA,In-person
+241,Emmanuel College Boston,Private,MA,Considering options
+242,Emory & Henry College,Private,VA,In-person
+243,Emory University,Private,GA,In-person
+244,Emporia State University,Public,KS,In-person
+245,Evangel University,Private,MO,In-person
+246,Evergreen State College,Public,WA,Hybrid model
+247,Evergreen Valley College,Public,CA,Online
+248,Fairfield University,Private,CT,In-person
+249,Fairleigh Dickinson University,Private,NJ,Hybrid model
+250,Fairmont State University,Public,WV,In-person
+251,Faith Baptist Bible College,Private,IA,In-person
+252,Ferris State University,Public,MI,In-person
+253,Ferrum College,Private,VA,In-person
+254,Finlandia University,Private,MI,In-person
+255,Fisher College,Private,MA,Undecided
+256,Florida Institute of Technology,Private,FL,In-person
+257,Florida Southern College,Private,FL,In-person
+258,Florida State University,Public,FL,In-person
+259,Foothill College,Public,CA,Online
+260,Fordham University,Private,NY,In-person
+261,Fort Lewis College,Public,CO,In-person
+262,Francis Marion University,Public,SC,In-person
+263,Franciscan University of Steubenville,Private,OH,In-person
+264,Franklin and Marshall College,Private,PA,Considering options
+265,Franklin College,Private,IN,In-person
+266,Franklin Pierce University,Private,NH,In-person
+267,Fuller Theological Seminary,Private,CA,Online
+268,Fullerton College,Public,CA,Hybrid model
+269,Furman University,Private,SC,In-person
+270,Gallaudet University,Private,DC,Undecided
+271,Gannon University,Private,PA,In-person
+272,Gardner-Webb University,Private,NC,In-person
+273,Geneva College,Private,PA,In-person
+274,George Fox University,Public,OR,In-person
+275,George Mason University,Public,VA,In-person
+276,George Washington University,Private,DC,In-person
+277,Georgetown University,Private,DC,Hybrid model
+278,Gettysburg College,Private,PA,Undecided
+279,Glendale Community College,Public,CA,Hybrid model
+280,Gonzaga University,Private,WA,In-person
+281,Goshen College,Private,IN,In-person
+282,Goucher College,Private,MD,In-person
+283,Grace College,Private,IN,In-person
+284,Grand Rapids Community College,Public,MI,Hybrid model
+285,Grand Valley State University,Public,MI,In-person
+286,Great Basin College,Public,NV,Hybrid model
+287,Grinnell College,Private,IA,Considering options
+288,Grove City College,Private,PA,In-person
+289,Guiliford College,Private,NC,In-person
+290,Hampden-Sydney College,Private,VA,In-person
+291,Hampshire College,Private,MA,In-person
+292,Hampton University,Private,VA,Undecided
+293,Hanover College,Private,IN,In-person
+294,Harding University,Private,AR,In-person
+295,Harford Community College,Public,MD,Online
+296,Hartnell College,Public,CA,Online
+297,Harvard University,Private,MA,Considering options
+298,Harvey Mudd College,Private,CA,Considering options
+299,Hastings College,Private,NE,In-person
+300,Haverford College,Private,PA,In-person
+301,Hawaii Pacific University,Private,HI,In-person
+302,Heidelberg University,Private,OH,In-person
+303,Hendrix College,Private,AR,In-person
+304,High Point University,Private,NC,In-person
+305,Highline College,Public,WA,Hybrid model
+306,Hilbert College,Private,NY,In-person
+307,Hillsdale College,Private,MI,In-person
+308,Hinds Community College,Public,MS,In-person
+309,Hiram College,Private,OH,In-person
+310,Hobart and WIlliam Smith Colleges,Private,NY,In-person
+311,Hodges University,Private,FL,In-person
+312,Hofstra University,Private,NY,Considering options
+313,Hofstra University,Private,NY,In-person
+314,Hollins University,Private,VA,In-person
+315,Holy Cross College,Private,IN,In-person
+316,Hood College,Private,MD,Undecided
+317,Hope College,Private,MI,In-person
+318,Hope International University,Private,CA,In-person
+319,Howard University,Private,DC,In-person
+320,Hudson County Community College,Public,NJ,Online
+321,Hult International Business School,Private,MA,Considering options
+322,Huntingdon College,Private,AL,In-person
+323,Husson University,Private,ME,In-person
+324,Iliff School of Theology,Private,CO,Online
+325,Illinois College,Private,IL,In-person
+326,Illinois Institute of Technology,Private,IL,In-person
+327,Illinois State University,Public,IL,In-person
+328,Immaculata University,Private,PA,In-person
+329,Indiana State University,Public,IN,In-person
+330,Indiana University,Public,IN,Hybrid model
+331,Indiana University of Pennsylvania,Public,PA,Hybrid model
+332,Iona College,Private,NY,Hybrid model
+333,Iowa State University,Public,IA,Hybrid model
+334,Ithaca College,Private,NY,In-person
+335,Ivy Tech Community College,Public,IN,In-person
+336,Jacksonville State University,Public,AL,In-person
+337,Jacksonville University,Private,FL,Considering options
+338,James Madison University,Public,VA,In-person
+339,John Brown University,Private,AR,Hybrid model
+340,John Carroll University,Private,OH,Hybrid model
+341,Johns Hopkins University,Private,MD,Considering options
+342,Johnson University — Florida,Private,FL,In-person
+343,Johnson University — Tennessee,Private,TN,In-person
+344,Judson University,Private,IL,In-person
+345,Juniata College,Private,PA,In-person
+346,Kalamazoo College,Private,MI,Undecided
+347,Kansas City Art Institute,Private,MO,In-person
+348,Kansas State University,Public,KS,In-person
+349,Kean University,Public,NJ,Undecided
+350,Kent State University,Public,OH,Hybrid model
+351,Kenyon College,Private,OH,In-person
+352,Keuka College,Private,NY,In-person
+353,King's College,Private,PA,In-person
+354,Knox College,Private,IL,In-person
+355,La Roche University,Private,PA,In-person
+356,La Salle University,Private,PA,In-person
+357,Lafayette College,Private,PA,Undecided
+358,LaGrange College,Private,GA,In-person
+359,Laguna College of Art and Design,Private,CA,In-person
+360,Lake Superior State University,Public,MI,In-person
+361,Lakeland University,Private,WI,In-person
+362,Lander University,Public,SC,In-person
+363,Laney College,Public,CA,Online
+364,Lansing Community College,Public,MI,Hybrid model
+365,Lawrence Technological University,Private,MI,Undecided
+366,Lawrence University,Private,WI,Considering options
+367,LDS Business College,Private,UT,Hybrid model
+368,Lee University,Private,TN,In-person
+369,Lehigh University,Private,PA,In-person
+370,LeTourneau University,Private,TX,In-person
+371,Lewis and Clark College,Private,OR,In-person
+372,Lewis College,Private,IL,In-person
+373,Lewis University,Private,IL,In-person
+374,Lewis-Clark State College,Public,ID,In-person
+375,Liberty University,Private ,VA,In-person
+376,Life Pacific University,Private,CA,In-person
+377,Limestone College,Private,SC,In-person
+378,Lincoln University (Pa.),Public,PA,In-person
+379,Lindenwood University,Private,MO,In-person
+380,Linfield College,Private,OR,In-person
+381,Lipscomb,Private,TN,In-person
+382,Lone Star College,Public,TX,Hybrid model
+383,Longwood University,Public,VA,In-person
+384,Loras College,Private,IA,In-person
+385,Los Angeles Community College District — all campuses,Public,CA,Link
+386,​Los Angeles Community College District — East Los Angeles College,Public,CA,Online
+387,Los Angeles Community College District — Los Angeles City College,Public,CA,Online
+388,Los Angeles Community College District — ​Los Angeles Harbor College,Public,CA,Online
+389,​Los Angeles Community College District — Los Angeles Mission College,Public,CA,Online
+390,Los Angeles Community College District — Los Angeles Pierce College,Public,CA,Online
+391,Los Angeles Community College District — Los Angeles ​Southwest College,Public,CA,Online
+392,Los Angeles Community College District — ​Los Angeles Trade-Tech College,Public,CA,Online
+393,Los Angeles Community College District — ​Los Angeles Valley College,Public,CA,Online
+394,Los Angeles Community College District — West Los Angeles College,Public,CA,Online
+395,Louisana State University,Public,LA,In-person
+396,Louisiana College,Private,LA,In-person
+397,Loyola Marymount University,Private,CA,In-person
+398,Loyola University Chicago,Private,IL,Considering options
+399,Loyola University Maryland,Private,MD,In-person
+400,Loyola University New Orleans,Private,LA,Hybrid model
+401,Lubbock Christian University,Private,TX,In-person
+402,Luther College,Private,IA,In-person
+403,Lycoming College,Private,PA,In-person
+404,Lynn University,Private,FL,In-person
+405,Lyon College,Private,AR,In-person
+406,Macalester College,Private,MN,In-person
+407,Manhattan College,Private,NY,In-person
+408,Manhattanville College,Private,NY,In-person
+409,Mansfield University,Public,PA,In-person
+410,Marietta College,Private,OH,In-person
+411,Marquette University,Private,WI,In-person
+412,Marshall University,Public,WV,In-person
+413,Mary Baldwin University,Private,VA,In-person
+414,Marymount Manhattan College,Private,NY,In-person
+415,Marymount University,Private,VA,Hybrid model
+416,Maryville College,Private,TN,In-person
+417,Massachusetts College of Pharmacy and Health Sciences,Private,MA,Considering options
+418,Massachusetts Institute of Technology,Private,MA,Undecided
+419,Master's University,Private,CA,In-person
+420,McDaniel College,Private,MD,Undecided
+421,McMurry University,Private,TX,In-person
+422,Mendocino College,Public,CA,Online
+423,Menlo College,Private,CA,In-person
+424,Mercer University,Private,GA,Considering options
+425,Mercyhurst University,Private,PA,In-person
+426,Merrimack College,Private,MA,In-person
+427,Merritt College,Public,CA,Online
+428,Messiah College,Private,PA,In-person
+429,Metropolitan State University,Public,CO,Hybrid model
+430,Miami Dade College,Public,FL,Undecided
+431,Miami University,Public,OH,In-person
+432,Michigan State University,Public,MI,In-person
+433,Michigan Technological University,Public,MI,In-person
+434,Mid-America Christian University,Private,OK,In-person
+435,Mid-Atlantic Christian University,Private,NC,In-person
+436,Middle Tennessee State University,Public,TN,In-person
+437,Middlebury College,Private,VT,Undecided
+438,Midlands University,Private,NE,In-person
+439,Midwestern State University,Public,TX,In-person
+440,Millikin University,Private,IL,In-person
+441,Millsaps College,Private,MS,In-person
+442,Milwaukee School of Engineering,Private,WI,In-person
+443,Minnesota State University at Mankato,Public,MN,In-person
+444,Minnesota State University at Moorhead,Public,MN,Considering options
+445,MiraCosta College,Public,CA,Online
+446,Mission College,Public,CA,Hybrid model
+447,Mississippi College,Private,MS,In-person
+448,Mississippi Public Universities,Public,MS,Link
+449,Mississippi Public Universities — Alcorn State University,Public,MS,In-person
+450,Mississippi Public Universities — Delta State University,Public,MS,In-person
+451,Mississippi Public Universities — Jackson State University,Public,MS,In-person
+452,Mississippi Public Universities — Mississippi State University,Public,MS,In-person
+453,Mississippi Public Universities — Mississippi University for Women,Public,MS,In-person
+454,Mississippi Public Universities — Mississippi Valley State University,Public,MS,In-person
+455,Mississippi Public Universities — University of Mississippi,Public,MS,In-person
+456,Mississippi Public Universities — University of Southern Mississippi,Public,MS,In-person
+457,Missouri Southern State University,Public,MO,In-person
+458,Missouri State University,Public,MO,In-person
+459,Missouri University of Science and Technology,Public,MO,In-person
+460,Missouri Western State University,Public,MO,In-person
+461,Montana State University,Public,MT,In-person
+462,Montana Technological University,Public,MT,In-person
+463,Montclair State University,Public,NJ,Considering options
+464,Montgomery College,Public,MD,Hybrid model
+465,Moravian College,Private,PA,In-person
+466,Morehead State University,Public,KY,In-person
+467,Morgan State University,Public,MD,Considering options
+468,Morningside College,Private,IA,In-person
+469,Mount Holyoke,Private,MA,Hybrid model
+470,Mount St. Joseph University,Private,OH,Considering options
+471,Mount St. Mary's University,Private,MD,In-person
+472,Mount Union University,Private,OH,In-person
+473,Murray State University,Public,KY,In-person
+474,Nazareth College,Private,NY,In-person
+475,Nebraska State College System,Public,NE,Link
+476,Nebraska State College System – Chadron State College,Public,NE,In-person
+477,Nebraska State College System – Peru State College,Public,NE,In-person
+478,Nebraska State College System – Wayne State College,Public,NE,In-person
+479,Nebraska Wesleyan University,Private,NE,In-person
+480,New College of Florida,Public,FL,Considering options
+481,New England College,Private,NH,In-person
+482,New England Conservatory,Private,MA,In-person
+483,New Jersey Institute of Technology,Public,NJ,In-person
+484,New Mexico State University,Public,NM,Hybrid model
+485,New York Film Academy,Private,NY,In-person
+486,New York Institute of Technology,Private,NY,Considering options
+487,New York University,Private,NY,Hybrid model
+488,Newberry College,Private,SC,In-person
+489,North Carolina A&T State University,Public,NC,In-person
+490,North Carolina Central University,Public,NC,In-person
+491,North Carolina State University,Public,NC,In-person
+492,North Central College,Private,IL,Considering options
+493,North Dakota University system — all campuses,Public,ND,Link
+494,North Dakota University system — Bismarck State College,Public,ND,In-person
+495,North Dakota University system — Dakota College at Bottineau,Public,ND,In-person
+496,North Dakota University system — Dickinson State University,Public,ND,In-person
+497,North Dakota University system — Lake Region State College,Public,ND,In-person
+498,North Dakota University system — Mayville State University,Public,ND,In-person
+499,North Dakota University system — Minot State University,Public,ND,In-person
+500,North Dakota University system — North Dakota State College of Science,Public,ND,In-person
+501,North Dakota University system — North Dakota State University,Public,ND,In-person
+502,North Dakota University system — University of North Dakota,Public,ND,In-person
+503,North Dakota University system — Valley City State University,Public,ND,In-person
+504,North Dakota University system — Williston State College,Public,ND,In-person
+505,North Park University,Private,IL,In-person
+506,Northeastern University,Private,MA,In-person
+507,Northern Arizona University,Public,AZ,In-person
+508,Northern Illinois University,Public,IL,Undecided
+509,Northern Illinois University,Public,IL,Hybrid model
+510,Northern Michigan University,Public,MI,In-person
+511,Northern Vermont University,Public,VT,In-person
+512,Northern Virginia Community College,Public,VA,Online
+513,Northwest Missouri State University,Public,MO,In-person
+514,Northwest Nazarene University,Private,ID,In-person
+515,Northwestern College,Private,IA,In-person
+516,Northwestern University,Private,IL,Hybrid model
+517,Norwich University,Private,VT,In-person
+518,Notre Dame of Maryland University,Private,MD,In-person
+519,Nova Southeastern University,Private,FL,In-person
+520,Oakland City University,Private,IN,In-person
+521,Oakland Community College,Public,MI,Hybrid model
+522,Oakland University,Public,MI,Hybrid model
+523,Oberlin College,Private,OH,In-person
+524,Ohio Dominican University,Private,OH,In-person
+525,Ohio Northern University,Private,OH,In-person
+526,Ohio State University,Public,OH,In-person
+527,Ohio University,Public,OH,In-person
+528,Ohio Wesleyan University,Private,OH,In-person
+529,Oklahoma Panhandle State University,Public,OK,In-person
+530,Oklahoma State University,Public,OK,In-person
+531,Old Dominion University,Public,VA,In-person
+532,Oral Roberts University,Private,OK,In-person
+533,Oregon State University,Public,OR,In-person
+534,Otterbein University,Private,OH,In-person
+535,Ouachita Baptist University,Private,AR,In-person
+536,Pace University,Private,NY,In-person
+537,Pacific Lutheran University,Private,WA,In-person
+538,Pacific Northwest College of Art,Private,OR,In-person
+539,Pacific School of Religion,Private,CA,Hybrid model
+540,Pacific University,Private,OR,In-person
+541,Palm Beach Atlantic University,Private,FL,In-person
+542,Palomar College,Public,CA,Hybrid model
+543,Pennsylvania State University,Public,PA,Undecided
+544,Pepperdine University,Private,CA,In-person
+545,Pittsburg State University,Public,KS,In-person
+546,Pittsburgh Technical College,Private,PA,Hybrid model
+547,Plymouth State University,Public,MA,In-person
+548,Point Loma Nazarene University,Private,CA,In-person
+549,Point Park University,Public,PA,In-person
+550,Pomona College,Private,CA,Undecided
+551,Portland Community College,Public,OR,Online
+552,Portland State University,Public,OR,Undecided
+553,Post University,Private,CT,Hybrid model
+554,Prairie View A&M University,Public,TX,In-person
+555,Pratt Institute,Private,NY,Undecided
+556,Presbyterian College,Private,SC,In-person
+557,Prescott College,Private,AZ,In-person
+558,Princeton University,Private,NJ,Undecided
+559,Providence Christian College,Private,CA,In-person
+560,Purdue University,Public,IN,In-person
+561,Purdue University Fort Wayne,Public,IN,In-person
+562,Queens University of Charlotte,Private,NC,Considering options
+563,Quincy University,Private,IL,In-person
+564,Radford University,Public,VA,In-person
+565,Randolph College,Private,VA,In-person
+566,Randolph-Macon College,Private,VA,In-person
+567,Reed College,Private,OR,Undecided
+568,Reformed Theological Seminary,Private,Multiple,In-person
+569,Regis College,Private,MA,In-person
+570,Regis University,Private,CO,In-person
+571,Rensselaer Polytechnic Institute,Private,NY,Undecided
+572,Rhodes College,Private,TN,In-person
+573,Rice University,Private,TX,Hybrid model
+574,Rider University,Private,NJ,Considering options
+575,Roanoke College,Private,VA,In-person
+576,Robert Morris University,Private,PA,In-person
+577,Rochester Institute of Technology,Private,NY,In-person
+578,Rockhurst University,Private,MO,In-person
+579,Roger Williams University,Private,RI,In-person
+580,Rollins College,Private,FL,In-person
+581,Roosevelt University,Private,IL,Considering options
+582,Rose-Hulman Institute of Technology,Private,IN,In-person
+583,Rosemont College,Private,PA,Considering options
+584,Rowan University,Public,NJ,Considering options
+585,Rutgers University,Public,NJ,Considering options
+586,Sacred Heart University,Private,CT,In-person
+587,Sain Mary's University,Private,TX,In-person
+588,Saint Francis University,Private,PA,In-person
+589,Saint Lawrence University,Private,NY,Considering options
+590,Saint Leo University,Private,FL,Undecided
+591,Saint Mary's College,Private,IN,In-person
+592,Saint Mary's University of Minnesota,Private,MI,In-person
+593,Saint Norbert College,Private,WI,In-person
+594,Samford University,Private,AL,In-person
+595,San Bernardino Valley College,Public,CA,Hybrid model
+596,San Diego Miramar College,Public,CA,Online
+597,San Jacinto College,Public,TX,Undecided
+598,San Jose City College,Public,CA,Online
+599,Santa Clara University,Private,CA,In-person
+600,Santa Monica College,Public,CA,Online
+601,Santa Rosa Junior College,Public,CA,Online
+602,Sarah Lawrence College,Private,NY,Considering options
+603,Savannah College of Art and Design,Private,GA,In-person
+604,School of Visual Arts,Private,NY,In-person
+605,Schreiner University,Private,TX,In-person
+606,Scripps College,Private,CA,Undecided
+607,Seattle University,Private,WA,In-person
+608,Seton Hall University,Private,NJ,In-person
+609,Seton Hill University,Private,PA,In-person
+610,Sewanee: The University of the South,Private,TN,In-person
+611,Shenandoah University,Private,VA,Hybrid model
+612,Shepherd University,Public,WV,Considering options
+613,Siena College,Private,NY,In-person
+614,Siena Heights University,Private,MI,In-person
+615,Sierra College,Public,CA,Online
+616,Simmons University,Private,MA,Hybrid model
+617,Simpson College,Private,IA,In-person
+618,Simpson University,Private,CA,In-person
+619,Skidmore College,Private,NY,Undecided
+620,Skyline College,Public,CA,Online
+621,Slippery Rock University,Public,PA,Considering options
+622,Slippery Rock University,Public,PA,In-person
+623,Smith College,Private,MA,Considering options
+624,Soka University of America,Private,CA,Online
+625,South Dakota Board of Regents,Public,SD,Link
+626,South Dakota Board of Regents — Black Hills State University,Public,SD,In-person
+627,South Dakota Board of Regents — Dakota State University,Public,SD,In-person
+628,South Dakota Board of Regents — Northern State University,Public,SD,In-person
+629,South Dakota Board of Regents — South Dakota School of Mines and Technology,Public,SD,In-person
+630,South Dakota Board of Regents — South Dakota State University,Public,SD,In-person
+631,South Dakota Board of Regents — University of South Dakota,Public,SD,In-person
+632,Southeast Missouri State University,Public,MO,Undecided
+633,Southeastern Oklahoma State University,Public,OK,In-person
+634,Southern Illinois University,Public,IL,Undecided
+635,Southern Methodist University,Private,TX,In-person
+636,Southern Nazarene University,Private,OK,In-person
+637,Southern New Hampshire University,Private,NH,Online
+638,Southern Wesleyan University,Private,SC,In-person
+639,Southwest Baptist University,Private,MO,In-person
+640,Southwest Minnesota State University,Public,MN,In-person
+641,Southwestern Baptist Theological Seminary,Private,TX,In-person
+642,Southwestern Oklahoma State University,Public,OK,In-person
+643,Southwestern University,Private,TX,Hybrid model
+644,Spring Arbor University,Private,MI,In-person
+645,Springfield College,Private,MA,In-person
+646,St. Bonaventure University,Private,NY,Considering options
+647,St. Cloud State University,Public,MN,In-person
+648,St. John Fisher College,Private,NY,In-person
+649,St. John's University,Private,NY,Hybrid model
+650,St. Louis University,Private,MO,In-person
+651,St. Mary’s College of California,Private,CA,In-person
+652,St. Michael's College,Private,VT,In-person
+653,St. Olaf College,Private,MN,Considering options
+654,St. Thomas University,Private,FL,In-person
+655,St. Vincent College,Private,PA,In-person
+656,Stanford University,Private,CA,Hybrid model
+657,Stark State College,Public,OH,In-person
+658,Stephen F. Austin State University,Public,TX,Undecided
+659,Stetson University,Private,FL,In-person
+660,Stevens Institute of Technology,Private,NJ,Considering options
+661,Stockton University,Public,NJ,Undecided
+662,Stony Brook University,Public,NY,Undecided
+663,Suffolk University,Private,MA,Considering options
+664,Susquehanna University,Private,PA,In-person
+665,Swarthmore College,Private,PA,Undecided
+666,Sweet Briar College,Private,VA,In-person
+667,Syracuse University,Private,NY,In-person
+668,Taylor University,Private,IN,In-person
+669,Temple University,Public,PA,Hybrid model
+670,Tennessee State University,Public,TN,In-person
+671,Tennessee Technological University,Public,TN,In-person
+672,Texas A&M University system — all campuses,Public,TX,Link
+673,Texas A&M University system — Central Texas,Public,TX,In-person
+674,Texas A&M University system — Commerce,Public,TX,In-person
+675,Texas A&M University system — Corpus Christi,Public,TX,In-person
+676,Texas A&M University system — International University,Public,TX,In-person
+677,Texas A&M University system — Kingsville,Public,TX,In-person
+678,Texas A&M University system — Prairie View A&M University ,Public,TX,In-person
+679,Texas A&M University system — San Antonio,Public,TX,In-person
+680,Texas A&M University system — Tarleton State University,Public,TX,In-person
+681,Texas A&M University system — Texarkana,Public,TX,In-person
+682,Texas A&M University system — Texas A&M University ,Public,TX,In-person
+683,Texas A&M University system — West Texas A & M University ,Public,TX,In-person
+684,Texas Christian University,Private,TX,In-person
+685,Texas State University system,Public,TX,Link
+686,Texas State University system — Lamar Institute of Technology,Public,TX,In-person
+687,Texas State University system — Lamar State College Orange,Public,TX,In-person
+688,Texas State University system — Lamar State College Port Arthur,Public,TX,In-person
+689,Texas State University system — Lamar University,Public,TX,In-person
+690,Texas State University system — Sam Houston State University,Public,TX,In-person
+691,Texas State University system — Sul Ross State University,Public,TX,In-person
+692,Texas State University system — Texas State University,Public,TX,In-person
+693,Texas Tech University,Public,TX,In-person
+694,Texas Wesleyan University,Private,TX,In-person
+695,Texas Woman's University,Public,TX,In-person
+696,The Baptist College of Florida,Private,FL,In-person
+697,The New School,Private,NY,Considering options
+698,Thiel College,Private,PA,In-person
+699,Thomas Jefferson University,Private,PA,In-person
+700,Transylvania University,Private,KY,Undecided
+701,Trevecca Nazarene University,Private,TN,In-person
+702,Trine University,Private,IN,In-person
+703,Trinity College,Private,IL,In-person
+704,Trinity University,Private,TX,In-person
+705,Trinity Washington University,Private,DC,Hybrid model
+706,Troy University,Public,AL,In-person
+707,Tufts University,Private,MA,Considering options
+708,Tulane University,Private,LA,In-person
+709,Tulsa Community College,Public,OK,In-person
+710,Union College,Private,NY,In-person
+711,Union University,Private,TN,In-person
+712,Universitty of Texas at El Paso,Public,TX,Considering options
+713,University of Akron,Public,OH,In-person
+714,University of Alabama — all system campuses,Public,AL,Link
+715,University of Alabama at Birmingham,Public,AL,In-person
+716,University of Alabama at Huntsville,Public,AL,In-person
+717,University of Alabama at Tuscaloosa,Public,AL,In-person
+718,"University of Alaska, Anchorage",Public,AK,Hybrid model
+719,University of Arizona,Public,AZ,In-person
+720,University of Arkansas — all system campuses,Public,AR,Link
+721,University of Arkansas at Fayetteville,Public,AR,In-person
+722,University of Arkansas at Fort Smith,Public,AR,In-person
+723,University of Arkansas at Little Rock,Public,AR,In-person
+724,University of Bridgeport,Private,CT,In-person
+725,University of Buffalo,Public,NY,Considering options
+726,University of California at Berkeley,Public,CA,Hybrid model
+727,University of California at Davis,Public,CA,Hybrid model
+728,University of California at Irvine,Public,CA,Online
+729,University of California at Los Angeles,Public,CA,Hybrid model
+730,University of California at Riverside,Public,CA,Undecided
+731,University of California at San Diego,Public,CA,Hybrid model
+732,University of California at Santa Barbara,Public,CA,Considering options
+733,University of California at Santa Cruz,Public,CA,Considering options
+734,University of Central Arkansas,Public,AR,In-person
+735,University of Central Florida,Public,FL,In-person
+736,University of Central Missouri,Public,MO,In-person
+737,University of Central Oklahoma,Public,OK,In-person
+738,University of Charleston,Private,WV,In-person
+739,University of Chicago,Private,IL,Undecided
+740,University of Cincinnati,Public,OH,Undecided
+741,University of Colorado at Boulder,Public,CO,Hybrid model
+742,University of Colorado at Denver,Public,CO,Hybrid model
+743,University of Connecticut,Public,CT,Considering options
+744,University of Dallas,Private,TX,In-person
+745,University of Dayton,Private,OH,In-person
+746,University of Delaware,Public,DE,In-person
+747,University of Denver,Private,CO,In-person
+748,University of Detroit Mercy,Private,MI,Hybrid model
+749,University of Evansville,Private,IN,In-person
+750,University of Findlay,Private,OH,In-person
+751,University of Florida,Public,FL,In-person
+752,University of Hartford,Private,CT,In-person
+753,University of Hawaii,Public,HI,In-person
+754,University of Houston,Public,TX,Considering options
+755,University of Idaho,Public,ID,In-person
+756,University of Illinois at Chicago,Public,IL,Hybrid model
+757,University of Illinois at Springfield,Public,IL,In-person
+758,University of Illinois at Urbana-Champaign,Public,IL,In-person
+759,University of Indianapolis,Private,IN,In-person
+760,University of Iowa,Public,IA,In-person
+761,University of Kansas,Public,KS,In-person
+762,University of Kentucky,Public,KY,In-person
+763,University of La Verne,Private,CA,In-person
+764,University of Louisiana system,Public,LA,Link
+765,University of Louisiana system — Grambling State University,Public,LA,In-person
+766,University of Louisiana system — Louisiana Tech University,Public,LA,In-person
+767,University of Louisiana system — McNeese State University,Public,LA,In-person
+768,University of Louisiana system — Nicholls State University,Public,LA,In-person
+769,University of Louisiana system — Northwestern State University,Public,LA,In-person
+770,University of Louisiana system — Southeastern Louisiana University,Public,LA,In-person
+771,University of Louisiana system — University of Louisiana at Lafayette,Public,LA,In-person
+772,University of Louisiana system — University of Louisiana at Monroe,Public,LA,In-person
+773,University of Louisiana system — University of New Orleans,Public,LA,In-person
+774,University of Louisville,Public,KY,Considering options
+775,University of Lynchburg,Private,VA,In-person
+776,University of Maine –- Machias,Public,ME,In-person
+777,University of Maine — all system campuses,Public,ME,Link
+778,University of Maine — Augusta,Public,ME,In-person
+779,University of Maine — Farmington,Public,ME,In-person
+780,University of Maine — Fort Kent,Public,ME,In-person
+781,University of Maine — Presque Isle,Public,ME,In-person
+782,University of Maine — University of Southern Maine,Public,ME,In-person
+783,University of Mary,Private,ND,In-person
+784,University of Mary Hardin-Baylor,Private,TX,In-person
+785,University of Mary Washington,Public,VA,In-person
+786,University of Massachusets Amherst,Public,MA,Undecided
+787,University of Massachusetts at Boston,Public,MA,Undecided
+788,University of Massachusetts at Dartmouth,Public,MA,Undecided
+789,University of Memphis,Public,TN,In-person
+790,University of Miami,Private,FL,In-person
+791,University of Michigan at Ann Arbor,Public,MI,In-person
+792,University of Michigan at Dearborn,Public,MI,In-person
+793,University of Michigan at Flint,Public,MI,In-person
+794,University of Minnesota,Public,MN,In-person
+795,University of Missouri,Public,MO,In-person
+796,University of Missouri at Kansas City,Public,MO,In-person
+797,University of Missouri at Kansas City,Public,MO,In-person
+798,University of Mobile,Private,AL,In-person
+799,University of Montana,Public,MT,In-person
+800,University of Montevallo,Public,AL,In-person
+801,University of Nebraska — all system campuses,Public,NE,Link
+802,University of Nebraska — Kearney,Public,NE,In-person
+803,University of Nebraska — Lincoln,Public,NE,In-person
+804,University of Nebraska — Omaha,Public,NE,In-person
+805,"University of Nevada, Las Vegas",Public,NV,Hybrid model
+806,"University of Nevada, Reno",Public,NV,In-person
+807,University of New England,Private,ME,In-person
+808,University of New Hampshire,Public,NH,In-person
+809,University of New Haven,Private,CT,Considering options
+810,University of New Mexico,Public,NM,Hybrid model
+811,University of North Carolina at Asheville,Public,NC,In-person
+812,University of North Carolina at Chapel Hill,Public,NC,In-person
+813,University of North Carolina at Charlotte,Public,NC,In-person
+814,University of North Carolina at Greensboro,Public,NC,In-person
+815,University of North Carolina at Pembroke,Public,NC,In-person
+816,University of North Carolina School of the Arts,Public,NC,In-person
+817,University of North Texas,Public,TX,In-person
+818,University of Northern Colorado,Public,CO,In-person
+819,University of Northern Iowa,Public,IA,Hybrid model
+820,University of Northwestern – St. Paul,Private,MN,In-person
+821,University of Noth Alabama,Public,AL,In-person
+822,University of Notre Dame,Private,IN,In-person
+823,University of Oklahoma,Public,OK,In-person
+824,University of Oregon,Public,OR,In-person
+825,University of Pennsylvania,Private,PA,Considering options
+826,University of Pittsburgh,Public,PA,Considering options
+827,University of Pittsburgh,Pubic,PA,In-person
+828,University of Portland,Private,OR,In-person
+829,University of Puget Sound,Private,WA,In-person
+830,University of Redlands,Private,CA,Considering options
+831,University of Richmond,Private,VA,Considering options
+832,University of Rochester,Private,NY,Considering options
+833,University of Saint Francis,Private,IN,In-person
+834,University of San Diego,Private,CA,Hybrid model
+835,University of San Francisco,Private,CA,In-person
+836,University of Scranton,Private,PA,In-person
+837,University of South Alabama,Public,AL,Hybrid model
+838,University of South Carolina,Public,SC,In-person
+839,University of South Florida	,Public,FL,In-person
+840,University of Southern California,Private,CA,Hybrid model
+841,University of Tampa,Private,FL,In-person
+842,University of Tennessee system,Public,TN,Link
+843,University of Tennessee system — Chattanooga,Public,TN,In-person
+844,University of Tennessee system — Knoxville,Public,TN,In-person
+845,University of Tennessee system — Martin,Public,TN,In-person
+846,University of Texas at Arlington,Public,TX,Hybrid model
+847,University of Texas at Austin,Public,TX,In-person
+848,University of Texas at Dallas,Public,TX,Considering options
+849,University of Texas at San Antonio,Public,TX,Considering options
+850,University of the Cumberlands,Private,KY,In-person
+851,University of the Pacific,Private,CA,Hybrid model
+852,University of Toledo,Public,OH,In-person
+853,University of Tulsa,Private,OK,Hybrid model
+854,University of Vermont,Public,VT,In-person
+855,University of Virginia,Public,VA,In-person
+856,University of Washington,Public,WA,In-person
+857,University of West Alabama,Public,AL,In-person
+858,University of Wisconsin at Eau Claire,Public,WI,In-person
+859,University of Wisconsin at Green Bay,Public,WI,In-person
+860,University of Wisconsin at Madison,Public,WI,Considering options
+861,University of Wisconsin at Milwaukee,Public,WI,Considering options
+862,University of Wisconsin at River Falls,Public,WI,In-person
+863,University of Wisconsin-Stout,Public,WI,In-person
+864,University of Wyoming,Public,WY,In-person
+865,University System of Georgia,Public,GA,Link
+866,University System of Georgia — Abraham Baldwin Agricultural College,Public,GA,In-person
+867,University System of Georgia — Albany State University,Public,GA,In-person
+868,University System of Georgia — Atlanta Metropolitan State College,Public,GA,In-person
+869,University System of Georgia — Augusta University,Public,GA,In-person
+870,University System of Georgia — Clayton State University,Public,GA,In-person
+871,University System of Georgia — College of Coastal Georgia,Public,GA,In-person
+872,University System of Georgia — Columbus State University,Public,GA,In-person
+873,University System of Georgia — Dalton State College,Public,GA,In-person
+874,University System of Georgia — East Georgia State College,Public,GA,In-person
+875,University System of Georgia — Fort Valley State University,Public,GA,In-person
+876,University System of Georgia — Georgia Gwinnett College,Public,GA,In-person
+877,University System of Georgia — Georgia Highlands College,Public,GA,In-person
+878,University System of Georgia — Georgia Institute of Technology,Public,GA,In-person
+879,University System of Georgia — Georgia Southern University,Public,GA,In-person
+880,University System of Georgia — Georgia Southwestern State University,Public,GA,In-person
+881,University System of Georgia — Georgia State University,Public,GA,Hybrid model
+882,University System of Georgia — Gordon State College,Public,GA,In-person
+883,University System of Georgia — Kennesaw State University,Public,GA,In-person
+884,University System of Georgia — Middle Georgia State University,Public,GA,In-person
+885,University System of Georgia — Savannah State University,Public,GA,In-person
+886,University System of Georgia — South Georgia State College,Public,GA,In-person
+887,University System of Georgia — University of Georgia,Public,GA,In-person
+888,University System of Georgia — University of North Georgia,Public,GA,In-person
+889,University System of Georgia — University of West Georgia,Public,GA,In-person
+890,University System of Georgia — Valdosta State University,Public,GA,In-person
+891,University System of Maryland,Public,MD,Link
+892,University System of Maryland — Bowie State University,Public,MD,Hybrid model
+893,University System of Maryland — Coppin State University,Public,MD,Hybrid model
+894,University System of Maryland — Frostburg State University,Public,MD,Hybrid model
+895,University System of Maryland — Salisbury University,Public,MD,Hybrid model
+896,University System of Maryland — Towson University,Public,MD,Hybrid model
+897,University System of Maryland — University of Baltimore,Public,MD,Hybrid model
+898,University System of Maryland — University of Maryland at College Park,Public,MD,Hybrid model
+899,"University System of Maryland — University of Maryland, Baltimore County",Public,MD,Hybrid model
+900,"University System of Maryland — University of Maryland, Eastern Shore",Public,MD,Hybrid model
+901,Ursinus College,Private,PA,Undecided
+902,Utah System of Higher Education — all campuses,Public,UT,Link
+903,Utah System of Higher Education — Dixie State University,Public,UT,In-person
+904,Utah System of Higher Education — Salt Lake Community College,Public,UT,In-person
+905,Utah System of Higher Education — Snow College,Public,UT,In-person
+906,Utah System of Higher Education — Southern Utah University,Public,UT,In-person
+907,Utah System of Higher Education — University of Utah,Public,UT,In-person
+908,Utah System of Higher Education — Utah State University,Public,UT,In-person
+909,Utah System of Higher Education — Utah Valley University,Public,UT,In-person
+910,Utah System of Higher Education — Weber State University,Public,UT,In-person
+911,Valencia College,Public,FL,Online
+912,Valparaiso University,Private,IN,In-person
+913,Vanderbilt University,Private,TN,Hybrid model
+914,Vanguard University,Private,CA,In-person
+915,Vassar College,Private,NY,Undecided
+916,Vermont Technical College,Public,VT,In-person
+917,Villanova University,Private,PA,Undecided
+918,Virginia Commonwealth University,Public,VA,In-person
+919,Virginia Commonwealth University,Public,VA,In-person
+920,Virginia Tech,Public,VA,Hybrid model
+921,Virginia Wesleyan University,Private,VA,In-person
+922,Wabash College,Private,IN,In-person
+923,Wake Forest University,Private,NC,In-person
+924,Walsh University,Private,OH,Considering options
+925,Warren Wilson College,Private,NC,In-person
+926,Washburn University,Public,KS,In-person
+927,Washington and Jefferson College,Private,PA,Considering options
+928,Washington College,Private,MD,In-person
+929,Washington State University,Public,WA,In-person
+930,Washington University in St. Louis,Private,MO,In-person
+931,Washtenaw Community College,Public,MI,Hybrid model
+932,Wayland Baptist University,Private,TX,In-person
+933,Wayne State University,Public,MI,Online
+934,Waynesburg University,Private,PA,In-person
+935,Webster University,Private,MO,In-person
+936,Wellesley College,Private,MA,Undecided
+937,Wentworth Institute of Technology,Private,MA,Considering options
+938,Wesley College,Private,DE,Considering options
+939,West Chester University,Public,PA,Undecided
+940,West Liberty University,Public,WV,In-person
+941,West Valley College,Public,CA,Online
+942,West Virginia University,Public,WV,In-person
+943,West Virginia Wesleyan College,Private,WV,In-person
+944,Western Colorado University,Public,CO,In-person
+945,Western Connecticut State University,Public,CT,Hybrid model
+946,Western Michigan University,Public,MI,In-person
+947,Western Nevada College,Public,NV,Considering options
+948,Western New England University,Private,MA,In-person
+949,Western Washington University,Public,WA,Hybrid model
+950,Westminster College,Private,MO,In-person
+951,Westminster College (Penn.),Private,PA,In-person
+952,Westminster College (Utah),Private,UT,In-person
+953,Wheaton College (Ill.),Private ,IL,In-person
+954,Wheaton College (Mass.),Private,MA,In-person
+955,Whitworth University,Private,WA,In-person
+956,Wichita State University,Public,KS,Hybrid model
+957,Widener University,Private,PA,Considering options
+958,Wilkes University,Private,PA,In-person
+959,Wilkes University,Private,PA,In-person
+960,Willamette University,Private,OR,In-person
+961,William Jessup University,Private,CA,In-person
+962,William Jewell College,Private,MO,In-person
+963,Williams Baptist University,Private,AR,In-person
+964,Williams College,Private,MA,Undecided
+965,Winona State University,Public,MN,Undecided
+966,Winston-Salem State University,Public,NC,In-person
+967,Winthrop University,Public,SC,In-person
+968,Wittenberg University,Private,OH,In-person
+969,Wofford College,Private,SC,Undecided
+970,Worcester Polytechnic Institute,Private,MA,Undecided
+971,Worcester State University,Public,MA,Considering options
+972,Wright State Unviersity,Public,OH,Undecided
+973,Xavier University,Private,OH,In-person
+974,Xavier University of Louisiana,Private,LA,Hybrid model
+975,Yale University,Private,CT,Undecided
+976,Yeshiva University,Private,NY,Considering options
+977,York College,Public,NY,In-person
+978,York College of Pennsylvania,Private,PA,In-person
+979,Youngstown State University,Public,OH,In-person

@@ -1,0 +1,155 @@
+,index,AR,Location,Price,SAT,Unnamed: 0,Institution,Control,State,Category,Institution_stripped
+0,0,7% Acceptance Rate,"Cambridge, MA ","$22,230 Net Price",1490-1570 SAT Range,418.0,Massachusetts Institute of Technology,Private,MA,Undecided,massachusettsinstituteoftechnology
+1,1,5% Acceptance Rate,"Stanford, CA ","$16,562 Net Price",1390-1540 SAT Range,656.0,Stanford University,Private,CA,Hybrid model,stanforduniversity
+2,2,5% Acceptance Rate,"Cambridge, MA ","$17,030 Net Price",1460-1590 SAT Range,297.0,Harvard University,Private,MA,Considering options,harvarduniversity
+3,3,7% Acceptance Rate,"New Haven, CT ","$18,053 Net Price",1460-1580 SAT Range,975.0,Yale University,Private,CT,Undecided,yaleuniversity
+4,4,6% Acceptance Rate,"Princeton, NJ ","$16,302 Net Price",1430-1570 SAT Range,558.0,Princeton University,Private,NJ,Undecided,princetonuniversity
+5,5,9% Acceptance Rate,"Philadelphia, PA ","$24,539 Net Price",1420-1560 SAT Range,825.0,University of Pennsylvania,Private,PA,Considering options,universityofpennsylvania
+6,6,7% Acceptance Rate,"New York, NY ","$22,824 Net Price",1410-1570 SAT Range,177.0,Columbia University,Private,NY,Considering options,columbiauniversity
+7,7,10% Acceptance Rate,"Durham, NC ","$22,011 Net Price",1380-1540 SAT Range,223.0,Duke University,Private,NC,Considering options,dukeuniversity
+8,7,10% Acceptance Rate,"Durham, NC ","$22,011 Net Price",1380-1540 SAT Range,224.0,Duke University,Private,NC,In-person,dukeuniversity
+9,8,8% Acceptance Rate,"Providence, RI ","$25,651 Net Price",1400-1570 SAT Range,75.0,Brown University,Private,RI,Considering options,brownuniversity
+10,9,8% Acceptance Rate,"Pasadena, CA ","$24,466 Net Price",1530-1590 SAT Range,,,,,,
+11,10,16% Acceptance Rate,"Saint Louis, MO ","$27,777 Net Price",1470-1570 SAT Range,930.0,Washington University in St. Louis,Private,MO,In-person,washingtonuniversityinst.louis
+12,11,16% Acceptance Rate,"Houston, TX ","$24,131 Net Price",1490-1580 SAT Range,573.0,Rice University,Private,TX,Hybrid model,riceuniversity
+13,12,19% Acceptance Rate,"Notre Dame, IN ","$27,453 Net Price",1370-1520 SAT Range,822.0,University of Notre Dame,Private,IN,In-person,universityofnotredame
+14,13,9% Acceptance Rate,"Evanston, IL ","$26,099 Net Price",1420-1560 SAT Range,516.0,Northwestern University,Private,IL,Hybrid model,northwesternuniversity
+15,14,8% Acceptance Rate,"Chicago, IL ","$34,834 Net Price",1480-1580 SAT Range,739.0,University of Chicago,Private,IL,Undecided,universityofchicago
+16,15,8% Acceptance Rate,"Claremont, CA ","$18,427 Net Price",1370-1530 SAT Range,550.0,Pomona College,Private,CA,Undecided,pomonacollege
+17,16,14% Acceptance Rate,"Brunswick, ME ","$24,447 Net Price",1360-1510 SAT Range,69.0,Bowdoin College,Private,ME,Undecided,bowdoincollege
+18,17,11% Acceptance Rate,"Nashville, TN ","$23,295 Net Price",1440-1570 SAT Range,913.0,Vanderbilt University,Private,TN,Hybrid model,vanderbiltuniversity
+19,18,10% Acceptance Rate,"Hanover, NH ","$22,303 Net Price",1430-1560 SAT Range,204.0,Dartmouth College,Private,NH,Considering options,dartmouthcollege
+20,19,17% Acceptance Rate,"Los Angeles, CA ","$32,892 Net Price",1300-1500 SAT Range,840.0,University of Southern California,Private,CA,Hybrid model,universityofsoutherncalifornia
+21,20,13% Acceptance Rate,"Ithaca, NY ","$31,449 Net Price",1390-1550 SAT Range,190.0,Cornell University,Private,NY,Undecided,cornelluniversity
+22,21,16% Acceptance Rate,"Washington, DC ","$27,420 Net Price",1350-1520 SAT Range,277.0,Georgetown University,Private,DC,Hybrid model,georgetownuniversity
+23,22,27% Acceptance Rate,"Ann Arbor, MI ","$16,408 Net Price",1330-1500 SAT Range,791.0,University of Michigan at Ann Arbor,Public,MI,In-person,universityofmichiganatannarbor
+24,23,13% Acceptance Rate,"Amherst, MA ","$19,519 Net Price",1400-1560 SAT Range,11.0,Amherst College,Private,MA,Undecided,amherstcollege
+25,24,15% Acceptance Rate,"Medford, MA ","$29,449 Net Price",1410-1540 SAT Range,707.0,Tufts University,Private,MA,Considering options,tuftsuniversity
+26,25,13% Acceptance Rate,"Baltimore, MD ","$29,066 Net Price",1450-1570 SAT Range,341.0,Johns Hopkins University,Private,MD,Considering options,johnshopkinsuniversity
+27,26,22% Acceptance Rate,"Atlanta, GA ","$26,867 Net Price",1350-1520 SAT Range,243.0,Emory University,Private,GA,In-person,emoryuniversity
+28,27,27% Acceptance Rate,"Charlottesville, VA ","$16,594 Net Price",1310-1500 SAT Range,855.0,University of Virginia,Public,VA,In-person,universityofvirginia
+29,28,16% Acceptance Rate,"Los Angeles, CA ","$14,760 Net Price",1220-1450 SAT Range,729.0,University of California at Los Angeles,Public,CA,Hybrid model,universityofcaliforniaatlosangeles
+30,29,11% Acceptance Rate,"Swarthmore, PA ","$20,444 Net Price",1380-1540 SAT Range,665.0,Swarthmore College,Private,PA,Undecided,swarthmorecollege
+31,30,10% Acceptance Rate,"West Point, NY ",— Net Price,1180-1400 SAT Range,,,,,,
+32,31,17% Acceptance Rate,"Middlebury, VT ","$22,841 Net Price",1320-1510 SAT Range,437.0,Middlebury College,Private,VT,Undecided,middleburycollege
+33,32,22% Acceptance Rate,"Pittsburgh, PA ","$29,817 Net Price",1430-1560 SAT Range,122.0,Carnegie Mellon University,Private,PA,Hybrid model,carnegiemellonuniversity
+34,33,15% Acceptance Rate,"New York, NY ","$23,736 Net Price",1310-1500 SAT Range,40.0,Barnard College,Private,NY,Considering options,barnardcollege
+35,34,21% Acceptance Rate,"Northfield, MN ","$28,148 Net Price",1360-1530 SAT Range,120.0,Carleton College,Private,MN,Considering options,carletoncollege
+36,35,22% Acceptance Rate,"Lexington, VA ","$25,029 Net Price",1350-1490 SAT Range,,,,,,
+37,36,17% Acceptance Rate,"Berkeley, CA ","$18,178 Net Price",1260-1480 SAT Range,726.0,University of California at Berkeley,Public,CA,Hybrid model,universityofcaliforniaatberkeley
+38,37,23% Acceptance Rate,"Atlanta, GA ","$15,873 Net Price",1090-1520 SAT Range,,,,,,
+39,38,28% Acceptance Rate,"Wellesley, MA ","$20,189 Net Price",1360-1530 SAT Range,936.0,Wellesley College,Private,MA,Undecided,wellesleycollege
+40,39,20% Acceptance Rate,"Haverford, PA ","$23,582 Net Price",1390-1530 SAT Range,300.0,Haverford College,Private,PA,In-person,haverfordcollege
+41,40,10% Acceptance Rate,"Claremont, CA ","$28,712 Net Price",1340-1510 SAT Range,,,,,,
+42,41,15% Acceptance Rate,"Williamstown, MA ","$20,380 Net Price",1400-1570 SAT Range,964.0,Williams College,Private,MA,Undecided,williamscollege
+43,42,22% Acceptance Rate,"Lewiston, ME ","$23,312 Net Price",1385-1460 SAT Range,42.0,Bates College,Private,ME,Undecided,batescollege
+44,43,24% Acceptance Rate,"Chapel Hill, NC ","$11,100 Net Price",1270-1460 SAT Range,812.0,University of North Carolina at Chapel Hill,Public,NC,In-person,universityofnorthcarolinaatchapelhill
+45,44,28% Acceptance Rate,"Winston-Salem, NC ","$23,986 Net Price",1270-1410 SAT Range,923.0,Wake Forest University,Private,NC,In-person,wakeforestuniversity
+46,45,27% Acceptance Rate,"Boston, MA ","$30,784 Net Price",1370-1520 SAT Range,506.0,Northeastern University,Private,MA,In-person,northeasternuniversity
+47,46,70% Acceptance Rate,"Blacksburg, VA ","$18,700 Net Price",1180-1360 SAT Range,920.0,Virginia Tech,Public,VA,Hybrid model,virginiatech
+48,47,36% Acceptance Rate,"Austin, TX ","$14,356 Net Price",1220-1460 SAT Range,847.0,University of Texas at Austin,Public,TX,In-person,universityoftexasataustin
+49,48,25% Acceptance Rate,"Bethlehem, PA ","$26,933 Net Price",1270-1430 SAT Range,369.0,Lehigh University,Private,PA,In-person,lehighuniversity
+50,49,16% Acceptance Rate,"Waterville, ME ","$20,361 Net Price",1340-1500 SAT Range,153.0,Colby College,Private,ME,Undecided,colbycollege
+51,50,32% Acceptance Rate,"Chestnut Hill, MA ","$27,299 Net Price",1320-1490 SAT Range,67.0,Boston College,Private,MA,In-person,bostoncollege
+52,51,36% Acceptance Rate,"Williamsburg, VA ","$17,415 Net Price",1300-1480 SAT Range,165.0,College of William & Mary,Public,VA,In-person,collegeofwilliam&mary
+53,51,36% Acceptance Rate,"Williamsburg, VA ","$17,415 Net Price",1300-1480 SAT Range,166.0,College of William & Mary ,Public,VA,In-person,collegeofwilliam&mary
+54,52,24% Acceptance Rate,"Clinton, NY ","$22,139 Net Price",1360-1510 SAT Range,,,,,,
+55,53,20% Acceptance Rate,"Davidson, NC ","$28,339 Net Price",1310-1470 SAT Range,206.0,Davidson College,Private,NC,Considering options,davidsoncollege
+56,54,28% Acceptance Rate,"Hamilton, NY ","$22,182 Net Price",1310-1500 SAT Range,154.0,Colgate University,Private,NY,Considering options,colgateuniversity
+57,55,32% Acceptance Rate,"Northampton, MA ","$26,734 Net Price",1240-1470 SAT Range,623.0,Smith College,Private,MA,Considering options,smithcollege
+58,56,28% Acceptance Rate,"New York, NY ","$36,256 Net Price",1290-1490 SAT Range,487.0,New York University,Private,NY,Hybrid model,newyorkuniversity
+59,57,33% Acceptance Rate,"University of Richmond, VA ","$24,575 Net Price",1270-1460 SAT Range,831.0,University of Richmond,Private,VA,Considering options,universityofrichmond
+60,58,16% Acceptance Rate,"Middletown, CT ","$24,251 Net Price",1300-1480 SAT Range,,,,,,
+61,59,54% Acceptance Rate,"Madison, WI ","$15,910 Net Price",1280-1450 SAT Range,860.0,University of Wisconsin at Madison,Public,WI,Considering options,universityofwisconsinatmadison
+62,60,15% Acceptance Rate,"Claremont, CA ","$38,135 Net Price",1470-1570 SAT Range,298.0,Harvey Mudd College,Private,CA,Considering options,harveymuddcollege
+63,61,42% Acceptance Rate,"Gainesville, FL ","$15,283 Net Price",1240-1400 SAT Range,751.0,University of Florida,Public,FL,In-person,universityofflorida
+64,62,34% Acceptance Rate,"Rochester, NY ","$37,064 Net Price",1300-1490 SAT Range,832.0,University of Rochester,Private,NY,Considering options,universityofrochester
+65,63,62% Acceptance Rate,"Champaign, IL ","$16,638 Net Price",1340-1500 SAT Range,758.0,University of Illinois at Urbana-Champaign,Public,IL,In-person,universityofillinoisaturbana-champaign
+66,64,31% Acceptance Rate,"Lewisburg, PA ","$37,817 Net Price",1250-1420 SAT Range,79.0,Bucknell University,Private,PA,In-person,bucknelluniversity
+67,65,25% Acceptance Rate,"Boston, MA ","$33,728 Net Price",1300-1480 SAT Range,68.0,Boston University,Private,MA,In-person,bostonuniversity
+68,66,54% Acceptance Rate,"Athens, GA ","$15,934 Net Price",1200-1370 SAT Range,,,,,,
+69,67,29% Acceptance Rate,"Grinnell, IA ","$29,492 Net Price",1310-1510 SAT Range,287.0,Grinnell College,Private,IA,Considering options,grinnellcollege
+70,68,52% Acceptance Rate,"Provo, UT ","$12,979 Net Price",1210-1410 SAT Range,74.0,Brigham Young University,Private,UT,Undecided,brighamyounguniversity
+71,69,21% Acceptance Rate,"New Orleans, LA ","$33,886 Net Price",1330-1490 SAT Range,708.0,Tulane University,Private,LA,In-person,tulaneuniversity
+72,70,56% Acceptance Rate,"Golden, CO ","$25,472 Net Price",1310-1450 SAT Range,171.0,Colorado School of Mines,Public,CO,In-person,coloradoschoolofmines
+73,71,24% Acceptance Rate,"Poughkeepsie, NY ","$23,763 Net Price",1330-1500 SAT Range,915.0,Vassar College,Private,NY,Undecided,vassarcollege
+74,72,34% Acceptance Rate,"Gambier, OH ","$31,704 Net Price",1260-1460 SAT Range,351.0,Kenyon College,Private,OH,In-person,kenyoncollege
+75,73,46% Acceptance Rate,"Seattle, WA ","$9,443 Net Price",1190-1420 SAT Range,856.0,University of Washington,Public,WA,In-person,universityofwashington
+76,74,31% Acceptance Rate,"Easton, PA ","$26,148 Net Price",1260-1440 SAT Range,357.0,Lafayette College,Private,PA,Undecided,lafayettecollege
+77,75,33% Acceptance Rate,"Cleveland, OH ","$34,973 Net Price",1340-1520 SAT Range,125.0,Case Western Reserve University,Private,OH,Hybrid model,casewesternreserveuniversity
+78,76,13% Acceptance Rate,"New York, NY ","$28,494 Net Price",1310-1530 SAT Range,,,,,,
+79,77,49% Acceptance Rate,"Dallas, TX ","$36,458 Net Price",1270-1440 SAT Range,635.0,Southern Methodist University,Private,TX,In-person,southernmethodistuniversity
+80,78,44% Acceptance Rate,"Troy, NY ","$37,648 Net Price",1320-1500 SAT Range,571.0,Rensselaer Polytechnic Institute,Private,NY,Undecided,rensselaerpolytechnicinstitute
+81,79,57% Acceptance Rate,"West Lafayette, IN ","$12,117 Net Price",1150-1380 SAT Range,560.0,Purdue University,Public,IN,In-person,purdueuniversity
+82,80,36% Acceptance Rate,"Coral Gables, FL ","$42,204 Net Price",1230-1420 SAT Range,790.0,University of Miami,Private,FL,In-person,universityofmiami
+83,81,48% Acceptance Rate,"Worcester, MA ","$43,027 Net Price",1310-1480 SAT Range,970.0,Worcester Polytechnic Institute,Private,MA,Undecided,worcesterpolytechnicinstitute
+84,82,38% Acceptance Rate,"Bryn Mawr, PA ","$28,450 Net Price",1310-1500 SAT Range,77.0,Bryn Mawr College,Private,PA,In-person,brynmawrcollege
+85,82,38% Acceptance Rate,"Bryn Mawr, PA ","$28,450 Net Price",1310-1500 SAT Range,78.0,Bryn Mawr College,Private,PA,In-person,brynmawrcollege
+86,83,15% Acceptance Rate,"Colorado Springs, CO ","$29,528 Net Price",1220-1430 SAT Range,169.0,Colorado College,Private,CO,Considering options,coloradocollege
+87,84,41% Acceptance Rate,"Saint Paul, MN ","$30,672 Net Price",1300-1480 SAT Range,406.0,Macalester College,Private,MN,In-person,macalestercollege
+88,85,33% Acceptance Rate,"Santa Barbara, CA ","$16,154 Net Price",1190-1400 SAT Range,732.0,University of California at Santa Barbara,Public,CA,Considering options,universityofcaliforniaatsantabarbara
+89,86,40% Acceptance Rate,"Worcester, MA ","$27,005 Net Price",1230-1370 SAT Range,164.0,College of the Holy Cross,Private,MA,Undecided,collegeoftheholycross
+90,87,50% Acceptance Rate,"Minneapolis, MN ","$16,808 Net Price",1270-1480 SAT Range,794.0,University of Minnesota,Public,MN,In-person,universityofminnesota
+91,88,50% Acceptance Rate,"University Park, PA ","$25,346 Net Price",1160-1340 SAT Range,543.0,Pennsylvania State University,Public,PA,Undecided,pennsylvaniastateuniversity
+92,89,71% Acceptance Rate,"College Station, TX ","$19,554 Net Price",1140-1360 SAT Range,,,,,,
+93,90,48% Acceptance Rate,"Columbus, OH ","$18,042 Net Price",1260-1450 SAT Range,526.0,Ohio State University,Public,OH,In-person,ohiostateuniversity
+94,91,44% Acceptance Rate,"Hoboken, NJ ","$38,469 Net Price",1320-1470 SAT Range,660.0,Stevens Institute of Technology,Private,NJ,Considering options,stevensinstituteoftechnology
+95,92,16% Acceptance Rate,"Claremont, CA ","$26,935 Net Price",1300-1450 SAT Range,,,,,,
+96,93,51% Acceptance Rate,"South Hadley, MA ","$29,784 Net Price",1270-1460 SAT Range,469.0,Mount Holyoke,Private,MA,Hybrid model,mountholyoke
+97,94,51% Acceptance Rate,"Raleigh, NC ","$13,442 Net Price",1230-1390 SAT Range,491.0,North Carolina State University,Public,NC,In-person,northcarolinastateuniversity
+98,95,54% Acceptance Rate,"Santa Clara, CA ","$38,900 Net Price",1270-1440 SAT Range,599.0,Santa Clara University,Private,CA,In-person,santaclarauniversity
+99,96,36% Acceptance Rate,"Portland, OR ","$32,097 Net Price",1310-1500 SAT Range,567.0,Reed College,Private,OR,Undecided,reedcollege
+100,97,36% Acceptance Rate,"Villanova, PA ","$35,491 Net Price",1250-1440 SAT Range,917.0,Villanova University,Private,PA,Undecided,villanovauniversity
+101,98,61% Acceptance Rate,"Terre Haute, IN ","$41,536 Net Price",1260-1450 SAT Range,582.0,Rose-Hulman Institute of Technology,Private,IN,In-person,rose-hulmaninstituteoftechnology
+102,99,52% Acceptance Rate,"Walla Walla, WA ","$38,144 Net Price",1140-1380 SAT Range,,,,,,
+103,100,33% Acceptance Rate,"Claremont, CA ","$36,831 Net Price",1290-1460 SAT Range,606.0,Scripps College,Private,CA,Undecided,scrippscollege
+104,101,47% Acceptance Rate,"Clemson, SC ","$18,757 Net Price",1220-1390 SAT Range,149.0,Clemson University,Public,SC,Considering options,clemsonuniversity
+105,102,72% Acceptance Rate,"East Lansing, MI ","$16,684 Net Price",1100-1320 SAT Range,432.0,Michigan State University,Public,MI,In-person,michiganstateuniversity
+106,103,39% Acceptance Rate,"Tulsa, OK ","$25,086 Net Price",1150-1440 SAT Range,853.0,University of Tulsa,Private,OK,Hybrid model,universityoftulsa
+107,104,45% Acceptance Rate,"College Park, MD ","$17,241 Net Price",1280-1470 SAT Range,,,,,,
+108,105,24% Acceptance Rate,"Wellesley, MA ","$29,847 Net Price",1230-1410 SAT Range,35.0,Babson College,Private,MA,Considering options,babsoncollege
+109,106,85% Acceptance Rate,"Wheaton, IL ","$30,021 Net Price",1230-1410 SAT Range,953.0,Wheaton College (Ill.),Private,IL,In-person,wheatoncollege(ill.)
+110,107,38% Acceptance Rate,"San Antonio, TX ","$28,540 Net Price",1230-1410 SAT Range,704.0,Trinity University,Private,TX,In-person,trinityuniversity
+111,108,60% Acceptance Rate,"Pittsburgh, PA ","$22,848 Net Price",1240-1420 SAT Range,826.0,University of Pittsburgh,Public,PA,Considering options,universityofpittsburgh
+112,108,60% Acceptance Rate,"Pittsburgh, PA ","$22,848 Net Price",1240-1420 SAT Range,827.0,University of Pittsburgh,Public,PA,In-person,universityofpittsburgh
+113,109,43% Acceptance Rate,"Davis, CA ","$16,446 Net Price",1130-1360 SAT Range,727.0,University of California at Davis,Public,CA,Hybrid model,universityofcaliforniaatdavis
+114,110,63% Acceptance Rate,"New York, NY ","$31,873 Net Price",1160-1420 SAT Range,976.0,Yeshiva University,Private,NY,Considering options,yeshivauniversity
+115,111,46% Acceptance Rate,"Gettysburg, PA ","$34,705 Net Price",1200-1370 SAT Range,278.0,Gettysburg College,Private,PA,Undecided,gettysburgcollege
+116,112,34% Acceptance Rate,"Waltham, MA ","$32,714 Net Price",1280-1470 SAT Range,72.0,Brandeis University,Private,MA,Considering options,brandeisuniversity
+117,113,41% Acceptance Rate,"Washington, DC ","$37,638 Net Price",1280-1440 SAT Range,276.0,George Washington University,Private,DC,In-person,georgewashingtonuniversity
+118,114,25% Acceptance Rate,"Saratoga Springs, NY ","$25,254 Net Price",1200-1400 SAT Range,619.0,Skidmore College,Private,NY,Undecided,skidmorecollege
+119,115,43% Acceptance Rate,"Northfield, MN ","$27,587 Net Price",1150-1400 SAT Range,653.0,St. Olaf College,Private,MN,Considering options,st.olafcollege
+120,116,74% Acceptance Rate,"Houghton, MI ","$17,139 Net Price",1160-1340 SAT Range,433.0,Michigan Technological University,Public,MI,In-person,michigantechnologicaluniversity
+121,117,37% Acceptance Rate,"Irvine, CA ","$13,944 Net Price",1170-1350 SAT Range,728.0,University of California at Irvine,Public,CA,Online,universityofcaliforniaatirvine
+122,118,76% Acceptance Rate,"Bloomington, IN ","$12,488 Net Price",1140-1350 SAT Range,330.0,Indiana University,Public,IN,Hybrid model,indianauniversity
+123,119,42% Acceptance Rate,"Los Angeles, CA ","$33,738 Net Price",1280-1440 SAT Range,,,,,,
+124,120,49% Acceptance Rate,"Tallahassee, FL ","$16,450 Net Price",1190-1330 SAT Range,258.0,Florida State University,Public,FL,In-person,floridastateuniversity
+125,121,34% Acceptance Rate,"La Jolla, CA ","$14,616 Net Price",1210-1410 SAT Range,731.0,University of California at San Diego,Public,CA,Hybrid model,universityofcaliforniaatsandiego
+126,122,86% Acceptance Rate,"Iowa City, IA ","$14,845 Net Price",1140-1370 SAT Range,760.0,University of Iowa,Public,IA,In-person,universityofiowa
+127,123,52% Acceptance Rate,"Los Angeles, CA ","$42,459 Net Price",1180-1360 SAT Range,397.0,Loyola Marymount University,Private,CA,In-person,loyolamarymountuniversity
+128,124,35% Acceptance Rate,"San Luis Obispo, CA ","$19,002 Net Price",1200-1380 SAT Range,,,,,,
+129,125,37% Acceptance Rate,"Schenectady, NY ","$37,080 Net Price",1220-1400 SAT Range,710.0,Union College,Private,NY,In-person,unioncollege
+130,126,63% Acceptance Rate,"Newark, DE ","$16,286 Net Price",1130-1330 SAT Range,746.0,University of Delaware,Public,DE,In-person,universityofdelaware
+131,127,89% Acceptance Rate,"Ames, IA ","$13,949 Net Price",1160-1410 SAT Range,333.0,Iowa State University,Public,IA,Hybrid model,iowastateuniversity
+132,128,61% Acceptance Rate,"Appleton, WI ","$28,180 Net Price",1220-1460 SAT Range,366.0,Lawrence University,Private,WI,Considering options,lawrenceuniversity
+133,129,29% Acceptance Rate,"Washington, DC ","$32,732 Net Price",1180-1350 SAT Range,10.0,American University,Private,DC,Undecided,americanuniversity
+134,130,41% Acceptance Rate,"Fort Worth, TX ","$35,363 Net Price",1130-1330 SAT Range,684.0,Texas Christian University,Private,TX,In-person,texaschristianuniversity
+135,131,47% Acceptance Rate,"Syracuse, NY ","$35,306 Net Price",1160-1350 SAT Range,667.0,Syracuse University,Private,NY,In-person,syracuseuniversity
+136,132,58% Acceptance Rate,"Piscataway, NJ ","$16,016 Net Price",1190-1400 SAT Range,585.0,Rutgers University,Public,NJ,Considering options,rutgersuniversity
+137,133,34% Acceptance Rate,"Lancaster, PA ","$24,472 Net Price",1200-1420 SAT Range,264.0,Franklin and Marshall College,Private,PA,Considering options,franklinandmarshallcollege
+138,134,58% Acceptance Rate,"Amherst, MA ","$21,281 Net Price",1180-1360 SAT Range,786.0,University of Massachusets Amherst,Public,MA,Undecided,universityofmassachusetsamherst
+139,135,63% Acceptance Rate,"Crawfordsville, IN ","$24,603 Net Price",1070-1280 SAT Range,922.0,Wabash College,Private,IN,In-person,wabashcollege
+140,136,37% Acceptance Rate,"Granville, OH ","$32,290 Net Price",1200-1380 SAT Range,208.0,Denison University,Private,OH,In-person,denisonuniversity
+141,137,68% Acceptance Rate,"Saint Peter, MN ","$29,894 Net Price",1080-1340 SAT Range,,,,,,
+142,138,44% Acceptance Rate,"Waltham, MA ","$36,613 Net Price",1210-1380 SAT Range,54.0,Bentley University,Private,MA,In-person,bentleyuniversity
+143,139,84% Acceptance Rate,"Auburn, AL ","$22,613 Net Price",1130-1310 SAT Range,25.0,Auburn University,Public,AL,Hybrid model,auburnuniversity
+144,140,34% Acceptance Rate,"Oberlin, OH ","$39,794 Net Price",1280-1450 SAT Range,523.0,Oberlin College,Private,OH,In-person,oberlincollege
+145,141,75% Acceptance Rate,"Harrisonburg, VA ","$16,154 Net Price",1100-1260 SAT Range,338.0,James Madison University,Public,VA,In-person,jamesmadisonuniversity
+146,142,40% Acceptance Rate,"Malibu, CA ","$36,372 Net Price",1200-1390 SAT Range,544.0,Pepperdine University,Private,CA,In-person,pepperdineuniversity
+147,143,47% Acceptance Rate,"Sewanee, TN ","$34,001 Net Price",1140-1320 SAT Range,610.0,Sewanee: The University of the South,Private,TN,In-person,sewanee:theuniversityofthesouth
+148,144,64% Acceptance Rate,"St. Louis, MO ","$31,718 Net Price",1170-1390 SAT Range,650.0,St. Louis University,Private,MO,In-person,st.louisuniversity
+149,145,70% Acceptance Rate,"Portland, OR ","$33,327 Net Price",1140-1320 SAT Range,828.0,University of Portland,Private,OR,In-person,universityofportland
+150,146,74% Acceptance Rate,"Norman, OK ","$20,003 Net Price",1150-1380 SAT Range,823.0,University of Oklahoma,Public,OK,In-person,universityofoklahoma
+151,147,58% Acceptance Rate,"Denver, CO ","$35,163 Net Price",1160-1350 SAT Range,747.0,University of Denver,Private,CO,In-person,universityofdenver
+152,148,50% Acceptance Rate,"San Diego, CA ","$38,592 Net Price",1180-1350 SAT Range,834.0,University of San Diego,Private,CA,Hybrid model,universityofsandiego
+153,149,74% Acceptance Rate,"Stillwater, OK ","$14,513 Net Price",1070-1260 SAT Range,530.0,Oklahoma State University,Public,OK,In-person,oklahomastateuniversity

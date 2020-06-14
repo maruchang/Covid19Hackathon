@@ -1,0 +1,552 @@
+,Institution,Control,State,Category,Institution_stripped,Id,County,Longitude,Latitude,Total  enrollment,Urbanization,Carnegie Classifation,out-of-state,foreign,Endowment
+0,Abilene Christian University,Private,TX,In-person,abilenechristianuniversity,222178,Taylor County,-99.70954,32.46915,4461.0,City,Master's,13.0,2.0,82162.0
+1,Adelphi University,Private,NY,Hybrid model,adelphiuniversity,188429,Nassau County,-73.65332099999998,40.721439,7645.0,Suburb,Research,10.0,5.0,20248.0
+2,Adrian College,Private,MI,In-person,adriancollege,168528,Lenawee County,-84.059947,41.898449,1658.0,Town,Baccalaureatte,,,16118.0
+3,Agnes Scott College,Private,GA,In-person,agnesscottcollege,138600,DeKalb County,-84.29563,33.769996,915.0,Suburb,Baccalaureatte,37.0,15.0,281391.0
+4,Albion College,Private,MI,In-person,albioncollege,168546,Calhoun County,-84.746088,42.24460300000001,1307.0,Town,Baccalaureatte,,,121935.0
+5,Allegheny College,Private,PA,In-person,alleghenycollege,210669,Crawford County,-80.146922,41.648068,2161.0,Town,Baccalaureatte,46.0,4.0,78877.0
+6,Alma College,Private,MI,In-person,almacollege,168591,Gratiot County,-84.670073,43.379236,1419.0,Town,Baccalaureatte,,,74030.0
+7,American University,Private,DC,Undecided,americanuniversity,131159,District of Columbia,-77.090106,38.93780200000001,12818.0,City,Research,,,45966.0
+8,Amherst College,Private,MA,Undecided,amherstcollege,164465,Hampshire County,-72.518493,42.372459,1785.0,Suburb,Baccalaureatte,,,930009.0
+9,Andrews University,Private,MI,In-person,andrewsuniversity,168740,Berrien County,-86.355149,41.963266,3516.0,Town,Research,60.0,19.0,13019.0
+10,Angelo State University,Public,TX,In-person,angelostateuniversity,222831,Tom Green County,-100.466495,31.44145,6536.0,City,Master's,1.0,0.0,
+11,Appalachian State University,Public,NC,In-person,appalachianstateuniversity,197869,Watauga County,-81.680234,36.214844,17838.0,Town,Master's,9.0,1.0,
+12,Aquinas College,Private,MI,In-person,aquinascollege,168786,Kent County,-85.626166,42.960449,2001.0,City,Master's,8.0,0.0,14687.0
+13,Aquinas College,Private,MI,In-person,aquinascollege,219578,Davidson County,-86.84421400000002,36.132187,574.0,City,Baccalaureate/Associate's Colleges,46.0,3.0,20013.0
+14,Arcadia University,Private,PA,Hybrid model,arcadiauniversity,211088,Montgomery County,-75.165205,40.091941,3905.0,Suburb,Master's,48.0,0.0,15951.0
+15,Arkansas Tech University,Public,AR,In-person,arkansastechuniversity,106467,Pope County,-93.13233,35.29522700000001,11369.0,Town,Master's,4.0,1.0,
+16,Asbury University,Private,KY,In-person,asburyuniversity,156213,Jessamine County,-84.66260600000003,37.862029,1797.0,Town,Baccalaureatte,46.0,0.0,23245.0
+17,Assumption College,Private,MA,Considering options,assumptioncollege,164562,Worcester County,-71.828387,42.295435,2756.0,City,Master's,34.0,1.0,33993.0
+18,Auburn University,Public,AL,Hybrid model,auburnuniversity,100858,Lee County,-85.492409,32.600201,24864.0,City,Research,37.0,1.0,
+19,Auburn University at Montgomery,Public,AL,In-person,auburnuniversityatmontgomery,100830,Montgomery County,-86.177351,32.369939,5084.0,City,Master's,2.0,0.0,
+20,Augustana College,Private,IL,In-person,augustanacollege,143084,Rock Island County,-90.552402,41.500326,2524.0,City,Baccalaureatte,15.0,3.0,50005.0
+21,Augustana College,Private,IL,In-person,augustanacollege,219000,Minnehaha County,-96.738507,43.525939,1765.0,City,Baccalaureatte,61.0,0.0,33083.0
+22,Austin Peay State University,Public,TN,In-person,austinpeaystateuniversity,219602,Montgomery County,-87.35408100000002,36.533319,10399.0,City,Master's,6.0,0.0,
+23,Austin Peay State University,Public,TN,In-person,austinpeaystateuniversity,219602,Montgomery County,-87.35408100000002,36.533319,10399.0,City,Master's,6.0,0.0,
+24,Averett University,Private,VA,In-person,averettuniversity,231420,Danville city,-79.413214,36.577273,906.0,Town,Baccalaureatte,,,25676.0
+25,Avila University,Private,MO,In-person,avilauniversity,176628,Jackson County,-94.591387,38.912159,1971.0,City,Master's,21.0,3.0,5216.0
+26,Azusa Pacific University,Private,CA,In-person,azusapacificuniversity,109785,Los Angeles County,-117.88795,34.130865,10755.0,Suburb,Research,22.0,0.0,6604.0
+27,Ball State University,Public,IN,In-person,ballstateuniversity,150136,Delaware County,-85.408863,40.198942,20503.0,City,Research,,,
+28,Bard College,Private,NY,In-person,bardcollege,189088,Dutchess County,-73.906243,42.02180300000001,2355.0,Town,Baccalaureatte,,,51449.0
+29,Bard College at Simon's Rock,Private,MA,In-person,bardcollegeatsimon'srock,167792,Berkshire County,-73.38000799999998,42.209241,350.0,Rural,Baccalaureate/Associate's Colleges,72.0,12.0,36777.0
+30,Barnard College,Private,NY,Considering options,barnardcollege,189097,New York County,-73.964027,40.809137,2489.0,City,Baccalaureatte,62.0,9.0,99262.0
+31,Barry University,Private,FL,Considering options,barryuniversity,132471,Miami-Dade County,-80.196136,25.878865,9030.0,Suburb,Research,45.0,8.0,3670.0
+32,Bates College,Private,ME,Undecided,batescollege,160977,Androscoggin County,-70.203333,44.105299,1791.0,City,Baccalaureatte,83.0,7.0,133908.0
+33,Baylor University,Private,TX,In-person,bayloruniversity,223232,McLennan County,-97.119359,31.545956,15616.0,City,Research,27.0,2.0,67958.0
+34,Beacon College,Private,FL,In-person,beaconcollege,384254,Lake County,-81.875619,28.810799,190.0,Suburb,Baccalaureatte,71.0,10.0,261.0
+35,Belhaven University,Private,MS,In-person,belhavenuniversity,175421,Hinds County,-90.169228,32.318415,4025.0,City,Master's,,,1616.0
+36,Belmont University,Private,TN,Considering options,belmontuniversity,219709,Davidson County,-86.794715,36.133866,6915.0,City,Master's,73.0,1.0,13557.0
+37,Beloit College,Private,WI,Hybrid model,beloitcollege,238333,Rock County,-89.03147,42.50363,1306.0,City,Baccalaureatte,,,92305.0
+38,Bemidji State University,Public,MN,Hybrid model,bemidjistateuniversity,173124,Beltrami County,-94.874529,47.482505,4963.0,Town,Master's,,,
+39,Benedictine College,Private,KS,In-person,benedictinecollege,154712,Atchison County,-95.111424,39.57295300000001,2177.0,Town,Baccalaureatte,70.0,2.0,8865.0
+40,Bennington College,Private,VT,In-person,benningtoncollege,230816,Bennington County,-73.237498,42.92004,738.0,Town,Baccalaureatte,,,17627.0
+41,Bentley University,Private,MA,In-person,bentleyuniversity,164739,Middlesex County,-71.220148,42.388798,5658.0,City,Master's,,,43423.0
+42,Bethany College,Private,WV,In-person,bethanycollege,154721,McPherson County,-97.673173,38.5786,665.0,Town,Baccalaureatte,,,42514.0
+43,Bethany College,Private,WV,In-person,bethanycollege,237181,Brooke County,-80.56916,40.204594,726.0,Rural,Baccalaureatte,83.0,2.0,60234.0
+44,Bethel University,Private,MN,In-person,betheluniversity,173160,Ramsey County,-93.159295,45.057091,4340.0,Suburb,Master's,,,6617.0
+45,Bethel University,Private,MN,In-person,betheluniversity,219718,Carroll County,-88.516162,36.139271,6634.0,Town,Master's,,,518.0
+46,Biola University,Private,CA,In-person,biolauniversity,110097,Los Angeles County,-118.017342,33.904823,6301.0,Suburb,Research,25.0,0.0,17473.0
+47,Bloomfield College,Private,NJ,Considering options,bloomfieldcollege,183822,Essex County,-74.19593,40.794218,1979.0,Suburb,Baccalaureatte,0.0,0.0,5474.0
+48,Bluffton University,Private,OH,In-person,blufftonuniversity,201371,Allen County,-83.897678,40.896998,1146.0,Town,Baccalaureatte,,,20012.0
+49,Boise State University,Public,ID,Hybrid model,boisestateuniversity,142115,Ada County,-116.205789,43.60440300000001,21981.0,City,Master's,,,
+50,Boston College,Private,MA,In-person,bostoncollege,164924,Middlesex County,-71.171488,42.337688,14309.0,City,Research,,,137445.0
+51,Boston University,Private,MA,In-person,bostonuniversity,164988,Suffolk County,-71.09984,42.349581,32411.0,City,Research,,,43924.0
+52,Bowdoin College,Private,ME,Undecided,bowdoincollege,161004,Cumberland County,-69.965165,43.906969,1795.0,Town,Baccalaureatte,83.0,7.0,574151.0
+53,Bradley University,Private,IL,In-person,bradleyuniversity,143358,Peoria County,-89.61462,40.697605,5430.0,City,Master's,15.0,0.0,49328.0
+54,Brandeis University,Private,MA,Considering options,brandeisuniversity,165015,Middlesex County,-71.254716,42.364947,5825.0,City,Research,60.0,20.0,109992.0
+55,Brevard College,Private,NC,In-person,brevardcollege,198066,Transylvania County,-82.729763,35.237657,701.0,Town,Baccalaureatte,,,34639.0
+56,Brown University,Private,RI,Considering options,brownuniversity,217156,Providence County,-71.40446700000003,41.827605,8943.0,City,Research,81.0,15.0,303300.0
+57,Bryant University,Private,RI,In-person,bryantuniversity,217165,Providence County,-71.539147,41.920149,3454.0,Suburb,Master's,82.0,7.0,44633.0
+58,Bryn Mawr College,Private,PA,In-person,brynmawrcollege,211273,Montgomery County,-75.314988,40.028541,1738.0,Suburb,Baccalaureatte,,,458469.0
+59,Bryn Mawr College,Private,PA,In-person,brynmawrcollege,211273,Montgomery County,-75.314988,40.028541,1738.0,Suburb,Baccalaureatte,,,458469.0
+60,Bucknell University,Private,PA,In-person,bucknelluniversity,211291,Union County,-76.886275,40.954489,3608.0,Town,Baccalaureatte,73.0,5.0,180935.0
+61,Buena Vista University,Private,IA,In-person,buenavistauniversity,153001,Buena Vista County,-95.208053,42.642529,2399.0,Town,Baccalaureatte,23.0,4.0,48494.0
+62,Butler University,Private,IN,In-person,butleruniversity,150163,Marion County,-86.171791,39.840662,4827.0,City,Master's,,,37146.0
+63,California Baptist University,Private,CA,In-person,californiabaptistuniversity,110361,Riverside County,-117.42587,33.928569,7144.0,City,Master's,6.0,2.0,2304.0
+64,California Lutheran University,Private,CA,Considering options,californialutheranuniversity,110413,Ventura County,-118.879467,34.225551,4282.0,City,Master's,17.0,2.0,14701.0
+65,California University of Pennsylvania,Public,PA,In-person,californiauniversityofpennsylvania,211361,Washington County,-79.884477,40.066473,8243.0,Suburb,Master's,7.0,1.0,
+66,Cameron University,Public,OK,Considering options,cameronuniversity,206914,Comanche County,-98.434163,34.606487,5898.0,City,Master's,9.0,4.0,
+67,Campbell University,Private,NC,Considering options,campbelluniversity,198136,Harnett County,-78.739508,35.40933300000001,6122.0,Town,Master's,,,20894.0
+68,Carleton College,Private,MN,Considering options,carletoncollege,173258,Rice County,-93.154662,44.462304,2045.0,Town,Baccalaureatte,72.0,11.0,350972.0
+69,Carlow University,Private,PA,Hybrid model,carlowuniversity,211431,Allegheny County,-79.963927,40.439851,3012.0,City,Master's,,,9251.0
+70,Carnegie Mellon University,Private,PA,Hybrid model,carnegiemellonuniversity,211440,Allegheny County,-79.942914,40.444616,12367.0,City,Research,68.0,19.0,75155.0
+71,Carroll College,Private,MT,In-person,carrollcollege,180106,Lewis and Clark County,-112.04053,46.602202,1431.0,Town,Baccalaureatte,,,26941.0
+72,Carroll University,Public,WI,In-person,carrolluniversity,238458,Waukesha County,-88.227962,43.004647,3534.0,City,Master's,30.0,0.0,13359.0
+73,Case Western Reserve University,Private,OH,Hybrid model,casewesternreserveuniversity,201645,Cuyahoga County,-81.605769,41.500812,10325.0,City,Research,60.0,12.0,186652.0
+74,Catholic University of America,Private,DC,In-person,catholicuniversityofamerica,131283,District of Columbia,-76.998961,38.935796,6725.0,City,Research,,,45507.0
+75,Cazenovia College,Private,NY,In-person,cazenoviacollege,189848,Madison County,-75.854054,42.931946,1077.0,Town,Baccalaureatte,17.0,0.0,26373.0
+76,Cedarville University,Private,OH,In-person,cedarvilleuniversity,201654,Greene County,-83.81209799999998,39.750338,3462.0,Town,Baccalaureatte,59.0,2.0,6903.0
+77,Central Michigan University,Public,MI,In-person,centralmichiganuniversity,169248,Isabella County,-84.775275,43.591137,26841.0,Town,Research,5.0,0.0,
+78,Central State University,Public,OH,In-person,centralstateuniversity,201690,Greene County,-83.876795,39.716465,2068.0,Rural,Baccalaureatte,53.0,0.0,
+79,Centre College,Private,KY,Hybrid model,centrecollege,156408,Boyle County,-84.779175,37.645102,1381.0,Town,Baccalaureatte,,,171292.0
+80,Chapman University,Private,CA,In-person,chapmanuniversity,111948,Orange County,-117.851481,33.793678,7892.0,City,Master's,31.0,5.0,29744.0
+81,Charleston Southern University,Private,SC,In-person,charlestonsouthernuniversity,217688,Charleston County,-80.069288,32.981986,3269.0,City,Master's,,,5013.0
+82,Chatham University,Private,PA,In-person,chathamuniversity,211556,Allegheny County,-79.92608299999998,40.448432,2170.0,City,Master's,24.0,0.0,29301.0
+83,Chowan University,Private,NC,In-person,chowanuniversity,198303,Hertford County,-77.099141,36.436258,1367.0,Town,Baccalaureatte,,,18888.0
+84,Christian Brothers University,Private,TN,In-person,christianbrothersuniversity,219833,Shelby County,-89.983241,35.127437,1577.0,City,Master's,19.0,1.0,18432.0
+85,Christopher Newport University,Public,VA,In-person,christophernewportuniversity,231712,Newport News city,-76.48697800000002,37.061502,5232.0,City,Master's,7.0,0.0,
+86,Clarion University of Pennsylvania,Public,PA,In-person,clarionuniversityofpennsylvania,211644,Clarion County,-79.374775,41.209676,6080.0,Town,Master's,7.0,0.0,
+87,Clark University,Private,MA,Undecided,clarkuniversity,165334,Worcester County,-71.823537,42.251064,3551.0,City,Research,,,96250.0
+88,Clarke University,Private,IA,In-person,clarkeuniversity,153126,Dubuque County,-90.691512,42.508619,1225.0,City,Baccalaureatte,,,28657.0
+89,Clemson University,Public,SC,Considering options,clemsonuniversity,217882,Pickens County,-82.834463,34.677329,21303.0,Suburb,Research,38.0,1.0,
+90,Cleveland State University,Public,OH,Considering options,clevelandstateuniversity,202134,Cuyahoga County,-81.673052,41.502918,17497.0,City,Research,,,
+91,Coastal Carolina University,Public,SC,In-person,coastalcarolinauniversity,218724,Horry County,-79.0126,33.794733,9478.0,City,Master's,53.0,1.0,
+92,Colby College,Private,ME,Undecided,colbycollege,161086,Kennebec County,-69.66337,44.564211,1820.0,Town,Baccalaureatte,74.0,14.0,332477.0
+93,Colgate University,Private,NY,Considering options,colgateuniversity,190099,Madison County,-75.535,42.8188,2900.0,Town,Baccalaureatte,66.0,10.0,264911.0
+94,College of Our Lady of the Elms,Private,MA,In-person,collegeofourladyoftheelms,167394,Hampden County,-72.601541,42.14179,1678.0,Suburb,Baccalaureatte,,,5787.0
+95,College of the Atlantic,Private,ME,In-person,collegeoftheatlantic,160959,Hancock County,-68.228849,44.399584,370.0,Town,Baccalaureatte,,,116238.0
+96,College of the Holy Cross,Private,MA,Undecided,collegeoftheholycross,166124,Worcester County,-71.808627,42.238942,2912.0,City,Baccalaureatte,62.0,2.0,203172.0
+97,Colorado Christian University,Private,CO,Considering options,coloradochristianuniversity,126669,Jefferson County,-105.09483600000002,39.711701,5368.0,City,Master's,,,1145.0
+98,Colorado College,Private,CO,Considering options,coloradocollege,126678,El Paso County,-104.82422,38.84657,2061.0,City,Baccalaureatte,73.0,9.0,317840.0
+99,Colorado Mesa University,Public,CO,In-person,coloradomesauniversity,127556,Mesa County,-108.540281,39.076354,9676.0,City,Baccalaureatte,13.0,0.0,
+100,Colorado School of Mines,Public,CO,In-person,coloradoschoolofmines,126775,Jefferson County,-105.227148,39.75079,5790.0,Suburb,Research,40.0,4.0,
+101,Columbia College,Private,SC,In-person,columbiacollege,177065,Boone County,-92.326544,38.957899,16946.0,City,Master's,,,7758.0
+102,Columbia College,Private,SC,In-person,columbiacollege,217934,Richland County,-81.001369,34.062923,1169.0,City,Master's,16.0,1.0,18743.0
+103,Columbia College,Private,MO,In-person,columbiacollege,177065,Boone County,-92.326544,38.957899,16946.0,City,Master's,,,7758.0
+104,Columbia College,Private,MO,In-person,columbiacollege,217934,Richland County,-81.001369,34.062923,1169.0,City,Master's,16.0,1.0,18743.0
+105,Columbia International University,Private,SC,In-person,columbiainternationaluniversity,217925,Richland County,-81.069502,34.081233000000005,1154.0,City,Master's,46.0,1.0,4647.0
+106,Concord University,Public,WV,In-person,concorduniversity,237330,Mercer County,-81.00569399999998,37.423854,2767.0,Town,Baccalaureatte,,,
+107,Converse College,Private,SC,In-person,conversecollege,217961,Spartanburg County,-81.918829,34.956232,1333.0,City,Master's,27.0,0.0,52827.0
+108,Cornell College,Private,IA,In-person,cornellcollege,153162,Linn County,-91.425435,41.925982,1125.0,Town,Baccalaureatte,81.0,3.0,52507.0
+109,Cornell University,Private,NY,Undecided,cornelluniversity,190415,Tompkins County,-76.48269,42.445291,21593.0,City,Research,58.0,11.0,193396.0
+110,Cornerstone University,Private,MI,In-person,cornerstoneuniversity,170037,Kent County,-85.595602,42.979044,2809.0,City,Master's,,,2801.0
+111,Covenant College,Private,GA,In-person,covenantcollege,139393,Dade County,-85.37496,34.963327,1173.0,Suburb,Baccalaureatte,,,24117.0
+112,Creighton University,Private,NE,In-person,creightonuniversity,181002,Douglas County,-95.947029,41.265325,8019.0,City,Master's,77.0,2.0,41179.0
+113,Daemen College,Private,NY,In-person,daemencollege,190725,Erie County,-78.789025,42.965024,2871.0,Suburb,Master's,,,3367.0
+114,Dallas Baptist University,Private,TX,In-person,dallasbaptistuniversity,224226,Dallas County,-96.947006,32.710017,5422.0,City,Master's,,,8514.0
+115,Dartmouth College,Private,NH,Considering options,dartmouthcollege,182670,Grafton County,-72.289951,43.70408,6342.0,Town,Research,86.0,9.0,581104.0
+116,Davenport University,Private,MI,Undecided,davenportuniversity,169479,Kent County,-85.529655,42.849713,9591.0,Suburb,Master's,,,2572.0
+117,Davidson College,Private,NC,Considering options,davidsoncollege,198385,Mecklenburg County,-80.845236,35.500006,1788.0,Suburb,Baccalaureatte,,,292976.0
+118,Denison University,Private,OH,In-person,denisonuniversity,202523,Licking County,-82.520625,40.072582,2274.0,Suburb,Baccalaureatte,68.0,8.0,305000.0
+119,DePaul University,Private,IL,In-person,depauluniversity,144740,Cook County,-87.654116,41.923332,24414.0,City,Research,36.0,0.0,17773.0
+120,DePauw University,Private,IN,In-person,depauwuniversity,150400,Putnam County,-86.863556,39.63953,2304.0,Town,Baccalaureatte,58.0,8.0,232634.0
+121,Dickinson College,Private,PA,Considering options,dickinsoncollege,212009,Cumberland County,-77.197854,40.202796,2396.0,City,Baccalaureatte,72.0,8.0,142411.0
+122,Dominican University ,Private,IL,In-person,dominicanuniversity,148496,Cook County,-87.821872,41.90283400000001,3470.0,Suburb,Master's,6.0,0.0,8035.0
+123,Dominican University of California,Private,CA,In-person,dominicanuniversityofcalifornia,113698,Marin County,-122.514654,37.980014,2147.0,City,Master's,12.0,0.0,14139.0
+124,Donnelly College,Private,KS,In-person,donnellycollege,155007,Wyandotte County,-94.65103,39.112227,474.0,City,Baccalaureate/Associate's Colleges,,,22002.0
+125,Drake University,Private,IA,In-person,drakeuniversity,153269,Polk County,-93.654062,41.60381,5139.0,City,Master's,72.0,0.0,36792.0
+126,Drew University,Private,NJ,Considering options,drewuniversity,184348,Morris County,-74.425825,40.757026,2291.0,Suburb,Baccalaureatte,30.0,0.0,78215.0
+127,Drexel University,Private,PA,Undecided,drexeluniversity,212054,Philadelphia County,-75.188745,39.954855,26132.0,City,Research,46.0,18.0,23977.0
+128,Drury University,Private,MO,In-person,druryuniversity,177214,Greene County,-93.285773,37.219757,4649.0,City,Master's,,,17838.0
+129,Duke University,Private,NC,Considering options,dukeuniversity,198419,Durham County,-78.94226,36.00159,15467.0,City,Research,,,364661.0
+130,Duke University,Private,NC,In-person,dukeuniversity,198419,Durham County,-78.94226,36.00159,15467.0,City,Research,,,364661.0
+131,Duquesne University,Private,PA,In-person,duquesneuniversity,212106,Allegheny County,-79.99304599999998,40.437496,9904.0,City,Research,26.0,2.0,21257.0
+132,Earlham College,Private,IN,In-person,earlhamcollege,150455,Wayne County,-84.911464,39.822278,1159.0,Town,Baccalaureatte,67.0,16.0,305019.0
+133,East Carolina University,Public,NC,In-person,eastcarolinauniversity,198464,Pitt County,-77.366199,35.606347,26887.0,City,Research,15.0,0.0,
+134,East Tennessee State University,Public,TN,Undecided,easttennesseestateuniversity,220075,Washington County,-82.366954,36.301643,14691.0,City,Research,14.0,2.0,
+135,Eastern Illinois University,Public,IL,In-person,easternillinoisuniversity,144892,Coles County,-88.175505,39.483017,9775.0,Town,Master's,5.0,1.0,
+136,Eastern Michigan University,Public,MI,In-person,easternmichiganuniversity,169798,Washtenaw County,-83.624499,42.245751,23447.0,Suburb,Master's,15.0,1.0,
+137,Eastern Nazarene College,Private,MA,In-person,easternnazarenecollege,165644,Norfolk County,-71.011238,42.271214,1478.0,Suburb,Baccalaureatte,,,10706.0
+138,Eastern Washington University,Public,WA,Online,easternwashingtonuniversity,235097,Spokane County,-117.589371,47.491293,12791.0,Town,Master's,6.0,0.0,
+139,Eckerd College,Private,FL,In-person,eckerdcollege,133492,Pinellas County,-82.685992,27.718996,2173.0,City,Baccalaureatte,78.0,6.0,20145.0
+140,Elmhurst College,Private,IL,In-person,elmhurstcollege,144962,DuPage County,-87.946096,41.89921500000001,3210.0,Suburb,Master's,19.0,0.0,26608.0
+141,Elon University,Private,NC,In-person,elonuniversity,198516,Alamance County,-79.50563199999998,36.104149,6305.0,Suburb,Master's,80.0,1.0,27116.0
+142,Emerson College,Private,MA,In-person,emersoncollege,165662,Suffolk County,-71.074037,42.35532,4561.0,City,Master's,75.0,5.0,27474.0
+143,Emory & Henry College,Private,VA,In-person,emory&henrycollege,232025,Washington County,-81.831737,36.772543,959.0,Rural,Baccalaureatte,42.0,1.0,95410.0
+144,Emory University,Private,GA,In-person,emoryuniversity,139658,DeKalb County,-84.32578199999998,33.798836,14513.0,Suburb,Research,66.0,16.0,382343.0
+145,Emporia State University,Public,KS,In-person,emporiastateuniversity,155025,Lyon County,-96.179454,38.41258300000001,6033.0,Town,Master's,7.0,0.0,
+146,Evangel University,Private,MO,In-person,evangeluniversity,177339,Greene County,-93.262614,37.220956,2274.0,City,Baccalaureatte,,,4603.0
+147,Fairfield University,Private,CT,In-person,fairfielduniversity,129242,Fairfield County,-73.25778000000003,41.160732,4919.0,Suburb,Master's,74.0,2.0,57869.0
+148,Fairmont State University,Public,WV,In-person,fairmontstateuniversity,237367,Marion County,-80.16184399999999,39.485925,4232.0,Town,Master's,11.0,0.0,
+149,Ferris State University,Public,MI,In-person,ferrisstateuniversity,169910,Mecosta County,-85.483509,43.687464,14707.0,Town,Master's,7.0,1.0,
+150,Ferrum College,Private,VA,In-person,ferrumcollege,232089,Franklin County,-80.020864,36.926648,1512.0,Rural,Baccalaureatte,,,30190.0
+151,Finlandia University,Private,MI,In-person,finlandiauniversity,172440,Houghton County,-88.589392,47.12709,525.0,Town,Baccalaureatte,29.0,9.0,8076.0
+152,Fisher College,Private,MA,Undecided,fishercollege,165802,Suffolk County,-71.074125,42.35525300000001,1930.0,City,Baccalaureate/Associate's Colleges,,,
+153,Florida Institute of Technology,Private,FL,In-person,floridainstituteoftechnology,133881,Brevard County,-80.624628,28.064503,5644.0,City,Research,,,11992.0
+154,Florida Southern College,Private,FL,In-person,floridasoutherncollege,134079,Polk County,-81.945791,28.031507,2619.0,City,Baccalaureatte,40.0,4.0,32743.0
+155,Florida State University,Public,FL,In-person,floridastateuniversity,134097,Leon County,-84.294801,30.4421,40909.0,City,Research,9.0,2.0,
+156,Fordham University,Private,NY,In-person,fordhamuniversity,191241,Bronx County,-73.889578,40.861183,15097.0,City,Research,54.0,6.0,39837.0
+157,Fort Lewis College,Public,CO,In-person,fortlewiscollege,127185,La Plata County,-107.867003,37.27542800000001,4021.0,Town,Baccalaureatte,47.0,0.0,
+158,Francis Marion University,Public,SC,In-person,francismarionuniversity,218061,Florence County,-79.65551500000002,34.192277000000004,4058.0,Suburb,Master's,4.0,1.0,
+159,Franciscan University of Steubenville,Private,OH,In-person,franciscanuniversityofsteubenville,205957,Jefferson County,-80.623094,40.376086,2733.0,City,Master's,,,17992.0
+160,Franklin and Marshall College,Private,PA,Considering options,franklinandmarshallcollege,212577,Lancaster County,-76.319037,40.048045,2297.0,City,Baccalaureatte,,,118460.0
+161,Franklin College,Private,IN,In-person,franklincollege,150604,Johnson County,-86.04718199999998,39.478298,1014.0,Suburb,Baccalaureatte,,,77521.0
+162,Franklin Pierce University,Private,NH,In-person,franklinpierceuniversity,182795,Cheshire County,-72.057875,42.782305,2204.0,Rural,Master's,,,2399.0
+163,Furman University,Private,SC,In-person,furmanuniversity,218070,Greenville County,-82.441473,34.920784999999995,2953.0,Suburb,Baccalaureatte,,,198459.0
+164,Gallaudet University,Private,DC,Undecided,gallaudetuniversity,131450,District of Columbia,-76.993675,38.90737100000001,1561.0,City,Master's,92.0,5.0,121176.0
+165,Gannon University,Private,PA,In-person,gannonuniversity,212601,Erie County,-80.086258,42.126111,4211.0,City,Master's,29.0,5.0,12180.0
+166,Gardner-Webb University,Private,NC,In-person,gardner-webbuniversity,198561,Cleveland County,-81.668141,35.24732,4656.0,Town,Master's,29.0,3.0,13056.0
+167,Geneva College,Private,PA,In-person,genevacollege,212656,Beaver County,-80.35254499999998,40.773474,1852.0,Suburb,Baccalaureatte,,,17873.0
+168,George Fox University,Public,OR,In-person,georgefoxuniversity,208822,Yamhill County,-122.968394,45.30399,3712.0,Town,Master's,39.0,4.0,5850.0
+169,George Mason University,Public,VA,In-person,georgemasonuniversity,232186,Fairfax County,-77.30794,38.83088,33917.0,Suburb,Research,17.0,1.0,
+170,George Washington University,Private,DC,In-person,georgewashingtonuniversity,131469,District of Columbia,-77.047871,38.89865,25264.0,City,Research,87.0,10.0,63277.0
+171,Georgetown University,Private,DC,Hybrid model,georgetownuniversity,131496,District of Columbia,-77.073463,38.90880900000001,17849.0,City,Research,89.0,10.0,83669.0
+172,Gettysburg College,Private,PA,Undecided,gettysburgcollege,212674,Adams County,-77.23498199999997,39.836091,2524.0,City,Baccalaureatte,73.0,4.0,94361.0
+173,Gonzaga University,Private,WA,In-person,gonzagauniversity,235316,Spokane County,-117.403062,47.668144,7605.0,City,Master's,51.0,1.0,22282.0
+174,Goshen College,Private,IN,In-person,goshencollege,150668,Elkhart County,-85.826766,41.564254,888.0,City,Baccalaureatte,45.0,5.0,112373.0
+175,Goucher College,Private,MD,In-person,gouchercollege,162654,Baltimore County,-76.59484300000003,39.410175,2111.0,City,Baccalaureatte,,,103891.0
+176,Grand Valley State University,Public,MI,In-person,grandvalleystateuniversity,170082,Ottawa County,-85.887519,42.965208,24477.0,Suburb,Master's,8.0,1.0,
+177,Great Basin College,Public,NV,Hybrid model,greatbasincollege,182306,Elko County,-115.76733,40.84242,3181.0,Town,Baccalaureate/Associate's Colleges,,,
+178,Grinnell College,Private,IA,Considering options,grinnellcollege,153384,Poweshiek County,-92.721246,41.747048,1721.0,Town,Baccalaureatte,74.0,15.0,950232.0
+179,Hampden-Sydney College,Private,VA,In-person,hampden-sydneycollege,232256,Prince Edward County,-78.461371,37.242482,1070.0,Rural,Baccalaureatte,,,124516.0
+180,Hampshire College,Private,MA,In-person,hampshirecollege,166018,Hampshire County,-72.53240100000002,42.324772,1492.0,Suburb,Baccalaureatte,,,27750.0
+181,Hampton University,Private,VA,Undecided,hamptonuniversity,232265,Hampton city,-76.337647,37.022084,4622.0,City,Master's,,,54657.0
+182,Hanover College,Private,IN,In-person,hanovercollege,150756,Jefferson County,-85.461086,38.712488,1163.0,Town,Baccalaureatte,,,120946.0
+183,Harding University,Private,AR,In-person,hardinguniversity,107044,White County,-91.729008,35.24960499999999,6238.0,Town,Master's,,,18798.0
+184,Harvard University,Private,MA,Considering options,harvarduniversity,166027,Middlesex County,-71.118177,42.374429,28297.0,City,Research,,,1392761.0
+185,Harvey Mudd College,Private,CA,Considering options,harveymuddcollege,115409,Los Angeles County,-117.710594,34.106137,807.0,Suburb,Baccalaureatte,,,306579.0
+186,Hastings College,Private,NE,In-person,hastingscollege,181127,Adams County,-98.373641,40.590448,1144.0,Town,Baccalaureatte,,,66487.0
+187,Haverford College,Private,PA,In-person,haverfordcollege,212911,Montgomery County,-75.302562,40.013368,1187.0,Suburb,Baccalaureatte,,,345178.0
+188,Hawaii Pacific University,Private,HI,In-person,hawaiipacificuniversity,141644,Honolulu County,-157.85941100000005,21.31028,6736.0,City,Master's,,,11735.0
+189,Heidelberg University,Private,OH,In-person,heidelberguniversity,203085,Seneca County,-83.16658100000002,41.114337,1241.0,Town,Master's,14.0,0.0,27948.0
+190,Hendrix College,Private,AR,In-person,hendrixcollege,107080,Faulkner County,-92.442021,35.09972,1444.0,City,Baccalaureatte,,,118930.0
+191,High Point University,Private,NC,In-person,highpointuniversity,198695,Guilford County,-79.994545,35.972674,4199.0,City,Baccalaureatte,,,10066.0
+192,Hilbert College,Private,NY,In-person,hilbertcollege,191621,Erie County,-78.82029,42.75505,1070.0,Suburb,Baccalaureatte,6.0,1.0,5887.0
+193,Hiram College,Private,OH,In-person,hiramcollege,203128,Portage County,-81.141552,41.310998,1311.0,Town,Baccalaureatte,,,49493.0
+194,Hodges University,Private,FL,In-person,hodgesuniversity,367884,Collier County,-81.741241,26.277222,2078.0,Suburb,Master's,,,2060.0
+195,Hofstra University,Private,NY,Considering options,hofstrauniversity,191649,Nassau County,-73.60078,40.71595900000001,10928.0,Suburb,Research,43.0,4.0,34752.0
+196,Hofstra University,Private,NY,In-person,hofstrauniversity,191649,Nassau County,-73.60078,40.71595900000001,10928.0,Suburb,Research,43.0,4.0,34752.0
+197,Hollins University,Private,VA,In-person,hollinsuniversity,232308,Roanoke County,-79.942196,37.354629,750.0,Suburb,Baccalaureatte,,,174079.0
+198,Holy Cross College,Private,IN,In-person,holycrosscollege,150774,St. Joseph County,-86.253668,41.699982,524.0,Suburb,Baccalaureatte,,,1504.0
+199,Hood College,Private,MD,Undecided,hoodcollege,162760,Frederick County,-77.419282,39.421908,2392.0,City,Master's,33.0,3.0,39225.0
+200,Hope College,Private,MI,In-person,hopecollege,170301,Ottawa County,-86.105376,42.788052,3388.0,City,Baccalaureatte,32.0,2.0,46375.0
+201,Hope International University,Private,CA,In-person,hopeinternationaluniversity,120537,Orange County,-117.88573,33.87616,1356.0,Suburb,Baccalaureatte,,,4625.0
+202,Howard University,Private,DC,In-person,howarduniversity,131520,District of Columbia,-77.019478,38.92073900000001,10297.0,City,Research,94.0,5.0,55408.0
+203,Huntingdon College,Private,AL,In-person,huntingdoncollege,101435,Montgomery County,-86.285313,32.350939000000004,1110.0,City,Baccalaureatte,27.0,0.0,41486.0
+204,Husson University,Private,ME,In-person,hussonuniversity,161165,Penobscot County,-68.79132299999999,44.828888,3049.0,City,Master's,,,3673.0
+205,Illinois College,Private,IL,In-person,illinoiscollege,145691,Morgan County,-90.246256,39.73082700000001,1028.0,Town,Baccalaureatte,16.0,3.0,135452.0
+206,Illinois Institute of Technology,Private,IL,In-person,illinoisinstituteoftechnology,145725,Cook County,-87.628346,41.833801,7850.0,City,Research,,,28531.0
+207,Illinois State University,Public,IL,In-person,illinoisstateuniversity,145813,McLean County,-88.99234,40.509724,20272.0,Suburb,Research,1.0,0.0,
+208,Immaculata University,Private,PA,In-person,immaculatauniversity,213011,Chester County,-75.57063000000002,40.027963,3675.0,Suburb,Research,,,4218.0
+209,Indiana State University,Public,IN,In-person,indianastateuniversity,151324,Vigo County,-87.407085,39.46873,12448.0,City,Research,14.0,4.0,
+210,Iona College,Private,NY,Hybrid model,ionacollege,191931,Westchester County,-73.785635,40.927107,4241.0,Suburb,Master's,25.0,1.0,18893.0
+211,Iowa State University,Public,IA,Hybrid model,iowastateuniversity,153603,Story County,-93.648353,42.026368,32955.0,City,Research,36.0,6.0,
+212,Ithaca College,Private,NY,In-person,ithacacollege,191968,Tompkins County,-76.49505699999997,42.42264,6723.0,Suburb,Master's,,,34570.0
+213,Jacksonville State University,Public,AL,In-person,jacksonvillestateuniversity,101480,Calhoun County,-85.766644,33.822128,8693.0,City,Master's,24.0,1.0,
+214,Jacksonville University,Private,FL,Considering options,jacksonvilleuniversity,134945,Duval County,-81.60706,30.350349,4157.0,City,Master's,,,11979.0
+215,James Madison University,Public,VA,In-person,jamesmadisonuniversity,232423,Harrisonburg city,-78.871663,38.435332,20181.0,City,Master's,,,
+216,John Brown University,Private,AR,Hybrid model,johnbrownuniversity,107141,Benton County,-94.559088,36.191077,2596.0,Town,Baccalaureatte,,,38304.0
+217,John Carroll University,Private,OH,Hybrid model,johncarrolluniversity,203368,Cuyahoga County,-81.533103,41.488978,3711.0,Suburb,Master's,32.0,1.0,51044.0
+218,Johns Hopkins University,Private,MD,Considering options,johnshopkinsuniversity,162928,Baltimore city,-76.620799,39.32838,20918.0,City,Research,,,138661.0
+219,Judson University,Private,IL,In-person,judsonuniversity,146339,Kane County,-88.28970799999998,42.05896,1170.0,City,Baccalaureatte,,,11061.0
+220,Juniata College,Private,PA,In-person,juniatacollege,213251,Huntingdon County,-78.015204,40.499511,1635.0,Town,Baccalaureatte,32.0,8.0,60069.0
+221,Kalamazoo College,Private,MI,Undecided,kalamazoocollege,170532,Kalamazoo County,-85.60131700000002,42.290382,1458.0,City,Baccalaureatte,,,132984.0
+222,Kansas State University,Public,KS,In-person,kansasstateuniversity,155399,Riley County,-96.581077,39.188616,24581.0,City,Research,18.0,3.0,
+223,Kean University,Public,NJ,Undecided,keanuniversity,185262,Union County,-74.234668,40.679429,14404.0,Suburb,Master's,4.0,1.0,
+224,Kenyon College,Private,OH,In-person,kenyoncollege,203535,Knox County,-82.397977,40.374408,1705.0,Town,Baccalaureatte,,,106676.0
+225,Keuka College,Private,NY,In-person,keukacollege,192192,Yates County,-77.090518,42.61541,2036.0,Town,Master's,,,6276.0
+226,King's College,Private,PA,In-person,king'scollege,213321,Luzerne County,-75.878603,41.248118,2391.0,City,Master's,30.0,0.0,25137.0
+227,Knox College,Private,IL,In-person,knoxcollege,146427,Knox County,-90.370316,40.941829,1424.0,Town,Baccalaureatte,37.0,11.0,70137.0
+228,La Salle University,Private,PA,In-person,lasalleuniversity,213367,Philadelphia County,-75.152996,40.03850300000001,6436.0,City,Master's,40.0,2.0,14979.0
+229,Lafayette College,Private,PA,Undecided,lafayettecollege,213385,Northampton County,-75.209058,40.700512,2486.0,Suburb,Baccalaureatte,75.0,11.0,292362.0
+230,LaGrange College,Private,GA,In-person,lagrangecollege,140234,Troup County,-85.041394,33.039713,940.0,Town,Baccalaureatte,28.0,1.0,55914.0
+231,Lake Superior State University,Public,MI,In-person,lakesuperiorstateuniversity,170639,Chippewa County,-84.3655,46.491736,2435.0,Town,Baccalaureatte,,,
+232,Lander University,Public,SC,In-person,landeruniversity,218229,Greenwood County,-82.166351,34.201143,2877.0,Town,Baccalaureatte,6.0,2.0,
+233,Lawrence Technological University,Private,MI,Undecided,lawrencetechnologicaluniversity,170675,Oakland County,-83.25003000000002,42.474072,4002.0,City,Master's,,,11860.0
+234,Lawrence University,Private,WI,Considering options,lawrenceuniversity,239017,Outagamie County,-88.39782199999998,44.261323,1553.0,City,Baccalaureatte,64.0,13.0,135566.0
+235,Lee University,Private,TN,In-person,leeuniversity,220613,Bradley County,-84.870018,35.166166,4922.0,City,Master's,,,3331.0
+236,Lehigh University,Private,PA,In-person,lehighuniversity,213543,Northampton County,-75.378887,40.607158,7096.0,City,Research,,,168081.0
+237,LeTourneau University,Private,TX,In-person,letourneauuniversity,226231,Gregg County,-94.72726,32.467658,2729.0,City,Master's,,,5901.0
+238,Lewis University,Private,IL,In-person,lewisuniversity,146612,Will County,-88.079032,41.605432,6525.0,Suburb,Master's,7.0,1.0,8364.0
+239,Lewis-Clark State College,Public,ID,In-person,lewis-clarkstatecollege,142328,Nez Perce County,-117.026371,46.410034,4304.0,City,Baccalaureatte,21.0,3.0,
+240,Liberty University,Private,VA,In-person,libertyuniversity,232557,Lynchburg city,-79.179688,37.350345,77338.0,City,Master's,,,1646.0
+241,Limestone College,Private,SC,In-person,limestonecollege,218238,Cherokee County,-81.648033,35.052919,3307.0,Town,Baccalaureatte,27.0,0.0,5102.0
+242,Lindenwood University,Private,MO,In-person,lindenwooduniversity,177968,St. Charles County,-90.502825,38.788203,12213.0,City,Master's,35.0,12.0,10988.0
+243,Longwood University,Public,VA,In-person,longwooduniversity,232566,Prince Edward County,-78.39578900000002,37.301073,4960.0,Town,Master's,3.0,1.0,
+244,Loras College,Private,IA,In-person,lorascollege,153825,Dubuque County,-90.680232,42.504131,1621.0,City,Baccalaureatte,68.0,1.0,15625.0
+245,Louisiana College,Private,LA,In-person,louisianacollege,159568,Rapides Parish,-92.425567,31.322286,1400.0,Suburb,Baccalaureatte,,,23979.0
+246,Loyola Marymount University,Private,CA,In-person,loyolamarymountuniversity,117946,Los Angeles County,-118.415655,33.970633,9661.0,City,Master's,,,48767.0
+247,Loyola University Chicago,Private,IL,Considering options,loyolauniversitychicago,146719,Cook County,-87.657399,41.999161,15957.0,City,Research,38.0,3.0,31599.0
+248,Loyola University Maryland,Private,MD,In-person,loyolauniversitymaryland,163046,Baltimore city,-76.623417,39.346044,5977.0,City,Master's,,,33559.0
+249,Loyola University New Orleans,Private,LA,Hybrid model,loyolauniversityneworleans,159656,Orleans Parish,-90.120417,29.936141,4686.0,City,Master's,,,59950.0
+250,Lubbock Christian University,Private,TX,In-person,lubbockchristianuniversity,226383,Lubbock County,-101.934816,33.576273,2002.0,City,Master's,10.0,0.0,7821.0
+251,Luther College,Private,IA,In-person,luthercollege,153834,Winneshiek County,-91.803971,43.31358400000001,2466.0,Town,Baccalaureatte,65.0,6.0,48610.0
+252,Lycoming College,Private,PA,In-person,lycomingcollege,213668,Lycoming County,-77.0003,41.246127,1307.0,City,Baccalaureatte,34.0,5.0,118787.0
+253,Lynn University,Private,FL,In-person,lynnuniversity,132657,Palm Beach County,-80.123851,26.382777,2297.0,City,Research,46.0,25.0,10304.0
+254,Lyon College,Private,AR,In-person,lyoncollege,106342,Independence County,-91.628115,35.778934,592.0,Town,Baccalaureatte,,,79323.0
+255,Macalester College,Private,MN,In-person,macalestercollege,173902,Ramsey County,-93.169855,44.936709,2039.0,City,Baccalaureatte,,,340683.0
+256,Manhattan College,Private,NY,In-person,manhattancollege,192703,Bronx County,-73.901893,40.889756,3883.0,City,Master's,,,18273.0
+257,Manhattanville College,Private,NY,In-person,manhattanvillecollege,192749,Westchester County,-73.718316,41.031054,2750.0,Suburb,Master's,,,4845.0
+258,Marietta College,Private,OH,In-person,mariettacollege,203845,Washington County,-81.450038,39.417638,1542.0,Town,Baccalaureatte,39.0,7.0,40982.0
+259,Marquette University,Private,WI,In-person,marquetteuniversity,239105,Milwaukee County,-87.92812099999998,43.038766,11782.0,City,Research,66.0,4.0,41607.0
+260,Marshall University,Public,WV,In-person,marshalluniversity,237525,Cabell County,-82.43065,38.42261,13407.0,City,Master's,22.0,1.0,
+261,Marymount Manhattan College,Private,NY,In-person,marymountmanhattancollege,192864,New York County,-73.959676,40.769108,1833.0,City,Baccalaureatte,,,9214.0
+262,Marymount University,Private,VA,Hybrid model,marymountuniversity,232706,Arlington County,-77.128799,38.905552,3486.0,City,Master's,,,9700.0
+263,Maryville College,Private,TN,In-person,maryvillecollege,220710,Blount County,-83.963853,35.751969,1168.0,Suburb,Baccalaureatte,,,54942.0
+264,Massachusetts Institute of Technology,Private,MA,Undecided,massachusettsinstituteoftechnology,166683,Middlesex County,-71.092115,42.360095,11301.0,City,Research,83.0,10.0,980404.0
+265,McDaniel College,Private,MD,Undecided,mcdanielcollege,164270,Carroll County,-77.001662,39.584879,3229.0,Suburb,Baccalaureatte,,,39288.0
+266,McMurry University,Private,TX,In-person,mcmurryuniversity,226587,Taylor County,-99.750277,32.429551000000004,1216.0,City,Baccalaureatte,7.0,1.0,57169.0
+267,Menlo College,Private,CA,In-person,menlocollege,118693,San Mateo County,-122.181444,37.452906,745.0,Suburb,Baccalaureatte,,,38268.0
+268,Mercer University,Private,GA,Considering options,merceruniversity,140447,Bibb County,-83.651042,32.829731,8351.0,City,Master's,,,24270.0
+269,Mercyhurst University,Private,PA,In-person,mercyhurstuniversity,213987,Erie County,-80.05556800000002,42.103991,3011.0,City,Master's,49.0,9.0,9306.0
+270,Merrimack College,Private,MA,In-person,merrimackcollege,166850,Essex County,-71.124216,42.668352,3067.0,Suburb,Baccalaureatte,,,14432.0
+271,Messiah College,Private,PA,In-person,messiahcollege,213996,Cumberland County,-76.98849200000002,40.15867,3084.0,Suburb,Baccalaureatte,39.0,3.0,40027.0
+272,Metropolitan State University,Public,CO,Hybrid model,metropolitanstateuniversity,174020,Ramsey County,-93.074153,44.957017,8510.0,City,Master's,,,
+273,Michigan State University,Public,MI,In-person,michiganstateuniversity,171100,Ingham County,-84.473639,42.72476,49317.0,City,Research,11.0,17.0,
+274,Michigan Technological University,Public,MI,In-person,michigantechnologicaluniversity,171128,Houghton County,-88.546403,47.1183,6975.0,Town,Research,,,
+275,Mid-America Christian University,Private,OK,In-person,mid-americachristianuniversity,245953,Cleveland County,-97.578297,35.34778499999999,2942.0,City,Baccalaureatte,,,905.0
+276,Mid-Atlantic Christian University,Private,NC,In-person,mid-atlanticchristianuniversity,199458,Pasquotank County,-76.217496,36.30376500000001,162.0,Town,Baccalaureatte,,,16582.0
+277,Middle Tennessee State University,Public,TN,In-person,middletennesseestateuniversity,220978,Rutherford County,-86.362094,35.849139,23881.0,City,Research,,,
+278,Middlebury College,Private,VT,Undecided,middleburycollege,230959,Addison County,-73.176068,44.009117,2495.0,Town,Baccalaureatte,,,289779.0
+279,Midwestern State University,Public,TX,In-person,midwesternstateuniversity,226833,Wichita County,-98.51774,33.877143,5870.0,City,Master's,3.0,4.0,
+280,Millikin University,Private,IL,In-person,millikinuniversity,147244,Macon County,-88.974571,39.842604,2261.0,City,Baccalaureatte,17.0,1.0,47043.0
+281,Millsaps College,Private,MS,In-person,millsapscollege,175980,Hinds County,-90.178084,32.3231,804.0,City,Baccalaureatte,,,112710.0
+282,Milwaukee School of Engineering,Private,WI,In-person,milwaukeeschoolofengineering,239318,Milwaukee County,-87.907691,43.045364,2658.0,City,Master's,32.0,9.0,20755.0
+283,Mississippi College,Private,MS,In-person,mississippicollege,176053,Hinds County,-90.330452,32.334565000000005,4921.0,Suburb,Master's,44.0,2.0,14482.0
+284,Missouri Southern State University,Public,MO,In-person,missourisouthernstateuniversity,178341,Jasper County,-94.460893,37.095722,5616.0,City,Baccalaureatte,16.0,1.0,
+285,Missouri University of Science and Technology,Public,MO,In-person,missouriuniversityofscienceandtechnology,178411,Phelps County,-91.7759,37.95585300000001,8129.0,Town,Research,18.0,2.0,
+286,Missouri Western State University,Public,MO,In-person,missouriwesternstateuniversity,178387,Buchanan County,-94.785643,39.7575,5795.0,City,Baccalaureatte,8.0,1.0,
+287,Montana State University,Public,MT,In-person,montanastateuniversity,180461,Gallatin County,-111.049918,45.666829,14852.0,Town,Research,,,
+288,Montclair State University,Public,NJ,Considering options,montclairstateuniversity,185590,Essex County,-74.199455,40.859233,19464.0,Suburb,Master's,3.0,0.0,
+289,Moravian College,Private,PA,In-person,moraviancollege,214157,Northampton County,-75.38097900000002,40.630888,1837.0,City,Baccalaureatte,44.0,0.0,55153.0
+290,Morehead State University,Public,KY,In-person,moreheadstateuniversity,157386,Rowan County,-83.429742,38.188462,11358.0,Town,Master's,14.0,0.0,
+291,Morgan State University,Public,MD,Considering options,morganstateuniversity,163453,Baltimore city,-76.584238,39.344235,7546.0,City,Research,,,
+292,Morningside College,Private,IA,In-person,morningsidecollege,154004,Woodbury County,-96.360738,42.47324,2542.0,City,Baccalaureatte,41.0,0.0,24937.0
+293,Murray State University,Public,KY,In-person,murraystateuniversity,157401,Calloway County,-88.323493,36.61241,10943.0,Town,Master's,36.0,4.0,
+294,Nazareth College,Private,NY,In-person,nazarethcollege,193584,Monroe County,-77.51441700000002,43.102406,2823.0,Suburb,Master's,7.0,1.0,21791.0
+295,Nebraska Wesleyan University,Private,NE,In-person,nebraskawesleyanuniversity,181446,Lancaster County,-96.648414,40.838789,2149.0,City,Baccalaureatte,18.0,1.0,24545.0
+296,New College of Florida,Public,FL,Considering options,newcollegeofflorida,262129,Sarasota County,-82.55858,27.384925,793.0,City,Baccalaureatte,19.0,1.0,
+297,New England College,Private,NH,In-person,newenglandcollege,182980,Merrimack County,-71.822928,43.177005,2224.0,Rural,Master's,,,5433.0
+298,New Jersey Institute of Technology,Public,NJ,In-person,newjerseyinstituteoftechnology,185828,Essex County,-74.177113,40.741997,10130.0,City,Research,4.0,2.0,
+299,New York Institute of Technology,Private,NY,Considering options,newyorkinstituteoftechnology,194091,Nassau County,-73.608885,40.814402,7545.0,Suburb,Master's,,,15730.0
+300,New York University,Private,NY,Hybrid model,newyorkuniversity,193900,New York County,-73.997264,40.729452,44599.0,City,Research,61.0,15.0,66851.0
+301,Newberry College,Private,SC,In-person,newberrycollege,218414,Newberry County,-81.601966,34.286201,1039.0,Town,Baccalaureatte,27.0,3.0,20081.0
+302,North Carolina A&T State University,Public,NC,In-person,northcarolinaa&tstateuniversity,199102,Guilford County,-79.770152,36.076737,10561.0,City,Research,19.0,1.0,
+303,North Carolina Central University,Public,NC,In-person,northcarolinacentraluniversity,199157,Durham County,-78.898602,35.974237,8093.0,City,Master's,11.0,0.0,
+304,North Central College,Private,IL,Considering options,northcentralcollege,147660,DuPage County,-88.143649,41.775304,3048.0,City,Master's,11.0,2.0,33860.0
+305,North Park University,Private,IL,In-person,northparkuniversity,147679,Cook County,-87.709142,41.9751,3136.0,City,Master's,33.0,3.0,26877.0
+306,Northeastern University,Private,MA,In-person,northeasternuniversity,167358,Suffolk County,-71.088782,42.339992,20053.0,City,Research,,,23979.0
+307,Northern Arizona University,Public,AZ,In-person,northernarizonauniversity,105330,Coconino County,-111.657653,35.180095,26594.0,City,Research,39.0,1.0,
+308,Northern Illinois University,Public,IL,Undecided,northernillinoisuniversity,147703,DeKalb County,-88.766065,41.933791,21138.0,Suburb,Research,5.0,1.0,
+309,Northern Illinois University,Public,IL,Hybrid model,northernillinoisuniversity,147703,DeKalb County,-88.766065,41.933791,21138.0,Suburb,Research,5.0,1.0,
+310,Northern Michigan University,Public,MI,In-person,northernmichiganuniversity,171456,Marquette County,-87.40385699999999,46.558037,8918.0,Town,Master's,22.0,1.0,
+311,Northwest Missouri State University,Public,MO,In-person,northwestmissouristateuniversity,178624,Nodaway County,-94.884341,40.352706,6485.0,Town,Master's,28.0,0.0,
+312,Northwest Nazarene University,Private,ID,In-person,northwestnazareneuniversity,142461,Canyon County,-116.564792,43.563181,2246.0,Suburb,Master's,46.0,2.0,12430.0
+313,Northwestern College,Private,IA,In-person,northwesterncollege,154101,Sioux County,-96.058382,42.998955,1233.0,Town,Baccalaureatte,,,35950.0
+314,Northwestern University,Private,IL,Hybrid model,northwesternuniversity,147767,Cook County,-87.673653,42.058377,21592.0,City,Research,,,330031.0
+315,Norwich University,Private,VT,In-person,norwichuniversity,230995,Washington County,-72.660129,44.139402,3417.0,Town,Master's,,,43490.0
+316,Notre Dame of Maryland University,Private,MD,In-person,notredameofmarylanduniversity,163578,Baltimore city,-76.619701,39.351307,2877.0,City,Master's,,,17107.0
+317,Nova Southeastern University,Private,FL,In-person,novasoutheasternuniversity,136215,Broward County,-80.24248,26.079337,25670.0,Suburb,Research,,,2645.0
+318,Oakland City University,Private,IN,In-person,oaklandcityuniversity,152099,Gibson County,-87.351611,38.339606,2418.0,Town,Master's,,,3256.0
+319,Oakland University,Public,MI,Hybrid model,oaklanduniversity,171571,Oakland County,-83.218866,42.672586,20169.0,Suburb,Research,2.0,2.0,
+320,Oberlin College,Private,OH,In-person,oberlincollege,204501,Lorain County,-82.221786,41.29474,2911.0,Town,Baccalaureatte,,,261456.0
+321,Ohio Dominican University,Private,OH,In-person,ohiodominicanuniversity,204617,Franklin County,-82.940499,39.99265,2573.0,City,Master's,6.0,3.0,11865.0
+322,Ohio Northern University,Private,OH,In-person,ohionorthernuniversity,204635,Hardin County,-83.830729,40.766144,3619.0,Town,Baccalaureatte,,,44521.0
+323,Ohio Wesleyan University,Private,OH,In-person,ohiowesleyanuniversity,204909,Delaware County,-83.06791199999998,40.296912,1830.0,Suburb,Baccalaureatte,,,102736.0
+324,Oklahoma Panhandle State University,Public,OK,In-person,oklahomapanhandlestateuniversity,207351,Texas County,-101.638488,36.594518,1375.0,Rural,Baccalaureatte,54.0,1.0,
+325,Old Dominion University,Public,VA,In-person,olddominionuniversity,232982,Norfolk city,-76.309653,36.884919,24828.0,City,Research,9.0,1.0,
+326,Oral Roberts University,Private,OK,In-person,oralrobertsuniversity,207582,Tulsa County,-95.954215,36.050705,3414.0,City,Master's,,,12590.0
+327,Oregon State University,Public,OR,In-person,oregonstateuniversity,209542,Benton County,-123.274721,44.56274000000001,27902.0,City,Research,23.0,3.0,
+328,Otterbein University,Private,OH,In-person,otterbeinuniversity,204936,Franklin County,-82.936231,40.12534,2919.0,Suburb,Master's,14.0,0.0,28859.0
+329,Ouachita Baptist University,Private,AR,In-person,ouachitabaptistuniversity,107512,Clark County,-93.052442,34.125045,1543.0,Town,Baccalaureatte,35.0,1.0,54781.0
+330,Pacific Lutheran University,Private,WA,In-person,pacificlutheranuniversity,236230,Pierce County,-122.445372,47.145494,3462.0,Suburb,Master's,,,22431.0
+331,Pacific University,Private,OR,In-person,pacificuniversity,209612,Washington County,-123.108777,45.521394,3583.0,Suburb,Master's,,,17445.0
+332,Palm Beach Atlantic University,Private,FL,In-person,palmbeachatlanticuniversity,136330,Palm Beach County,-80.049758,26.704629,3764.0,City,Master's,38.0,3.0,23183.0
+333,Pepperdine University,Private,CA,In-person,pepperdineuniversity,121150,Los Angeles County,-118.707677,34.041912,7315.0,Suburb,Research,41.0,5.0,96659.0
+334,Pittsburg State University,Public,KS,In-person,pittsburgstateuniversity,155681,Crawford County,-94.704782,37.3913,7400.0,Town,Master's,30.0,0.0,
+335,Plymouth State University,Public,MA,In-person,plymouthstateuniversity,183080,Grafton County,-71.691164,43.757386,5236.0,Town,Master's,50.0,2.0,
+336,Point Loma Nazarene University,Private,CA,In-person,pointlomanazareneuniversity,121309,San Diego County,-117.251204,32.713295,3359.0,City,Master's,22.0,0.0,12396.0
+337,Point Park University,Public,PA,In-person,pointparkuniversity,215442,Allegheny County,-80.001462,40.438526,3841.0,City,Master's,33.0,3.0,8916.0
+338,Pomona College,Private,CA,Undecided,pomonacollege,121345,Los Angeles County,-117.711944,34.098298,1610.0,Suburb,Baccalaureatte,56.0,18.0,1146818.0
+339,Portland State University,Public,OR,Undecided,portlandstateuniversity,209807,Multnomah County,-122.683553,45.511229,28260.0,City,Research,21.0,9.0,
+340,Prairie View A&M University,Public,TX,In-person,prairieviewa&muniversity,227526,Waller County,-95.992066,30.094591,8283.0,Town,Master's,9.0,0.0,
+341,Presbyterian College,Private,SC,In-person,presbyteriancollege,218539,Laurens County,-81.874408,34.465697,1433.0,Town,Baccalaureatte,39.0,1.0,59223.0
+342,Prescott College,Private,AZ,In-person,prescottcollege,105589,Yavapai County,-112.476509,34.5445,943.0,City,Master's,,,1166.0
+343,Princeton University,Private,NJ,Undecided,princetonuniversity,186131,Mercer County,-74.663708,40.348496,8014.0,Suburb,Research,72.0,12.0,2320421.0
+344,Providence Christian College,Private,CA,In-person,providencechristiancollege,455770,Los Angeles County,-118.118491,34.17275,66.0,City,Baccalaureatte,,,350.0
+345,Queens University of Charlotte,Private,NC,Considering options,queensuniversityofcharlotte,199412,Mecklenburg County,-80.832227,35.18892899999999,2285.0,City,Master's,,,42253.0
+346,Quincy University,Private,IL,In-person,quincyuniversity,148131,Adams County,-91.387928,39.939235,1455.0,Town,Master's,33.0,0.0,11632.0
+347,Radford University,Public,VA,In-person,radforduniversity,233277,Radford city,-80.54973100000002,37.136914,9928.0,City,Master's,6.0,0.0,
+348,Randolph College,Private,VA,In-person,randolphcollege,233301,Lynchburg city,-79.17079,37.437429,682.0,City,Baccalaureatte,,,211002.0
+349,Randolph-Macon College,Private,VA,In-person,randolph-maconcollege,233295,Hanover County,-77.47225300000002,37.749654,1315.0,Suburb,Baccalaureatte,22.0,0.0,101394.0
+350,Reed College,Private,OR,Undecided,reedcollege,209922,Multnomah County,-122.63064,45.480376,1411.0,City,Baccalaureatte,,,328925.0
+351,Regis University,Private,CO,In-person,regisuniversity,127918,Denver County,-105.031385,39.78976,9722.0,City,Master's,41.0,0.0,5991.0
+352,Rensselaer Polytechnic Institute,Private,NY,Undecided,rensselaerpolytechnicinstitute,194824,Rensselaer County,-73.678768,42.728983,6714.0,City,Research,61.0,9.0,88229.0
+353,Rhodes College,Private,TN,In-person,rhodescollege,221351,Shelby County,-89.989187,35.154424,2040.0,City,Baccalaureatte,,,149425.0
+354,Rice University,Private,TX,Hybrid model,riceuniversity,227757,Harris County,-95.403625,29.716485,6628.0,City,Research,38.0,14.0,729227.0
+355,Rider University,Private,NJ,Considering options,rideruniversity,186283,Mercer County,-74.742822,40.283122,5410.0,Suburb,Master's,28.0,3.0,11560.0
+356,Roanoke College,Private,VA,In-person,roanokecollege,233426,Salem city,-80.056433,37.29686,2029.0,Suburb,Baccalaureatte,50.0,2.0,54414.0
+357,Robert Morris University,Private,PA,In-person,robertmorrisuniversity,215655,Allegheny County,-80.21178499999998,40.521088,5481.0,Suburb,Master's,12.0,0.0,5875.0
+358,Rochester Institute of Technology,Private,NY,In-person,rochesterinstituteoftechnology,195003,Monroe County,-77.67520999999998,43.090325,16583.0,Suburb,Master's,46.0,5.0,47198.0
+359,Rockhurst University,Private,MO,In-person,rockhurstuniversity,179043,Jackson County,-94.571249,39.030843,2920.0,City,Master's,32.0,2.0,15452.0
+360,Roger Williams University,Private,RI,In-person,rogerwilliamsuniversity,217518,Bristol County,-71.261836,41.647314,4732.0,Suburb,Master's,87.0,3.0,14636.0
+361,Rollins College,Private,FL,In-person,rollinscollege,136950,Orange County,-81.34871600000002,28.591992,3153.0,Suburb,Master's,47.0,0.0,113393.0
+362,Roosevelt University,Private,IL,Considering options,rooseveltuniversity,148487,Cook County,-87.62495200000002,41.876055,6130.0,City,Master's,,,16852.0
+363,Rosemont College,Private,PA,Considering options,rosemontcollege,215691,Montgomery County,-75.329898,40.034771,957.0,Suburb,Master's,27.0,1.0,16442.0
+364,Rowan University,Public,NJ,Considering options,rowanuniversity,184782,Gloucester County,-75.117974,39.709768,13349.0,Suburb,Master's,,,
+365,Sacred Heart University,Private,CT,In-person,sacredheartuniversity,130253,Fairfield County,-73.24461,41.221548,6983.0,Suburb,Master's,71.0,1.0,20869.0
+366,Saint Francis University,Private,PA,In-person,saintfrancisuniversity,215743,Cambria County,-78.638469,40.502782,2344.0,Town,Master's,,,14432.0
+367,Saint Leo University,Private,FL,Undecided,saintleouniversity,137032,Pasco County,-82.257287,28.336776,16275.0,Suburb,Master's,,,2998.0
+368,Saint Mary's College,Private,IN,In-person,saintmary'scollege,152390,St. Joseph County,-86.256947,41.707274,1479.0,Suburb,Baccalaureatte,76.0,2.0,87994.0
+369,Saint Mary's University of Minnesota,Private,MI,In-person,saintmary'suniversityofminnesota,174817,Winona County,-91.696652,44.045322,5528.0,Town,Research,,,10096.0
+370,Saint Norbert College,Private,WI,In-person,saintnorbertcollege,239716,Brown County,-88.067301,44.444651,2222.0,Suburb,Baccalaureatte,,,36623.0
+371,Samford University,Private,AL,In-person,samforduniversity,102049,Jefferson County,-86.790932,33.464578,4833.0,Suburb,Master's,,,60561.0
+372,Santa Clara University,Private,CA,In-person,santaclarauniversity,122931,Santa Clara County,-121.938189,37.352706,8770.0,City,Master's,36.0,0.0,69357.0
+373,Sarah Lawrence College,Private,NY,Considering options,sarahlawrencecollege,195304,Westchester County,-73.84380999999998,40.934147,1782.0,Suburb,Baccalaureatte,,,44780.0
+374,Schreiner University,Private,TX,In-person,schreineruniversity,228042,Kerr County,-99.131076,30.03108,1136.0,Town,Baccalaureatte,1.0,0.0,51276.0
+375,Scripps College,Private,CA,Undecided,scrippscollege,123165,Los Angeles County,-117.71133600000002,34.103655,1009.0,Suburb,Baccalaureatte,48.0,2.0,289527.0
+376,Seattle University,Private,WA,In-person,seattleuniversity,236595,King County,-122.3197,47.610138,7422.0,City,Master's,58.0,4.0,27642.0
+377,Seton Hall University,Private,NJ,In-person,setonhalluniversity,186584,Essex County,-74.24875300000002,40.742859,9903.0,Suburb,Research,,,27638.0
+378,Seton Hill University,Private,PA,In-person,setonhilluniversity,215947,Westmoreland County,-79.556228,40.308623,2357.0,Suburb,Baccalaureatte,29.0,3.0,15171.0
+379,Shenandoah University,Private,VA,Hybrid model,shenandoahuniversity,233541,Winchester city,-78.158376,39.166058,4003.0,City,Master's,45.0,4.0,13689.0
+380,Shepherd University,Public,WV,Considering options,shepherduniversity,237792,Jefferson County,-77.80484399999997,39.434319,4221.0,Town,Master's,35.0,0.0,
+381,Siena College,Private,NY,In-person,sienacollege,195474,Albany County,-73.75153,42.718586,3207.0,Suburb,Baccalaureatte,21.0,1.0,42117.0
+382,Siena Heights University,Private,MI,In-person,sienaheightsuniversity,172264,Lenawee County,-84.01514399999998,41.905952,2684.0,Town,Master's,10.0,2.0,4399.0
+383,Simpson College,Private,IA,In-person,simpsoncollege,154350,Warren County,-93.563471,41.365503,1773.0,Town,Baccalaureatte,18.0,0.0,40815.0
+384,Simpson University,Private,CA,In-person,simpsonuniversity,123457,Shasta County,-122.333048,40.61331,1255.0,City,Baccalaureatte,,,4355.0
+385,Skidmore College,Private,NY,Undecided,skidmorecollege,195526,Saratoga County,-73.785108,43.092696,2702.0,Suburb,Baccalaureatte,62.0,10.0,110095.0
+386,Smith College,Private,MA,Considering options,smithcollege,167835,Hampshire County,-72.638094,42.317933,3033.0,Suburb,Baccalaureatte,64.0,20.0,462144.0
+387,Soka University of America,Private,CA,Online,sokauniversityofamerica,399911,Orange County,-117.734893,33.549425,412.0,Suburb,Baccalaureatte,26.0,40.0,2505435.0
+388,Southeast Missouri State University,Public,MO,Undecided,southeastmissouristateuniversity,179557,Cape Girardeau County,-89.529119,37.31575,11767.0,City,Master's,20.0,3.0,
+389,Southeastern Oklahoma State University,Public,OK,In-person,southeasternoklahomastateuniversity,207847,Bryan County,-96.376381,34.003609999999995,3826.0,Town,Master's,24.0,2.0,
+390,Southern Methodist University,Private,TX,In-person,southernmethodistuniversity,228246,Dallas County,-96.784855,32.845254,10929.0,Suburb,Research,56.0,4.0,127702.0
+391,Southern Nazarene University,Private,OK,In-person,southernnazareneuniversity,206862,Oklahoma County,-97.629504,35.513295,2249.0,Suburb,Master's,,,11081.0
+392,Southern New Hampshire University,Private,NH,Online,southernnewhampshireuniversity,183026,Hillsborough County,-71.453938,43.039892,28389.0,City,Master's,,,1025.0
+393,Southern Wesleyan University,Private,SC,In-person,southernwesleyanuniversity,217776,Pickens County,-82.761586,34.728068,1701.0,Suburb,Master's,,,2753.0
+394,Southwest Baptist University,Private,MO,In-person,southwestbaptistuniversity,179326,Polk County,-93.410451,37.601603,3812.0,Town,Master's,,,7356.0
+395,Southwest Minnesota State University,Public,MN,In-person,southwestminnesotastateuniversity,175078,Lyon County,-95.75983,44.455023,6917.0,Town,Master's,,,
+396,Southwestern Oklahoma State University,Public,OK,In-person,southwesternoklahomastateuniversity,207865,Custer County,-98.707964,35.534609,4942.0,Town,Master's,8.0,4.0,
+397,Southwestern University,Private,TX,Hybrid model,southwesternuniversity,228343,Williamson County,-97.664637,30.635194,1535.0,Suburb,Baccalaureatte,9.0,3.0,180164.0
+398,Spring Arbor University,Private,MI,In-person,springarboruniversity,172334,Jackson County,-84.551918,42.20623300000001,3962.0,Suburb,Master's,13.0,1.0,3188.0
+399,Springfield College,Private,MA,In-person,springfieldcollege,167899,Hampden County,-72.555688,42.105033,3255.0,City,Master's,,,16906.0
+400,Stanford University,Private,CA,Hybrid model,stanforduniversity,243744,Santa Clara County,-122.182212,37.431746,18346.0,Suburb,Research,52.0,13.0,1215932.0
+401,Stetson University,Private,FL,In-person,stetsonuniversity,137546,Volusia County,-81.301604,29.036295000000006,4044.0,Suburb,Master's,,,41755.0
+402,Stevens Institute of Technology,Private,NJ,Considering options,stevensinstituteoftechnology,186867,Hudson County,-74.025334,40.744776,5784.0,Suburb,Research,36.0,2.0,37693.0
+403,Stony Brook University,Public,NY,Undecided,stonybrookuniversity,196097,Suffolk County,-73.123595,40.913138,24143.0,Suburb,Research,,,
+404,Suffolk University,Private,MA,Considering options,suffolkuniversity,168005,Suffolk County,-71.06196899999998,42.359088,8675.0,City,Master's,,,19361.0
+405,Susquehanna University,Private,PA,In-person,susquehannauniversity,216278,Snyder County,-76.87521,40.79774000000001,2187.0,Town,Baccalaureatte,,,53589.0
+406,Swarthmore College,Private,PA,Undecided,swarthmorecollege,216287,Delaware County,-75.356066,39.904081,1534.0,Suburb,Baccalaureatte,77.0,11.0,1034611.0
+407,Sweet Briar College,Private,VA,In-person,sweetbriarcollege,233718,Amherst County,-79.079735,37.556317,710.0,Suburb,Baccalaureatte,58.0,0.0,132618.0
+408,Syracuse University,Private,NY,In-person,syracuseuniversity,196413,Onondaga County,-76.136738,43.040525,21267.0,City,Research,54.0,11.0,49259.0
+409,Taylor University,Private,IN,In-person,tayloruniversity,152530,Grant County,-85.49690600000002,40.458382,2245.0,Town,Baccalaureatte,58.0,4.0,31921.0
+410,Temple University,Public,PA,Hybrid model,templeuniversity,216339,Philadelphia County,-75.15826700000002,39.980943,37270.0,City,Research,18.0,2.0,9745.0
+411,Tennessee State University,Public,TN,In-person,tennesseestateuniversity,221838,Davidson County,-86.82937,36.16899,8883.0,City,Research,,,
+412,Tennessee Technological University,Public,TN,In-person,tennesseetechnologicaluniversity,221847,Putnam County,-85.503957,36.17465900000001,11118.0,Town,Master's,2.0,7.0,
+413,Texas Christian University,Private,TX,In-person,texaschristianuniversity,228875,Tarrant County,-97.361537,32.709568,9925.0,City,Research,51.0,4.0,134191.0
+414,Texas Tech University,Public,TX,In-person,texastechuniversity,229115,Lubbock County,-101.876917,33.580309,33111.0,City,Research,5.0,1.0,
+415,Texas Wesleyan University,Private,TX,In-person,texaswesleyanuniversity,229160,Tarrant County,-97.279631,32.733314,2397.0,City,Master's,3.0,32.0,14031.0
+416,Texas Woman's University,Public,TX,In-person,texaswoman'suniversity,229179,Denton County,-97.129088,33.227002,15058.0,City,Research,1.0,0.0,
+417,The New School,Private,NY,Considering options,thenewschool,193654,New York County,-73.994636,40.735275,10301.0,City,Research,48.0,32.0,22045.0
+418,Thiel College,Private,PA,In-person,thielcollege,216357,Mercer County,-80.382134,41.41308,1100.0,Town,Baccalaureatte,36.0,1.0,26599.0
+419,Transylvania University,Private,KY,Undecided,transylvaniauniversity,157818,Fayette County,-84.493883,38.053236,1082.0,City,Baccalaureatte,,,115910.0
+420,Trevecca Nazarene University,Private,TN,In-person,treveccanazareneuniversity,221892,Davidson County,-86.753566,36.142115,2406.0,City,Research,,,9927.0
+421,Trine University,Private,IN,In-person,trineuniversity,152567,Steuben County,-85.005696,41.633389,1875.0,Town,Baccalaureatte,42.0,1.0,10985.0
+422,Trinity College,Private,IL,In-person,trinitycollege,130590,Hartford County,-72.688684,41.746746,2390.0,City,Baccalaureatte,75.0,11.0,206497.0
+423,Trinity University,Private,TX,In-person,trinityuniversity,229267,Bexar County,-98.482577,29.46286,2358.0,City,Master's,23.0,9.0,410997.0
+424,Trinity Washington University,Private,DC,Hybrid model,trinitywashingtonuniversity,131876,District of Columbia,-77.004261,38.927398,2506.0,City,Master's,,,12127.0
+425,Troy University,Public,AL,In-person,troyuniversity,102368,Pike County,-85.950191,31.800128000000004,20573.0,Rural,Master's,26.0,2.0,
+426,Tufts University,Private,MA,Considering options,tuftsuniversity,168148,Middlesex County,-71.120641,42.406004,10872.0,Suburb,Research,69.0,13.0,130838.0
+427,Union College,Private,NY,In-person,unioncollege,157863,Knox County,-83.887982,36.869066,1164.0,Town,Master's,,,19422.0
+428,Union College,Private,NY,In-person,unioncollege,181738,Lancaster County,-96.651095,40.77477800000001,911.0,City,Baccalaureatte,,,18228.0
+429,Union College,Private,NY,In-person,unioncollege,196866,Schenectady County,-73.928498,42.81757800000001,2246.0,City,Baccalaureatte,62.0,8.0,172819.0
+430,Union University,Private,TN,In-person,unionuniversity,221971,Madison County,-88.858524,35.676896,3993.0,City,Master's,12.0,0.0,7673.0
+431,University of Alabama at Birmingham,Public,AL,In-person,universityofalabamaatbirmingham,100663,Jefferson County,-86.80917,33.50223,18568.0,City,Research,13.0,1.0,
+432,University of Arizona,Public,AZ,In-person,universityofarizona,104179,Pima County,-110.950769,32.232071000000005,40621.0,City,Research,34.0,0.0,
+433,University of Arkansas at Little Rock,Public,AR,In-person,universityofarkansasatlittlerock,106245,Pulaski County,-92.341835,34.726644,12377.0,City,Research,7.0,5.0,
+434,University of Bridgeport,Private,CT,In-person,universityofbridgeport,128744,Fairfield County,-73.189352,41.165587,4842.0,City,Master's,52.0,10.0,6939.0
+435,University of Central Arkansas,Public,AR,In-person,universityofcentralarkansas,106704,Faulkner County,-92.45931,35.078196000000005,11534.0,City,Master's,7.0,2.0,
+436,University of Central Florida,Public,FL,In-person,universityofcentralflorida,132903,Orange County,-81.19880500000002,28.60106,59589.0,Suburb,Research,6.0,3.0,
+437,University of Central Missouri,Public,MO,In-person,universityofcentralmissouri,176965,Johnson County,-93.737445,38.755882,12513.0,Town,Master's,9.0,2.0,
+438,University of Central Oklahoma,Public,OK,In-person,universityofcentraloklahoma,206941,Oklahoma County,-97.470985,35.658239,17220.0,Suburb,Master's,3.0,7.0,
+439,University of Charleston,Private,WV,In-person,universityofcharleston,237312,Kanawha County,-81.618667,38.332577,1935.0,City,Baccalaureatte,32.0,4.0,19512.0
+440,University of Chicago,Private,IL,Undecided,universityofchicago,144050,Cook County,-87.601196,41.78917,15048.0,City,Research,70.0,12.0,429800.0
+441,University of Connecticut,Public,CT,Considering options,universityofconnecticut,129020,Tolland County,-72.24951899999998,41.808205,25911.0,Suburb,Research,28.0,2.0,
+442,University of Dallas,Private,TX,In-person,universityofdallas,224323,Dallas County,-96.921573,32.846202000000005,2598.0,City,Master's,,,22938.0
+443,University of Dayton,Private,OH,In-person,universityofdayton,202480,Montgomery County,-84.173662,39.73686,10835.0,City,Research,44.0,10.0,41246.0
+444,University of Delaware,Public,DE,In-person,universityofdelaware,130943,New Castle County,-75.7536,39.679791,22166.0,Suburb,Research,57.0,0.0,55964.0
+445,University of Denver,Private,CO,In-person,universityofdenver,127060,Denver County,-104.964625,39.695954,11778.0,City,Research,59.0,7.0,38352.0
+446,University of Detroit Mercy,Private,MI,Hybrid model,universityofdetroitmercy,169716,Wayne County,-83.138369,42.417168,5112.0,City,Master's,6.0,4.0,6804.0
+447,University of Evansville,Private,IN,In-person,universityofevansville,150534,Vanderburgh County,-87.531963,37.969955,2630.0,City,Master's,43.0,9.0,43352.0
+448,University of Florida,Public,FL,In-person,universityofflorida,134130,Alachua County,-82.361195,29.638248,49878.0,City,Research,7.0,4.0,
+449,University of Hartford,Private,CT,In-person,universityofhartford,129525,Hartford County,-72.714965,41.796485,6820.0,City,Master's,59.0,3.0,19519.0
+450,University of Houston,Public,TX,Considering options,universityofhouston,225511,Harris County,-95.344851,29.719988,39540.0,City,Research,3.0,4.0,
+451,University of Idaho,Public,ID,In-person,universityofidaho,142285,Latah County,-117.024296,46.726894,12024.0,Rural,Research,24.0,3.0,
+452,University of Illinois at Chicago,Public,IL,Hybrid model,universityofillinoisatchicago,145600,Cook County,-87.651145,41.872651,28038.0,City,Research,3.0,2.0,
+453,University of Illinois at Springfield,Public,IL,In-person,universityofillinoisatspringfield,148654,Sangamon County,-89.614917,39.729862,5137.0,City,Master's,2.0,2.0,
+454,University of Illinois at Urbana-Champaign,Public,IL,In-person,universityofillinoisaturbana-champaign,145637,Champaign County,-88.23030899999998,40.108864,44942.0,City,Research,10.0,16.0,
+455,University of Indianapolis,Private,IN,In-person,universityofindianapolis,151263,Marion County,-86.13474699999998,39.709671,5452.0,City,Master's,10.0,5.0,16089.0
+456,University of Iowa,Public,IA,In-person,universityofiowa,153658,Johnson County,-91.535698,41.660695,29748.0,City,Research,41.0,11.0,
+457,University of Kansas,Public,KS,In-person,universityofkansas,155317,Douglas County,-95.24587,38.957351,26968.0,City,Research,33.0,3.0,
+458,University of Kentucky,Public,KY,In-person,universityofkentucky,157085,Fayette County,-84.50917700000002,38.032393,28435.0,City,Research,30.0,2.0,
+459,University of La Verne,Private,CA,In-person,universityoflaverne,117140,Los Angeles County,-117.772634,34.10086,8796.0,Suburb,Research,,,6673.0
+460,University of Louisville,Public,KY,Considering options,universityoflouisville,157289,Jefferson County,-85.758843,38.215752,21444.0,City,Research,,,
+461,University of Mary,Private,ND,In-person,universityofmary,200217,Burleigh County,-100.752386,46.724893,2910.0,Rural,Master's,47.0,0.0,12374.0
+462,University of Mary Hardin-Baylor,Private,TX,In-person,universityofmaryhardin-baylor,226471,Bell County,-97.463479,31.066798,3492.0,Suburb,Master's,2.0,1.0,23638.0
+463,University of Mary Washington,Public,VA,In-person,universityofmarywashington,232681,Fredericksburg city,-77.47439200000002,38.302206,4831.0,Suburb,Master's,10.0,0.0,
+464,University of Memphis,Public,TN,In-person,universityofmemphis,220862,Shelby County,-89.982038,35.115934,21480.0,City,Research,9.0,0.0,
+465,University of Miami,Private,FL,In-person,universityofmiami,135726,Miami-Dade County,-80.27645,25.720406,16935.0,Suburb,Research,54.0,14.0,48576.0
+466,University of Mobile,Private,AL,In-person,universityofmobile,101693,Mobile County,-88.128934,30.793247,1610.0,Rural,Baccalaureatte,,,14086.0
+467,University of Montevallo,Public,AL,In-person,universityofmontevallo,101709,Shelby County,-86.865099,33.10625,3062.0,Suburb,Master's,5.0,0.0,
+468,University of New England,Private,ME,In-person,universityofnewengland,161457,York County,-70.385882,43.458172,6032.0,Suburb,Master's,,,5499.0
+469,University of New Haven,Private,CT,Considering options,universityofnewhaven,129941,New Haven County,-72.961472,41.291314,6555.0,Suburb,Master's,65.0,5.0,4809.0
+470,University of North Carolina at Asheville,Public,NC,In-person,universityofnorthcarolinaatasheville,199111,Buncombe County,-82.565259,35.616618,3784.0,City,Baccalaureatte,15.0,0.0,
+471,University of North Carolina at Chapel Hill,Public,NC,In-person,universityofnorthcarolinaatchapelhill,199120,Orange County,-79.050969,35.912165,29127.0,City,Research,16.0,1.0,
+472,University of North Carolina at Charlotte,Public,NC,In-person,universityofnorthcarolinaatcharlotte,199139,Mecklenburg County,-80.73579000000002,35.306834,26571.0,City,Research,7.0,2.0,
+473,University of North Carolina at Greensboro,Public,NC,In-person,universityofnorthcarolinaatgreensboro,199148,Guilford County,-79.809844,36.067503,18074.0,City,Research,6.0,2.0,
+474,University of North Carolina at Pembroke,Public,NC,In-person,universityofnorthcarolinaatpembroke,199281,Robeson County,-79.201895,34.687231,6222.0,Town,Master's,4.0,0.0,
+475,University of North Texas,Public,TX,In-person,universityofnorthtexas,227216,Denton County,-97.151211,33.210958000000005,38315.0,City,Research,,,
+476,University of Northern Colorado,Public,CO,In-person,universityofnortherncolorado,127741,Weld County,-104.701721,40.403178,12710.0,City,Research,13.0,1.0,
+477,University of Northern Iowa,Public,IA,Hybrid model,universityofnortherniowa,154095,Black Hawk County,-92.459703,42.514923,12159.0,City,Master's,8.0,1.0,
+478,University of Notre Dame,Private,IN,In-person,universityofnotredame,152080,St. Joseph County,-86.238959,41.703058,12124.0,Suburb,Research,89.0,5.0,545295.0
+479,University of Oregon,Public,OR,In-person,universityoforegon,209551,Lane County,-123.07398,44.044515,24473.0,City,Research,40.0,11.0,
+480,University of Pennsylvania,Private,PA,Considering options,universityofpennsylvania,215062,Philadelphia County,-75.193618,39.951002,24630.0,City,Research,71.0,11.0,357306.0
+481,University of Portland,Private,OR,In-person,universityofportland,209825,Multnomah County,-122.726859,45.571807,4036.0,City,Master's,,,29069.0
+482,University of Puget Sound,Private,WA,In-person,universityofpugetsound,236328,Pierce County,-122.479714,47.263651,2812.0,City,Baccalaureatte,82.0,1.0,103991.0
+483,University of Redlands,Private,CA,Considering options,universityofredlands,121691,San Bernardino County,-117.163847,34.063571,5147.0,City,Master's,28.0,2.0,22824.0
+484,University of Richmond,Private,VA,Considering options,universityofrichmond,233374,Richmond city,-77.538702,37.577625,4140.0,City,Baccalaureatte,,,479753.0
+485,University of Rochester,Private,NY,Considering options,universityofrochester,195030,Monroe County,-77.63104200000002,43.126437,11020.0,City,Research,,,162764.0
+486,University of San Diego,Private,CA,Hybrid model,universityofsandiego,122436,San Diego County,-117.188721,32.77142,8321.0,City,Research,41.0,4.0,46387.0
+487,University of San Francisco,Private,CA,In-person,universityofsanfrancisco,122612,San Francisco County,-122.450977,37.775564,10112.0,City,Research,22.0,20.0,24298.0
+488,University of Scranton,Private,PA,In-person,universityofscranton,215929,Lackawanna County,-75.65803100000002,41.40715,5633.0,City,Master's,,,25724.0
+489,University of South Alabama,Public,AL,Hybrid model,universityofsouthalabama,102094,Mobile County,-88.18189,30.695081,15065.0,City,Research,20.0,1.0,
+490,University of Southern California,Private,CA,Hybrid model,universityofsoutherncalifornia,123961,Los Angeles County,-118.283858,34.021058000000004,41368.0,City,Research,35.0,16.0,107715.0
+491,University of the Cumberlands,Private,KY,In-person,universityofthecumberlands,156541,Whitley County,-84.162375,36.736489,4924.0,Town,Master's,38.0,5.0,19906.0
+492,University of the Pacific,Private,CA,Hybrid model,universityofthepacific,120883,San Joaquin County,-121.307296,37.980624,6421.0,City,Research,8.0,5.0,44622.0
+493,University of Toledo,Public,OH,In-person,universityoftoledo,206084,Lucas County,-83.615225,41.65795,20743.0,City,Research,,,
+494,University of Tulsa,Private,OK,Hybrid model,universityoftulsa,207971,Tulsa County,-95.945175,36.151887,4597.0,City,Research,34.0,27.0,216498.0
+495,University of Vermont,Public,VT,In-person,universityofvermont,231174,Chittenden County,-73.198128,44.479262,12723.0,City,Research,74.0,1.0,
+496,University of West Alabama,Public,AL,In-person,universityofwestalabama,101587,Sumter County,-88.186077,32.59244,4427.0,Rural,Master's,,,
+497,University of Wisconsin-Stout,Public,WI,In-person,universityofwisconsin-stout,240417,Dunn County,-91.929461,44.88861,9313.0,Town,Master's,36.0,1.0,
+498,University of Wyoming,Public,WY,In-person,universityofwyoming,240727,Albany County,-105.57204,41.311943,12778.0,Town,Research,47.0,3.0,
+499,Ursinus College,Private,PA,Undecided,ursinuscollege,216524,Montgomery County,-75.45565400000002,40.19405,1596.0,Suburb,Baccalaureatte,49.0,1.0,77155.0
+500,Valparaiso University,Private,IN,In-person,valparaisouniversity,152600,Porter County,-87.04585300000002,41.463176,4508.0,Suburb,Master's,,,42568.0
+501,Vanderbilt University,Private,TN,Hybrid model,vanderbiltuniversity,221999,Davidson County,-86.804875,36.14443,12757.0,City,Research,,,311592.0
+502,Vassar College,Private,NY,Undecided,vassarcollege,197133,Dutchess County,-73.894345,41.685105,2477.0,Suburb,Baccalaureatte,,,351860.0
+503,Vermont Technical College,Public,VT,In-person,vermonttechnicalcollege,231165,Orange County,-72.605179,43.939321,1543.0,Rural,Baccalaureate/Associate's Colleges,21.0,5.0,
+504,Villanova University,Private,PA,Undecided,villanovauniversity,216597,Delaware County,-75.345457,40.039388,10696.0,Suburb,Master's,,,42422.0
+505,Virginia Commonwealth University,Public,VA,In-person,virginiacommonwealthuniversity,234030,Richmond city,-77.453597,37.547631,30974.0,City,Research,9.0,3.0,
+506,Virginia Commonwealth University,Public,VA,In-person,virginiacommonwealthuniversity,234030,Richmond city,-77.453597,37.547631,30974.0,City,Research,9.0,3.0,
+507,Wabash College,Private,IN,In-person,wabashcollege,152673,Montgomery County,-86.90580899999998,40.037799,902.0,Town,Baccalaureatte,,,382150.0
+508,Wake Forest University,Private,NC,In-person,wakeforestuniversity,199847,Forsyth County,-80.279004,36.135301,7602.0,City,Research,,,143348.0
+509,Walsh University,Private,OH,Considering options,walshuniversity,206437,Stark County,-81.36910999999998,40.873295,2963.0,Suburb,Master's,,,6031.0
+510,Warren Wilson College,Private,NC,In-person,warrenwilsoncollege,199865,Buncombe County,-82.441097,35.611762,893.0,Suburb,Baccalaureatte,,,63362.0
+511,Washburn University,Public,KS,In-person,washburnuniversity,156082,Shawnee County,-95.702325,39.03497700000001,6973.0,City,Master's,6.0,1.0,
+512,Washington College,Private,MD,In-person,washingtoncollege,164216,Kent County,-76.06878,39.217329,1512.0,Town,Baccalaureatte,,,109212.0
+513,Washington State University,Public,WA,In-person,washingtonstateuniversity,236939,Whitman County,-117.158168,46.730448,27642.0,Town,Research,9.0,3.0,
+514,Wayland Baptist University,Private,TX,In-person,waylandbaptistuniversity,229780,Hale County,-101.729564,34.186673,6222.0,Town,Master's,,,12944.0
+515,Wayne State University,Public,MI,Online,waynestateuniversity,172644,Wayne County,-83.072864,42.35861,27897.0,City,Research,1.0,3.0,
+516,Waynesburg University,Private,PA,In-person,waynesburguniversity,216694,Greene County,-80.18727,39.899419,2190.0,Town,Master's,,,25526.0
+517,Webster University,Private,MO,In-person,websteruniversity,179894,St. Louis County,-90.345654,38.589269,17904.0,Suburb,Master's,,,8984.0
+518,Wellesley College,Private,MA,Undecided,wellesleycollege,168218,Norfolk County,-71.30796600000002,42.293765,2474.0,Suburb,Baccalaureatte,,,593054.0
+519,Wentworth Institute of Technology,Private,MA,Considering options,wentworthinstituteoftechnology,168227,Suffolk County,-71.094983,42.336632,4179.0,City,Baccalaureatte,36.0,7.0,18536.0
+520,Wesley College,Private,DE,Considering options,wesleycollege,131098,Kent County,-75.527377,39.16325,1655.0,City,Baccalaureatte,,,4470.0
+521,West Liberty University,Public,WV,In-person,westlibertyuniversity,237932,Ohio County,-80.604054,40.162473,2776.0,Rural,Baccalaureatte,,,
+522,West Virginia University,Public,WV,In-person,westvirginiauniversity,238032,Monongalia County,-79.953926,39.63468,29466.0,City,Research,52.0,3.0,
+523,West Virginia Wesleyan College,Private,WV,In-person,westvirginiawesleyancollege,237969,Upshur County,-80.21709399999997,38.990476,1469.0,Town,Baccalaureatte,38.0,4.0,28946.0
+524,Western Connecticut State University,Public,CT,Hybrid model,westernconnecticutstateuniversity,130776,Fairfield County,-73.444264,41.400365,6025.0,City,Master's,8.0,0.0,
+525,Western Michigan University,Public,MI,In-person,westernmichiganuniversity,172699,Kalamazoo County,-85.61511999999998,42.282589,24294.0,City,Research,11.0,1.0,
+526,Western New England University,Private,MA,In-person,westernnewenglanduniversity,168254,Hampden County,-72.518789,42.115837,3800.0,City,Master's,,,14958.0
+527,Western Washington University,Public,WA,Hybrid model,westernwashingtonuniversity,237011,Whatcom County,-122.484873,48.737236,14950.0,City,Master's,11.0,0.0,
+528,Westminster College,Private,MO,In-person,westminstercollege,179946,Callaway County,-91.954345,38.847764,1026.0,Town,Baccalaureatte,20.0,18.0,43586.0
+529,Westminster College,Private,MO,In-person,westminstercollege,216807,Lawrence County,-80.331376,41.118456,1366.0,Town,Baccalaureatte,22.0,0.0,64784.0
+530,Westminster College,Private,MO,In-person,westminstercollege,230807,Salt Lake County,-111.855553,40.731495,3108.0,City,Master's,41.0,0.0,22021.0
+531,Whitworth University,Private,WA,In-person,whitworthuniversity,237066,Spokane County,-117.418078,47.753699,2569.0,Suburb,Master's,30.0,1.0,40194.0
+532,Wichita State University,Public,KS,Hybrid model,wichitastateuniversity,156125,Sedgwick County,-97.296733,37.716484,14386.0,City,Research,6.0,0.0,
+533,Wilkes University,Private,PA,In-person,wilkesuniversity,216931,Luzerne County,-75.88833000000002,41.243204,4665.0,City,Master's,20.0,3.0,9646.0
+534,Wilkes University,Private,PA,In-person,wilkesuniversity,216931,Luzerne County,-75.88833000000002,41.243204,4665.0,City,Master's,20.0,3.0,9646.0
+535,Willamette University,Private,OR,In-person,willametteuniversity,210401,Marion County,-123.030727,44.935743,2855.0,City,Baccalaureatte,74.0,2.0,75786.0
+536,William Jewell College,Private,MO,In-person,williamjewellcollege,179955,Clay County,-94.41207,39.247848,1044.0,Suburb,Baccalaureatte,,,59943.0
+537,Williams College,Private,MA,Undecided,williamscollege,168342,Berkshire County,-73.205888,42.711669,2150.0,Town,Baccalaureatte,82.0,8.0,888422.0
+538,Winona State University,Public,MN,Undecided,winonastateuniversity,175272,Winona County,-91.64447,44.046572,8782.0,Town,Master's,,,
+539,Winston-Salem State University,Public,NC,In-person,winston-salemstateuniversity,199999,Forsyth County,-80.224905,36.089197,5399.0,City,Master's,9.0,1.0,
+540,Winthrop University,Public,SC,In-person,winthropuniversity,218964,York County,-81.028667,34.938506,6130.0,City,Master's,,,
+541,Wittenberg University,Private,OH,In-person,wittenberguniversity,206525,Clark County,-83.814082,39.937463,1979.0,City,Baccalaureatte,30.0,2.0,46513.0
+542,Wofford College,Private,SC,Undecided,woffordcollege,218973,Spartanburg County,-81.934572,34.957914,1615.0,City,Baccalaureatte,45.0,2.0,95720.0
+543,Worcester Polytechnic Institute,Private,MA,Undecided,worcesterpolytechnicinstitute,168421,Worcester County,-71.80879200000003,42.275067,6296.0,City,Research,,,99061.0
+544,Worcester State University,Public,MA,Considering options,worcesterstateuniversity,168430,Worcester County,-71.84401899999997,42.26753400000001,6447.0,City,Master's,4.0,2.0,
+545,Xavier University,Private,OH,In-person,xavieruniversity,206622,Hamilton County,-84.477648,39.149291,6633.0,City,Master's,52.0,2.0,21298.0
+546,Xavier University of Louisiana,Private,LA,Hybrid model,xavieruniversityoflouisiana,160904,Orleans Parish,-90.107307,29.964162,3121.0,City,Baccalaureatte,,,46059.0
+547,Yale University,Private,CT,Undecided,yaleuniversity,130794,New Haven County,-72.926688,41.311158,12109.0,City,Research,82.0,12.0,1528324.0
+548,Yeshiva University,Private,NY,Considering options,yeshivauniversity,197708,New York County,-73.92854100000002,40.8508,6747.0,City,Research,,,180152.0
+549,York College,Public,NY,In-person,yorkcollege,181853,York County,-97.579285,40.86745300000001,470.0,Town,Baccalaureatte,64.0,1.0,23403.0
+550,Youngstown State University,Public,OH,In-person,youngstownstateuniversity,206695,Mahoning County,-80.64651500000002,41.105583,13352.0,City,Master's,13.0,1.0,
