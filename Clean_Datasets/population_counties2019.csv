@@ -1,0 +1,3273 @@
+,FIPStxt,POP_ESTIMATE_2019,Area_Name
+1,1000,"4,903,185",Alabama
+2,1001,"55,869",Autauga County
+3,1003,"223,234",Baldwin County
+4,1005,"24,686",Barbour County
+5,1007,"22,394",Bibb County
+6,1009,"57,826",Blount County
+7,1011,"10,101",Bullock County
+8,1013,"19,448",Butler County
+9,1015,"113,605",Calhoun County
+10,1017,"33,254",Chambers County
+11,1019,"26,196",Cherokee County
+12,1021,"44,428",Chilton County
+13,1023,"12,589",Choctaw County
+14,1025,"23,622",Clarke County
+15,1027,"13,235",Clay County
+16,1029,"14,910",Cleburne County
+17,1031,"52,342",Coffee County
+18,1033,"55,241",Colbert County
+19,1035,"12,067",Conecuh County
+20,1037,"10,663",Coosa County
+21,1039,"37,049",Covington County
+22,1041,"13,772",Crenshaw County
+23,1043,"83,768",Cullman County
+24,1045,"49,172",Dale County
+25,1047,"37,196",Dallas County
+26,1049,"71,513",DeKalb County
+27,1051,"81,209",Elmore County
+28,1053,"36,633",Escambia County
+29,1055,"102,268",Etowah County
+30,1057,"16,302",Fayette County
+31,1059,"31,362",Franklin County
+32,1061,"26,271",Geneva County
+33,1063,"8,111",Greene County
+34,1065,"14,651",Hale County
+35,1067,"17,205",Henry County
+36,1069,"105,882",Houston County
+37,1071,"51,626",Jackson County
+38,1073,"658,573",Jefferson County
+39,1075,"13,805",Lamar County
+40,1077,"92,729",Lauderdale County
+41,1079,"32,924",Lawrence County
+42,1081,"164,542",Lee County
+43,1083,"98,915",Limestone County
+44,1085,"9,726",Lowndes County
+45,1087,"18,068",Macon County
+46,1089,"372,909",Madison County
+47,1091,"18,863",Marengo County
+48,1093,"29,709",Marion County
+49,1095,"96,774",Marshall County
+50,1097,"413,210",Mobile County
+51,1099,"20,733",Monroe County
+52,1101,"226,486",Montgomery County
+53,1103,"119,679",Morgan County
+54,1105,"8,923",Perry County
+55,1107,"19,930",Pickens County
+56,1109,"33,114",Pike County
+57,1111,"22,722",Randolph County
+58,1113,"57,961",Russell County
+59,1115,"89,512",St. Clair County
+60,1117,"217,702",Shelby County
+61,1119,"12,427",Sumter County
+62,1121,"79,978",Talladega County
+63,1123,"40,367",Tallapoosa County
+64,1125,"209,355",Tuscaloosa County
+65,1127,"63,521",Walker County
+66,1129,"16,326",Washington County
+67,1131,"10,373",Wilcox County
+68,1133,"23,629",Winston County
+69,2000,"731,545",Alaska
+70,2013,"3,337",Aleutians East Borough
+71,2016,"5,634",Aleutians West Census Area
+72,2020,"288,000",Anchorage Municipality
+73,2050,"18,386",Bethel Census Area
+74,2060,836,Bristol Bay Borough
+75,2068,"2,097",Denali Borough
+76,2070,"4,916",Dillingham Census Area
+77,2090,"96,849",Fairbanks North Star Borough
+78,2100,"2,530",Haines Borough
+79,2105,"2,148",Hoonah-Angoon Census Area
+80,2110,"31,974",Juneau City and Borough
+81,2122,"58,708",Kenai Peninsula Borough
+82,2130,"13,901",Ketchikan Gateway Borough
+83,2150,"12,998",Kodiak Island Borough
+84,2158,"8,314",Kusilvak Census Area
+85,2164,"1,592",Lake and Peninsula Borough
+86,2170,"108,317",Matanuska-Susitna Borough
+87,2180,"10,004",Nome Census Area
+88,2185,"9,832",North Slope Borough
+89,2188,"7,621",Northwest Arctic Borough
+90,2195,"3,266",Petersburg Borough
+91,2198,"6,203",Prince of Wales-Hyder Census Area
+92,2220,"8,493",Sitka City and Borough
+93,2230,"1,183",Skagway Municipality
+94,2240,"6,893",Southeast Fairbanks Census Area
+95,2261,"9,202",Valdez-Cordova Census Area
+96,2275,"2,502",Wrangell City and Borough
+97,2282,579,Yakutat City and Borough
+98,2290,"5,230",Yukon-Koyukuk Census Area
+99,4000,"7,278,717",Arizona
+100,4001,"71,887",Apache County
+101,4003,"125,922",Cochise County
+102,4005,"143,476",Coconino County
+103,4007,"54,018",Gila County
+104,4009,"38,837",Graham County
+105,4011,"9,498",Greenlee County
+106,4012,"21,108",La Paz County
+107,4013,"4,485,414",Maricopa County
+108,4015,"212,181",Mohave County
+109,4017,"110,924",Navajo County
+110,4019,"1,047,279",Pima County
+111,4021,"462,789",Pinal County
+112,4023,"46,498",Santa Cruz County
+113,4025,"235,099",Yavapai County
+114,4027,"213,787",Yuma County
+115,5000,"3,017,804",Arkansas
+116,5001,"17,486",Arkansas County
+117,5003,"19,657",Ashley County
+118,5005,"41,932",Baxter County
+119,5007,"279,141",Benton County
+120,5009,"37,432",Boone County
+121,5011,"10,763",Bradley County
+122,5013,"5,189",Calhoun County
+123,5015,"28,380",Carroll County
+124,5017,"10,118",Chicot County
+125,5019,"22,320",Clark County
+126,5021,"14,551",Clay County
+127,5023,"24,919",Cleburne County
+128,5025,"7,956",Cleveland County
+129,5027,"23,457",Columbia County
+130,5029,"20,846",Conway County
+131,5031,"110,332",Craighead County
+132,5033,"63,257",Crawford County
+133,5035,"47,955",Crittenden County
+134,5037,"16,419",Cross County
+135,5039,"7,009",Dallas County
+136,5041,"11,361",Desha County
+137,5043,"18,219",Drew County
+138,5045,"126,007",Faulkner County
+139,5047,"17,715",Franklin County
+140,5049,"12,477",Fulton County
+141,5051,"99,386",Garland County
+142,5053,"18,265",Grant County
+143,5055,"45,325",Greene County
+144,5057,"21,532",Hempstead County
+145,5059,"33,771",Hot Spring County
+146,5061,"13,202",Howard County
+147,5063,"37,825",Independence County
+148,5065,"13,629",Izard County
+149,5067,"16,719",Jackson County
+150,5069,"66,824",Jefferson County
+151,5071,"26,578",Johnson County
+152,5073,"6,624",Lafayette County
+153,5075,"16,406",Lawrence County
+154,5077,"8,857",Lee County
+155,5079,"13,024",Lincoln County
+156,5081,"12,259",Little River County
+157,5083,"21,466",Logan County
+158,5085,"73,309",Lonoke County
+159,5087,"16,576",Madison County
+160,5089,"16,694",Marion County
+161,5091,"43,257",Miller County
+162,5093,"40,651",Mississippi County
+163,5095,"6,701",Monroe County
+164,5097,"8,986",Montgomery County
+165,5099,"8,252",Nevada County
+166,5101,"7,753",Newton County
+167,5103,"23,382",Ouachita County
+168,5105,"10,455",Perry County
+169,5107,"17,782",Phillips County
+170,5109,"10,718",Pike County
+171,5111,"23,528",Poinsett County
+172,5113,"19,964",Polk County
+173,5115,"64,072",Pope County
+174,5117,"8,062",Prairie County
+175,5119,"391,911",Pulaski County
+176,5121,"17,958",Randolph County
+177,5123,"24,994",St. Francis County
+178,5125,"122,437",Saline County
+179,5127,"10,281",Scott County
+180,5129,"7,881",Searcy County
+181,5131,"127,827",Sebastian County
+182,5133,"17,007",Sevier County
+183,5135,"17,442",Sharp County
+184,5137,"12,506",Stone County
+185,5139,"38,682",Union County
+186,5141,"16,545",Van Buren County
+187,5143,"239,187",Washington County
+188,5145,"78,753",White County
+189,5147,"6,320",Woodruff County
+190,5149,"21,341",Yell County
+191,6000,"39,512,223",California
+192,6001,"1,671,329",Alameda County
+193,6003,"1,129",Alpine County
+194,6005,"39,752",Amador County
+195,6007,"219,186",Butte County
+196,6009,"45,905",Calaveras County
+197,6011,"21,547",Colusa County
+198,6013,"1,153,526",Contra Costa County
+199,6015,"27,812",Del Norte County
+200,6017,"192,843",El Dorado County
+201,6019,"999,101",Fresno County
+202,6021,"28,393",Glenn County
+203,6023,"135,558",Humboldt County
+204,6025,"181,215",Imperial County
+205,6027,"18,039",Inyo County
+206,6029,"900,202",Kern County
+207,6031,"152,940",Kings County
+208,6033,"64,386",Lake County
+209,6035,"30,573",Lassen County
+210,6037,"10,039,107",Los Angeles County
+211,6039,"157,327",Madera County
+212,6041,"258,826",Marin County
+213,6043,"17,203",Mariposa County
+214,6045,"86,749",Mendocino County
+215,6047,"277,680",Merced County
+216,6049,"8,841",Modoc County
+217,6051,"14,444",Mono County
+218,6053,"434,061",Monterey County
+219,6055,"137,744",Napa County
+220,6057,"99,755",Nevada County
+221,6059,"3,175,692",Orange County
+222,6061,"398,329",Placer County
+223,6063,"18,807",Plumas County
+224,6065,"2,470,546",Riverside County
+225,6067,"1,552,058",Sacramento County
+226,6069,"62,808",San Benito County
+227,6071,"2,180,085",San Bernardino County
+228,6073,"3,338,330",San Diego County
+229,6075,"881,549",San Francisco County
+230,6077,"762,148",San Joaquin County
+231,6079,"283,111",San Luis Obispo County
+232,6081,"766,573",San Mateo County
+233,6083,"446,499",Santa Barbara County
+234,6085,"1,927,852",Santa Clara County
+235,6087,"273,213",Santa Cruz County
+236,6089,"180,080",Shasta County
+237,6091,"3,005",Sierra County
+238,6093,"43,539",Siskiyou County
+239,6095,"447,643",Solano County
+240,6097,"494,336",Sonoma County
+241,6099,"550,660",Stanislaus County
+242,6101,"96,971",Sutter County
+243,6103,"65,084",Tehama County
+244,6105,"12,285",Trinity County
+245,6107,"466,195",Tulare County
+246,6109,"54,478",Tuolumne County
+247,6111,"846,006",Ventura County
+248,6113,"220,500",Yolo County
+249,6115,"78,668",Yuba County
+250,8000,"5,758,736",Colorado
+251,8001,"517,421",Adams County
+252,8003,"16,233",Alamosa County
+253,8005,"656,590",Arapahoe County
+254,8007,"14,029",Archuleta County
+255,8009,"3,581",Baca County
+256,8011,"5,577",Bent County
+257,8013,"326,196",Boulder County
+258,8014,"70,465",Broomfield County
+259,8015,"20,356",Chaffee County
+260,8017,"1,831",Cheyenne County
+261,8019,"9,700",Clear Creek County
+262,8021,"8,205",Conejos County
+263,8023,"3,887",Costilla County
+264,8025,"6,061",Crowley County
+265,8027,"5,068",Custer County
+266,8029,"31,162",Delta County
+267,8031,"727,211",Denver County
+268,8033,"2,055",Dolores County
+269,8035,"351,154",Douglas County
+270,8037,"55,127",Eagle County
+271,8039,"26,729",Elbert County
+272,8041,"720,403",El Paso County
+273,8043,"47,839",Fremont County
+274,8045,"60,061",Garfield County
+275,8047,"6,243",Gilpin County
+276,8049,"15,734",Grand County
+277,8051,"17,462",Gunnison County
+278,8053,820,Hinsdale County
+279,8055,"6,897",Huerfano County
+280,8057,"1,392",Jackson County
+281,8059,"582,881",Jefferson County
+282,8061,"1,406",Kiowa County
+283,8063,"7,097",Kit Carson County
+284,8065,"8,127",Lake County
+285,8067,"56,221",La Plata County
+286,8069,"356,899",Larimer County
+287,8071,"14,506",Las Animas County
+288,8073,"5,701",Lincoln County
+289,8075,"22,409",Logan County
+290,8077,"154,210",Mesa County
+291,8079,769,Mineral County
+292,8081,"13,283",Moffat County
+293,8083,"26,183",Montezuma County
+294,8085,"42,758",Montrose County
+295,8087,"29,068",Morgan County
+296,8089,"18,278",Otero County
+297,8091,"4,952",Ouray County
+298,8093,"18,845",Park County
+299,8095,"4,265",Phillips County
+300,8097,"17,767",Pitkin County
+301,8099,"12,172",Prowers County
+302,8101,"168,424",Pueblo County
+303,8103,"6,324",Rio Blanco County
+304,8105,"11,267",Rio Grande County
+305,8107,"25,638",Routt County
+306,8109,"6,824",Saguache County
+307,8111,728,San Juan County
+308,8113,"8,179",San Miguel County
+309,8115,"2,248",Sedgwick County
+310,8117,"31,011",Summit County
+311,8119,"25,388",Teller County
+312,8121,"4,908",Washington County
+313,8123,"324,492",Weld County
+314,8125,"10,019",Yuma County
+315,9000,"3,565,287",Connecticut
+316,9001,"943,332",Fairfield County
+317,9003,"891,720",Hartford County
+318,9005,"180,333",Litchfield County
+319,9007,"162,436",Middlesex County
+320,9009,"854,757",New Haven County
+321,9011,"265,206",New London County
+322,9013,"150,721",Tolland County
+323,9015,"116,782",Windham County
+324,10000,"973,764",Delaware
+325,10001,"180,786",Kent County
+326,10003,"558,753",New Castle County
+327,10005,"234,225",Sussex County
+328,11000,"705,749",District of Columbia
+329,11001,"705,749",District of Columbia
+330,12000,"21,477,737",Florida
+331,12001,"269,043",Alachua County
+332,12003,"29,210",Baker County
+333,12005,"174,705",Bay County
+334,12007,"28,201",Bradford County
+335,12009,"601,942",Brevard County
+336,12011,"1,952,778",Broward County
+337,12013,"14,105",Calhoun County
+338,12015,"188,910",Charlotte County
+339,12017,"149,657",Citrus County
+340,12019,"219,252",Clay County
+341,12021,"384,902",Collier County
+342,12023,"71,686",Columbia County
+343,12027,"38,001",DeSoto County
+344,12029,"16,826",Dixie County
+345,12031,"957,755",Duval County
+346,12033,"318,316",Escambia County
+347,12035,"115,081",Flagler County
+348,12037,"12,125",Franklin County
+349,12039,"45,660",Gadsden County
+350,12041,"18,582",Gilchrist County
+351,12043,"13,811",Glades County
+352,12045,"13,639",Gulf County
+353,12047,"14,428",Hamilton County
+354,12049,"26,937",Hardee County
+355,12051,"42,022",Hendry County
+356,12053,"193,920",Hernando County
+357,12055,"106,221",Highlands County
+358,12057,"1,471,968",Hillsborough County
+359,12059,"19,617",Holmes County
+360,12061,"159,923",Indian River County
+361,12063,"46,414",Jackson County
+362,12065,"14,246",Jefferson County
+363,12067,"8,422",Lafayette County
+364,12069,"367,118",Lake County
+365,12071,"770,577",Lee County
+366,12073,"293,582",Leon County
+367,12075,"41,503",Levy County
+368,12077,"8,354",Liberty County
+369,12079,"18,493",Madison County
+370,12081,"403,253",Manatee County
+371,12083,"365,579",Marion County
+372,12085,"161,000",Martin County
+373,12086,"2,716,940",Miami-Dade County
+374,12087,"74,228",Monroe County
+375,12089,"88,625",Nassau County
+376,12091,"210,738",Okaloosa County
+377,12093,"42,168",Okeechobee County
+378,12095,"1,393,452",Orange County
+379,12097,"375,751",Osceola County
+380,12099,"1,496,770",Palm Beach County
+381,12101,"553,947",Pasco County
+382,12103,"974,996",Pinellas County
+383,12105,"724,777",Polk County
+384,12107,"74,521",Putnam County
+385,12109,"264,672",St. Johns County
+386,12111,"328,297",St. Lucie County
+387,12113,"184,313",Santa Rosa County
+388,12115,"433,742",Sarasota County
+389,12117,"471,826",Seminole County
+390,12119,"132,420",Sumter County
+391,12121,"44,417",Suwannee County
+392,12123,"21,569",Taylor County
+393,12125,"15,237",Union County
+394,12127,"553,284",Volusia County
+395,12129,"33,739",Wakulla County
+396,12131,"74,071",Walton County
+397,12133,"25,473",Washington County
+398,13000,"10,617,423",Georgia
+399,13001,"18,386",Appling County
+400,13003,"8,165",Atkinson County
+401,13005,"11,164",Bacon County
+402,13007,"3,038",Baker County
+403,13009,"44,890",Baldwin County
+404,13011,"19,234",Banks County
+405,13013,"83,240",Barrow County
+406,13015,"107,738",Bartow County
+407,13017,"16,700",Ben Hill County
+408,13019,"19,397",Berrien County
+409,13021,"153,159",Bibb County
+410,13023,"12,873",Bleckley County
+411,13025,"19,109",Brantley County
+412,13027,"15,457",Brooks County
+413,13029,"39,627",Bryan County
+414,13031,"79,608",Bulloch County
+415,13033,"22,383",Burke County
+416,13035,"24,936",Butts County
+417,13037,"6,189",Calhoun County
+418,13039,"54,666",Camden County
+419,13043,"10,803",Candler County
+420,13045,"119,992",Carroll County
+421,13047,"67,580",Catoosa County
+422,13049,"13,392",Charlton County
+423,13051,"289,430",Chatham County
+424,13053,"10,907",Chattahoochee County
+425,13055,"24,789",Chattooga County
+426,13057,"258,773",Cherokee County
+427,13059,"128,331",Clarke County
+428,13061,"2,834",Clay County
+429,13063,"292,256",Clayton County
+430,13065,"6,618",Clinch County
+431,13067,"760,141",Cobb County
+432,13069,"43,273",Coffee County
+433,13071,"45,600",Colquitt County
+434,13073,"156,714",Columbia County
+435,13075,"17,270",Cook County
+436,13077,"148,509",Coweta County
+437,13079,"12,404",Crawford County
+438,13081,"22,372",Crisp County
+439,13083,"16,116",Dade County
+440,13085,"26,108",Dawson County
+441,13087,"26,404",Decatur County
+442,13089,"759,297",DeKalb County
+443,13091,"20,605",Dodge County
+444,13093,"13,390",Dooly County
+445,13095,"87,956",Dougherty County
+446,13097,"146,343",Douglas County
+447,13099,"10,190",Early County
+448,13101,"4,006",Echols County
+449,13103,"64,296",Effingham County
+450,13105,"19,194",Elbert County
+451,13107,"22,646",Emanuel County
+452,13109,"10,654",Evans County
+453,13111,"26,188",Fannin County
+454,13113,"114,421",Fayette County
+455,13115,"98,498",Floyd County
+456,13117,"244,252",Forsyth County
+457,13119,"23,349",Franklin County
+458,13121,"1,063,937",Fulton County
+459,13123,"31,369",Gilmer County
+460,13125,"2,971",Glascock County
+461,13127,"85,292",Glynn County
+462,13129,"57,963",Gordon County
+463,13131,"24,633",Grady County
+464,13133,"18,324",Greene County
+465,13135,"936,250",Gwinnett County
+466,13137,"45,328",Habersham County
+467,13139,"204,441",Hall County
+468,13141,"8,457",Hancock County
+469,13143,"29,792",Haralson County
+470,13145,"35,236",Harris County
+471,13147,"26,205",Hart County
+472,13149,"11,923",Heard County
+473,13151,"234,561",Henry County
+474,13153,"157,863",Houston County
+475,13155,"9,416",Irwin County
+476,13157,"72,977",Jackson County
+477,13159,"14,219",Jasper County
+478,13161,"15,115",Jeff Davis County
+479,13163,"15,362",Jefferson County
+480,13165,"8,676",Jenkins County
+481,13167,"9,643",Johnson County
+482,13169,"28,735",Jones County
+483,13171,"19,077",Lamar County
+484,13173,"10,423",Lanier County
+485,13175,"47,546",Laurens County
+486,13177,"29,992",Lee County
+487,13179,"61,435",Liberty County
+488,13181,"7,921",Lincoln County
+489,13183,"19,559",Long County
+490,13185,"117,406",Lowndes County
+491,13187,"33,610",Lumpkin County
+492,13189,"21,312",McDuffie County
+493,13191,"14,378",McIntosh County
+494,13193,"12,947",Macon County
+495,13195,"29,880",Madison County
+496,13197,"8,359",Marion County
+497,13199,"21,167",Meriwether County
+498,13201,"5,718",Miller County
+499,13205,"21,863",Mitchell County
+500,13207,"27,578",Monroe County
+501,13209,"9,172",Montgomery County
+502,13211,"19,276",Morgan County
+503,13213,"40,096",Murray County
+504,13215,"195,769",Muscogee County
+505,13217,"111,744",Newton County
+506,13219,"40,280",Oconee County
+507,13221,"15,259",Oglethorpe County
+508,13223,"168,667",Paulding County
+509,13225,"27,546",Peach County
+510,13227,"32,591",Pickens County
+511,13229,"19,465",Pierce County
+512,13231,"18,962",Pike County
+513,13233,"42,613",Polk County
+514,13235,"11,137",Pulaski County
+515,13237,"22,119",Putnam County
+516,13239,"2,299",Quitman County
+517,13241,"17,137",Rabun County
+518,13243,"6,778",Randolph County
+519,13245,"202,518",Richmond County
+520,13247,"90,896",Rockdale County
+521,13249,"5,257",Schley County
+522,13251,"13,966",Screven County
+523,13253,"8,090",Seminole County
+524,13255,"66,703",Spalding County
+525,13257,"25,925",Stephens County
+526,13259,"6,621",Stewart County
+527,13261,"29,524",Sumter County
+528,13263,"6,195",Talbot County
+529,13265,"1,537",Taliaferro County
+530,13267,"25,286",Tattnall County
+531,13269,"8,020",Taylor County
+532,13271,"15,860",Telfair County
+533,13273,"8,531",Terrell County
+534,13275,"44,451",Thomas County
+535,13277,"40,644",Tift County
+536,13279,"26,830",Toombs County
+537,13281,"12,037",Towns County
+538,13283,"6,901",Treutlen County
+539,13285,"69,922",Troup County
+540,13287,"7,985",Turner County
+541,13289,"8,120",Twiggs County
+542,13291,"24,511",Union County
+543,13293,"26,320",Upson County
+544,13295,"69,761",Walker County
+545,13297,"94,593",Walton County
+546,13299,"35,734",Ware County
+547,13301,"5,254",Warren County
+548,13303,"20,374",Washington County
+549,13305,"29,927",Wayne County
+550,13307,"2,607",Webster County
+551,13309,"7,855",Wheeler County
+552,13311,"30,798",White County
+553,13313,"104,628",Whitfield County
+554,13315,"8,635",Wilcox County
+555,13317,"9,777",Wilkes County
+556,13319,"8,954",Wilkinson County
+557,13321,"20,247",Worth County
+558,15000,"1,415,872",Hawaii
+559,15001,"201,513",Hawaii County
+560,15003,"974,563",Honolulu County
+561,15005,86,Kalawao County
+562,15007,"72,293",Kauai County
+563,15009,"167,417",Maui County
+564,16000,"1,787,065",Idaho
+565,16001,"481,587",Ada County
+566,16003,"4,294",Adams County
+567,16005,"87,808",Bannock County
+568,16007,"6,125",Bear Lake County
+569,16009,"9,298",Benewah County
+570,16011,"46,811",Bingham County
+571,16013,"23,021",Blaine County
+572,16015,"7,831",Boise County
+573,16017,"45,739",Bonner County
+574,16019,"119,062",Bonneville County
+575,16021,"12,245",Boundary County
+576,16023,"2,597",Butte County
+577,16025,"1,106",Camas County
+578,16027,"229,849",Canyon County
+579,16029,"7,155",Caribou County
+580,16031,"24,030",Cassia County
+581,16033,845,Clark County
+582,16035,"8,756",Clearwater County
+583,16037,"4,315",Custer County
+584,16039,"27,511",Elmore County
+585,16041,"13,876",Franklin County
+586,16043,"13,099",Fremont County
+587,16045,"18,112",Gem County
+588,16047,"15,179",Gooding County
+589,16049,"16,667",Idaho County
+590,16051,"29,871",Jefferson County
+591,16053,"24,412",Jerome County
+592,16055,"165,697",Kootenai County
+593,16057,"40,108",Latah County
+594,16059,"8,027",Lemhi County
+595,16061,"3,838",Lewis County
+596,16063,"5,366",Lincoln County
+597,16065,"39,907",Madison County
+598,16067,"21,039",Minidoka County
+599,16069,"40,408",Nez Perce County
+600,16071,"4,531",Oneida County
+601,16073,"11,823",Owyhee County
+602,16075,"23,951",Payette County
+603,16077,"7,681",Power County
+604,16079,"12,882",Shoshone County
+605,16081,"12,142",Teton County
+606,16083,"86,878",Twin Falls County
+607,16085,"11,392",Valley County
+608,16087,"10,194",Washington County
+609,17000,"12,671,821",Illinois
+610,17001,"65,435",Adams County
+611,17003,"5,761",Alexander County
+612,17005,"16,426",Bond County
+613,17007,"53,544",Boone County
+614,17009,"6,578",Brown County
+615,17011,"32,628",Bureau County
+616,17013,"4,739",Calhoun County
+617,17015,"14,305",Carroll County
+618,17017,"12,147",Cass County
+619,17019,"209,689",Champaign County
+620,17021,"32,304",Christian County
+621,17023,"15,441",Clark County
+622,17025,"13,184",Clay County
+623,17027,"37,562",Clinton County
+624,17029,"50,621",Coles County
+625,17031,"5,150,233",Cook County
+626,17033,"18,667",Crawford County
+627,17035,"10,766",Cumberland County
+628,17037,"104,897",DeKalb County
+629,17039,"15,638",De Witt County
+630,17041,"19,465",Douglas County
+631,17043,"922,921",DuPage County
+632,17045,"17,161",Edgar County
+633,17047,"6,395",Edwards County
+634,17049,"34,008",Effingham County
+635,17051,"21,336",Fayette County
+636,17053,"12,961",Ford County
+637,17055,"38,469",Franklin County
+638,17057,"34,340",Fulton County
+639,17059,"4,828",Gallatin County
+640,17061,"12,969",Greene County
+641,17063,"51,054",Grundy County
+642,17065,"8,116",Hamilton County
+643,17067,"17,708",Hancock County
+644,17069,"3,821",Hardin County
+645,17071,"6,646",Henderson County
+646,17073,"48,913",Henry County
+647,17075,"27,114",Iroquois County
+648,17077,"56,750",Jackson County
+649,17079,"9,610",Jasper County
+650,17081,"37,684",Jefferson County
+651,17083,"21,773",Jersey County
+652,17085,"21,235",Jo Daviess County
+653,17087,"12,417",Johnson County
+654,17089,"532,403",Kane County
+655,17091,"109,862",Kankakee County
+656,17093,"128,990",Kendall County
+657,17095,"49,699",Knox County
+658,17097,"696,535",Lake County
+659,17099,"108,669",LaSalle County
+660,17101,"15,678",Lawrence County
+661,17103,"34,096",Lee County
+662,17105,"35,648",Livingston County
+663,17107,"28,618",Logan County
+664,17109,"29,682",McDonough County
+665,17111,"307,774",McHenry County
+666,17113,"171,517",McLean County
+667,17115,"104,009",Macon County
+668,17117,"44,926",Macoupin County
+669,17119,"262,966",Madison County
+670,17121,"37,205",Marion County
+671,17123,"11,438",Marshall County
+672,17125,"13,359",Mason County
+673,17127,"13,772",Massac County
+674,17129,"12,196",Menard County
+675,17131,"15,437",Mercer County
+676,17133,"34,637",Monroe County
+677,17135,"28,414",Montgomery County
+678,17137,"33,658",Morgan County
+679,17139,"14,501",Moultrie County
+680,17141,"50,643",Ogle County
+681,17143,"179,179",Peoria County
+682,17145,"20,916",Perry County
+683,17147,"16,344",Piatt County
+684,17149,"15,561",Pike County
+685,17151,"4,177",Pope County
+686,17153,"5,335",Pulaski County
+687,17155,"5,739",Putnam County
+688,17157,"31,782",Randolph County
+689,17159,"15,513",Richland County
+690,17161,"141,879",Rock Island County
+691,17163,"259,686",St. Clair County
+692,17165,"23,491",Saline County
+693,17167,"194,672",Sangamon County
+694,17169,"6,768",Schuyler County
+695,17171,"4,951",Scott County
+696,17173,"21,634",Shelby County
+697,17175,"5,342",Stark County
+698,17177,"44,498",Stephenson County
+699,17179,"131,803",Tazewell County
+700,17181,"16,653",Union County
+701,17183,"75,758",Vermilion County
+702,17185,"11,520",Wabash County
+703,17187,"16,844",Warren County
+704,17189,"13,887",Washington County
+705,17191,"16,215",Wayne County
+706,17193,"13,537",White County
+707,17195,"55,175",Whiteside County
+708,17197,"690,743",Will County
+709,17199,"66,597",Williamson County
+710,17201,"282,572",Winnebago County
+711,17203,"38,459",Woodford County
+712,18000,"6,732,219",Indiana
+713,18001,"35,777",Adams County
+714,18003,"379,299",Allen County
+715,18005,"83,779",Bartholomew County
+716,18007,"8,748",Benton County
+717,18009,"11,758",Blackford County
+718,18011,"67,843",Boone County
+719,18013,"15,092",Brown County
+720,18015,"20,257",Carroll County
+721,18017,"37,689",Cass County
+722,18019,"118,302",Clark County
+723,18021,"26,225",Clay County
+724,18023,"32,399",Clinton County
+725,18025,"10,577",Crawford County
+726,18027,"33,351",Daviess County
+727,18029,"49,458",Dearborn County
+728,18031,"26,559",Decatur County
+729,18033,"43,475",DeKalb County
+730,18035,"114,135",Delaware County
+731,18037,"42,736",Dubois County
+732,18039,"206,341",Elkhart County
+733,18041,"23,102",Fayette County
+734,18043,"78,522",Floyd County
+735,18045,"16,346",Fountain County
+736,18047,"22,758",Franklin County
+737,18049,"19,974",Fulton County
+738,18051,"33,659",Gibson County
+739,18053,"65,769",Grant County
+740,18055,"31,922",Greene County
+741,18057,"338,011",Hamilton County
+742,18059,"78,168",Hancock County
+743,18061,"40,515",Harrison County
+744,18063,"170,311",Hendricks County
+745,18065,"47,972",Henry County
+746,18067,"82,544",Howard County
+747,18069,"36,520",Huntington County
+748,18071,"44,231",Jackson County
+749,18073,"33,562",Jasper County
+750,18075,"20,436",Jay County
+751,18077,"32,308",Jefferson County
+752,18079,"27,735",Jennings County
+753,18081,"158,167",Johnson County
+754,18083,"36,594",Knox County
+755,18085,"79,456",Kosciusko County
+756,18087,"39,614",LaGrange County
+757,18089,"485,493",Lake County
+758,18091,"109,888",LaPorte County
+759,18093,"45,370",Lawrence County
+760,18095,"129,569",Madison County
+761,18097,"964,582",Marion County
+762,18099,"46,258",Marshall County
+763,18101,"10,255",Martin County
+764,18103,"35,516",Miami County
+765,18105,"148,431",Monroe County
+766,18107,"38,338",Montgomery County
+767,18109,"70,489",Morgan County
+768,18111,"13,984",Newton County
+769,18113,"47,744",Noble County
+770,18115,"5,875",Ohio County
+771,18117,"19,646",Orange County
+772,18119,"20,799",Owen County
+773,18121,"16,937",Parke County
+774,18123,"19,169",Perry County
+775,18125,"12,389",Pike County
+776,18127,"170,389",Porter County
+777,18129,"25,427",Posey County
+778,18131,"12,353",Pulaski County
+779,18133,"37,576",Putnam County
+780,18135,"24,665",Randolph County
+781,18137,"28,324",Ripley County
+782,18139,"16,581",Rush County
+783,18141,"271,826",St. Joseph County
+784,18143,"23,873",Scott County
+785,18145,"44,729",Shelby County
+786,18147,"20,277",Spencer County
+787,18149,"22,995",Starke County
+788,18151,"34,594",Steuben County
+789,18153,"20,669",Sullivan County
+790,18155,"10,751",Switzerland County
+791,18157,"195,732",Tippecanoe County
+792,18159,"15,148",Tipton County
+793,18161,"7,054",Union County
+794,18163,"181,451",Vanderburgh County
+795,18165,"15,498",Vermillion County
+796,18167,"107,038",Vigo County
+797,18169,"30,996",Wabash County
+798,18171,"8,265",Warren County
+799,18173,"62,998",Warrick County
+800,18175,"28,036",Washington County
+801,18177,"65,884",Wayne County
+802,18179,"28,296",Wells County
+803,18181,"24,102",White County
+804,18183,"33,964",Whitley County
+805,19000,"3,155,070",Iowa
+806,19001,"7,152",Adair County
+807,19003,"3,602",Adams County
+808,19005,"13,687",Allamakee County
+809,19007,"12,426",Appanoose County
+810,19009,"5,496",Audubon County
+811,19011,"25,645",Benton County
+812,19013,"131,228",Black Hawk County
+813,19015,"26,234",Boone County
+814,19017,"25,062",Bremer County
+815,19019,"21,175",Buchanan County
+816,19021,"19,620",Buena Vista County
+817,19023,"14,439",Butler County
+818,19025,"9,668",Calhoun County
+819,19027,"20,165",Carroll County
+820,19029,"12,836",Cass County
+821,19031,"18,627",Cedar County
+822,19033,"42,450",Cerro Gordo County
+823,19035,"11,235",Cherokee County
+824,19037,"11,933",Chickasaw County
+825,19039,"9,395",Clarke County
+826,19041,"16,016",Clay County
+827,19043,"17,549",Clayton County
+828,19045,"46,429",Clinton County
+829,19047,"16,820",Crawford County
+830,19049,"93,453",Dallas County
+831,19051,"9,000",Davis County
+832,19053,"7,870",Decatur County
+833,19055,"17,011",Delaware County
+834,19057,"38,967",Des Moines County
+835,19059,"17,258",Dickinson County
+836,19061,"97,311",Dubuque County
+837,19063,"9,208",Emmet County
+838,19065,"19,650",Fayette County
+839,19067,"15,642",Floyd County
+840,19069,"10,070",Franklin County
+841,19071,"6,960",Fremont County
+842,19073,"8,888",Greene County
+843,19075,"12,232",Grundy County
+844,19077,"10,689",Guthrie County
+845,19079,"14,773",Hamilton County
+846,19081,"10,630",Hancock County
+847,19083,"16,846",Hardin County
+848,19085,"14,049",Harrison County
+849,19087,"19,954",Henry County
+850,19089,"9,158",Howard County
+851,19091,"9,558",Humboldt County
+852,19093,"6,860",Ida County
+853,19095,"16,184",Iowa County
+854,19097,"19,439",Jackson County
+855,19099,"37,185",Jasper County
+856,19101,"18,295",Jefferson County
+857,19103,"151,140",Johnson County
+858,19105,"20,681",Jones County
+859,19107,"10,246",Keokuk County
+860,19109,"14,813",Kossuth County
+861,19111,"33,657",Lee County
+862,19113,"226,706",Linn County
+863,19115,"11,035",Louisa County
+864,19117,"8,600",Lucas County
+865,19119,"11,755",Lyon County
+866,19121,"16,338",Madison County
+867,19123,"22,095",Mahaska County
+868,19125,"33,253",Marion County
+869,19127,"39,369",Marshall County
+870,19129,"15,109",Mills County
+871,19131,"10,586",Mitchell County
+872,19133,"8,615",Monona County
+873,19135,"7,707",Monroe County
+874,19137,"9,917",Montgomery County
+875,19139,"42,664",Muscatine County
+876,19141,"13,753",O'Brien County
+877,19143,"5,958",Osceola County
+878,19145,"15,107",Page County
+879,19147,"8,886",Palo Alto County
+880,19149,"25,177",Plymouth County
+881,19151,"6,619",Pocahontas County
+882,19153,"490,161",Polk County
+883,19155,"93,206",Pottawattamie County
+884,19157,"18,504",Poweshiek County
+885,19159,"4,894",Ringgold County
+886,19161,"9,721",Sac County
+887,19163,"172,943",Scott County
+888,19165,"11,454",Shelby County
+889,19167,"34,855",Sioux County
+890,19169,"97,117",Story County
+891,19171,"16,854",Tama County
+892,19173,"6,121",Taylor County
+893,19175,"12,241",Union County
+894,19177,"7,044",Van Buren County
+895,19179,"34,969",Wapello County
+896,19181,"51,466",Warren County
+897,19183,"21,965",Washington County
+898,19185,"6,441",Wayne County
+899,19187,"35,904",Webster County
+900,19189,"10,354",Winnebago County
+901,19191,"19,991",Winneshiek County
+902,19193,"103,107",Woodbury County
+903,19195,"7,381",Worth County
+904,19197,"12,562",Wright County
+905,20000,"2,913,314",Kansas
+906,20001,"12,369",Allen County
+907,20003,"7,858",Anderson County
+908,20005,"16,073",Atchison County
+909,20007,"4,427",Barber County
+910,20009,"25,779",Barton County
+911,20011,"14,534",Bourbon County
+912,20013,"9,564",Brown County
+913,20015,"66,911",Butler County
+914,20017,"2,648",Chase County
+915,20019,"3,250",Chautauqua County
+916,20021,"19,939",Cherokee County
+917,20023,"2,657",Cheyenne County
+918,20025,"1,994",Clark County
+919,20027,"8,002",Clay County
+920,20029,"8,786",Cloud County
+921,20031,"8,179",Coffey County
+922,20033,"1,700",Comanche County
+923,20035,"34,908",Cowley County
+924,20037,"38,818",Crawford County
+925,20039,"2,827",Decatur County
+926,20041,"18,466",Dickinson County
+927,20043,"7,600",Doniphan County
+928,20045,"122,259",Douglas County
+929,20047,"2,798",Edwards County
+930,20049,"2,530",Elk County
+931,20051,"28,553",Ellis County
+932,20053,"6,102",Ellsworth County
+933,20055,"36,467",Finney County
+934,20057,"33,619",Ford County
+935,20059,"25,544",Franklin County
+936,20061,"31,670",Geary County
+937,20063,"2,636",Gove County
+938,20065,"2,482",Graham County
+939,20067,"7,150",Grant County
+940,20069,"5,988",Gray County
+941,20071,"1,232",Greeley County
+942,20073,"5,982",Greenwood County
+943,20075,"2,539",Hamilton County
+944,20077,"5,436",Harper County
+945,20079,"34,429",Harvey County
+946,20081,"3,968",Haskell County
+947,20083,"1,794",Hodgeman County
+948,20085,"13,171",Jackson County
+949,20087,"19,043",Jefferson County
+950,20089,"2,879",Jewell County
+951,20091,"602,401",Johnson County
+952,20093,"3,838",Kearny County
+953,20095,"7,152",Kingman County
+954,20097,"2,475",Kiowa County
+955,20099,"19,618",Labette County
+956,20101,"1,535",Lane County
+957,20103,"81,758",Leavenworth County
+958,20105,"2,962",Lincoln County
+959,20107,"9,703",Linn County
+960,20109,"2,794",Logan County
+961,20111,"33,195",Lyon County
+962,20113,"28,542",McPherson County
+963,20115,"11,884",Marion County
+964,20117,"9,707",Marshall County
+965,20119,"4,033",Meade County
+966,20121,"34,237",Miami County
+967,20123,"5,979",Mitchell County
+968,20125,"31,829",Montgomery County
+969,20127,"5,620",Morris County
+970,20129,"2,587",Morton County
+971,20131,"10,231",Nemaha County
+972,20133,"16,007",Neosho County
+973,20135,"2,750",Ness County
+974,20137,"5,361",Norton County
+975,20139,"15,949",Osage County
+976,20141,"3,421",Osborne County
+977,20143,"5,704",Ottawa County
+978,20145,"6,414",Pawnee County
+979,20147,"5,234",Phillips County
+980,20149,"24,383",Pottawatomie County
+981,20151,"9,164",Pratt County
+982,20153,"2,530",Rawlins County
+983,20155,"61,998",Reno County
+984,20157,"4,636",Republic County
+985,20159,"9,537",Rice County
+986,20161,"74,232",Riley County
+987,20163,"4,920",Rooks County
+988,20165,"3,036",Rush County
+989,20167,"6,856",Russell County
+990,20169,"54,224",Saline County
+991,20171,"4,823",Scott County
+992,20173,"516,042",Sedgwick County
+993,20175,"21,428",Seward County
+994,20177,"176,875",Shawnee County
+995,20179,"2,521",Sheridan County
+996,20181,"5,917",Sherman County
+997,20183,"3,583",Smith County
+998,20185,"4,156",Stafford County
+999,20187,"2,006",Stanton County
+1000,20189,"5,485",Stevens County
+1001,20191,"22,836",Sumner County
+1002,20193,"7,777",Thomas County
+1003,20195,"2,803",Trego County
+1004,20197,"6,931",Wabaunsee County
+1005,20199,"1,518",Wallace County
+1006,20201,"5,406",Washington County
+1007,20203,"2,119",Wichita County
+1008,20205,"8,525",Wilson County
+1009,20207,"3,138",Woodson County
+1010,20209,"165,429",Wyandotte County
+1011,21000,"4,467,673",Kentucky
+1012,21001,"19,202",Adair County
+1013,21003,"21,315",Allen County
+1014,21005,"22,747",Anderson County
+1015,21007,"7,888",Ballard County
+1016,21009,"44,249",Barren County
+1017,21011,"12,500",Bath County
+1018,21013,"26,032",Bell County
+1019,21015,"133,581",Boone County
+1020,21017,"19,788",Bourbon County
+1021,21019,"46,718",Boyd County
+1022,21021,"30,060",Boyle County
+1023,21023,"8,303",Bracken County
+1024,21025,"12,630",Breathitt County
+1025,21027,"20,477",Breckinridge County
+1026,21029,"81,676",Bullitt County
+1027,21031,"12,879",Butler County
+1028,21033,"12,747",Caldwell County
+1029,21035,"39,001",Calloway County
+1030,21037,"93,584",Campbell County
+1031,21039,"4,760",Carlisle County
+1032,21041,"10,631",Carroll County
+1033,21043,"26,797",Carter County
+1034,21045,"16,159",Casey County
+1035,21047,"70,461",Christian County
+1036,21049,"36,263",Clark County
+1037,21051,"19,901",Clay County
+1038,21053,"10,218",Clinton County
+1039,21055,"8,806",Crittenden County
+1040,21057,"6,614",Cumberland County
+1041,21059,"101,511",Daviess County
+1042,21061,"12,150",Edmonson County
+1043,21063,"7,517",Elliott County
+1044,21065,"14,106",Estill County
+1045,21067,"323,152",Fayette County
+1046,21069,"14,581",Fleming County
+1047,21071,"35,589",Floyd County
+1048,21073,"50,991",Franklin County
+1049,21075,"5,969",Fulton County
+1050,21077,"8,869",Gallatin County
+1051,21079,"17,666",Garrard County
+1052,21081,"25,069",Grant County
+1053,21083,"37,266",Graves County
+1054,21085,"26,427",Grayson County
+1055,21087,"10,941",Green County
+1056,21089,"35,098",Greenup County
+1057,21091,"8,722",Hancock County
+1058,21093,"110,958",Hardin County
+1059,21095,"26,010",Harlan County
+1060,21097,"18,886",Harrison County
+1061,21099,"19,035",Hart County
+1062,21101,"45,210",Henderson County
+1063,21103,"16,126",Henry County
+1064,21105,"4,380",Hickman County
+1065,21107,"44,686",Hopkins County
+1066,21109,"13,329",Jackson County
+1067,21111,"766,757",Jefferson County
+1068,21113,"54,115",Jessamine County
+1069,21115,"22,188",Johnson County
+1070,21117,"166,998",Kenton County
+1071,21119,"14,806",Knott County
+1072,21121,"31,145",Knox County
+1073,21123,"14,398",Larue County
+1074,21125,"60,813",Laurel County
+1075,21127,"15,317",Lawrence County
+1076,21129,"7,403",Lee County
+1077,21131,"9,877",Leslie County
+1078,21133,"21,553",Letcher County
+1079,21135,"13,275",Lewis County
+1080,21137,"24,549",Lincoln County
+1081,21139,"9,194",Livingston County
+1082,21141,"27,102",Logan County
+1083,21143,"8,210",Lyon County
+1084,21145,"65,418",McCracken County
+1085,21147,"17,231",McCreary County
+1086,21149,"9,207",McLean County
+1087,21151,"92,987",Madison County
+1088,21153,"12,161",Magoffin County
+1089,21155,"19,273",Marion County
+1090,21157,"31,100",Marshall County
+1091,21159,"11,195",Martin County
+1092,21161,"17,070",Mason County
+1093,21163,"28,572",Meade County
+1094,21165,"6,489",Menifee County
+1095,21167,"21,933",Mercer County
+1096,21169,"10,071",Metcalfe County
+1097,21171,"10,650",Monroe County
+1098,21173,"28,157",Montgomery County
+1099,21175,"13,309",Morgan County
+1100,21177,"30,622",Muhlenberg County
+1101,21179,"46,233",Nelson County
+1102,21181,"7,269",Nicholas County
+1103,21183,"23,994",Ohio County
+1104,21185,"66,799",Oldham County
+1105,21187,"10,901",Owen County
+1106,21189,"4,415",Owsley County
+1107,21191,"14,590",Pendleton County
+1108,21193,"25,758",Perry County
+1109,21195,"57,876",Pike County
+1110,21197,"12,359",Powell County
+1111,21199,"64,979",Pulaski County
+1112,21201,"2,108",Robertson County
+1113,21203,"16,695",Rockcastle County
+1114,21205,"24,460",Rowan County
+1115,21207,"17,923",Russell County
+1116,21209,"57,004",Scott County
+1117,21211,"49,024",Shelby County
+1118,21213,"18,572",Simpson County
+1119,21215,"19,351",Spencer County
+1120,21217,"25,769",Taylor County
+1121,21219,"12,294",Todd County
+1122,21221,"14,651",Trigg County
+1123,21223,"8,471",Trimble County
+1124,21225,"14,381",Union County
+1125,21227,"132,896",Warren County
+1126,21229,"12,095",Washington County
+1127,21231,"20,333",Wayne County
+1128,21233,"12,942",Webster County
+1129,21235,"36,264",Whitley County
+1130,21237,"7,157",Wolfe County
+1131,21239,"26,734",Woodford County
+1132,22000,"4,648,794",Louisiana
+1133,22001,"62,045",Acadia Parish
+1134,22003,"25,627",Allen Parish
+1135,22005,"126,604",Ascension Parish
+1136,22007,"21,891",Assumption Parish
+1137,22009,"40,144",Avoyelles Parish
+1138,22011,"37,497",Beauregard Parish
+1139,22013,"13,241",Bienville Parish
+1140,22015,"127,039",Bossier Parish
+1141,22017,"240,204",Caddo Parish
+1142,22019,"203,436",Calcasieu Parish
+1143,22021,"9,918",Caldwell Parish
+1144,22023,"6,973",Cameron Parish
+1145,22025,"9,494",Catahoula Parish
+1146,22027,"15,670",Claiborne Parish
+1147,22029,"19,259",Concordia Parish
+1148,22031,"27,463",De Soto Parish
+1149,22033,"440,059",East Baton Rouge Parish
+1150,22035,"6,861",East Carroll Parish
+1151,22037,"19,135",East Feliciana Parish
+1152,22039,"33,395",Evangeline Parish
+1153,22041,"20,015",Franklin Parish
+1154,22043,"22,389",Grant Parish
+1155,22045,"69,830",Iberia Parish
+1156,22047,"32,511",Iberville Parish
+1157,22049,"15,744",Jackson Parish
+1158,22051,"432,493",Jefferson Parish
+1159,22053,"31,368",Jefferson Davis Parish
+1160,22055,"244,390",Lafayette Parish
+1161,22057,"97,614",Lafourche Parish
+1162,22059,"14,892",LaSalle Parish
+1163,22061,"46,742",Lincoln Parish
+1164,22063,"140,789",Livingston Parish
+1165,22065,"10,951",Madison Parish
+1166,22067,"24,874",Morehouse Parish
+1167,22069,"38,158",Natchitoches Parish
+1168,22071,"390,144",Orleans Parish
+1169,22073,"153,279",Ouachita Parish
+1170,22075,"23,197",Plaquemines Parish
+1171,22077,"21,730",Pointe Coupee Parish
+1172,22079,"129,648",Rapides Parish
+1173,22081,"8,442",Red River Parish
+1174,22083,"20,122",Richland Parish
+1175,22085,"23,884",Sabine Parish
+1176,22087,"47,244",St. Bernard Parish
+1177,22089,"53,100",St. Charles Parish
+1178,22091,"10,132",St. Helena Parish
+1179,22093,"21,096",St. James Parish
+1180,22095,"42,837",St. John the Baptist Parish
+1181,22097,"82,124",St. Landry Parish
+1182,22099,"53,431",St. Martin Parish
+1183,22101,"49,348",St. Mary Parish
+1184,22103,"260,419",St. Tammany Parish
+1185,22105,"134,758",Tangipahoa Parish
+1186,22107,"4,334",Tensas Parish
+1187,22109,"110,461",Terrebonne Parish
+1188,22111,"22,108",Union Parish
+1189,22113,"59,511",Vermilion Parish
+1190,22115,"47,429",Vernon Parish
+1191,22117,"46,194",Washington Parish
+1192,22119,"38,340",Webster Parish
+1193,22121,"26,465",West Baton Rouge Parish
+1194,22123,"10,830",West Carroll Parish
+1195,22125,"15,568",West Feliciana Parish
+1196,22127,"13,904",Winn Parish
+1197,23000,"1,344,212",Maine
+1198,23001,"108,277",Androscoggin County
+1199,23003,"67,055",Aroostook County
+1200,23005,"295,003",Cumberland County
+1201,23007,"30,199",Franklin County
+1202,23009,"54,987",Hancock County
+1203,23011,"122,302",Kennebec County
+1204,23013,"39,772",Knox County
+1205,23015,"34,634",Lincoln County
+1206,23017,"57,975",Oxford County
+1207,23019,"152,148",Penobscot County
+1208,23021,"16,785",Piscataquis County
+1209,23023,"35,856",Sagadahoc County
+1210,23025,"50,484",Somerset County
+1211,23027,"39,715",Waldo County
+1212,23029,"31,379",Washington County
+1213,23031,"207,641",York County
+1214,24000,"6,045,680",Maryland
+1215,24001,"70,416",Allegany County
+1216,24003,"579,234",Anne Arundel County
+1217,24005,"827,370",Baltimore County
+1218,24009,"92,525",Calvert County
+1219,24011,"33,406",Caroline County
+1220,24013,"168,447",Carroll County
+1221,24015,"102,855",Cecil County
+1222,24017,"163,257",Charles County
+1223,24019,"31,929",Dorchester County
+1224,24021,"259,547",Frederick County
+1225,24023,"29,014",Garrett County
+1226,24025,"255,441",Harford County
+1227,24027,"325,690",Howard County
+1228,24029,"19,422",Kent County
+1229,24031,"1,050,688",Montgomery County
+1230,24033,"909,327",Prince George's County
+1231,24035,"50,381",Queen Anne's County
+1232,24037,"113,510",St. Mary's County
+1233,24039,"25,616",Somerset County
+1234,24041,"37,181",Talbot County
+1235,24043,"151,049",Washington County
+1236,24045,"103,609",Wicomico County
+1237,24047,"52,276",Worcester County
+1238,24510,"593,490",Baltimore city
+1239,25000,"6,892,503",Massachusetts
+1240,25001,"212,990",Barnstable County
+1241,25003,"124,944",Berkshire County
+1242,25005,"565,217",Bristol County
+1243,25007,"17,332",Dukes County
+1244,25009,"789,034",Essex County
+1245,25011,"70,180",Franklin County
+1246,25013,"466,372",Hampden County
+1247,25015,"160,830",Hampshire County
+1248,25017,"1,611,699",Middlesex County
+1249,25019,"11,399",Nantucket County
+1250,25021,"706,775",Norfolk County
+1251,25023,"521,202",Plymouth County
+1252,25025,"803,907",Suffolk County
+1253,25027,"830,622",Worcester County
+1254,26000,"9,986,857",Michigan
+1255,26001,"10,405",Alcona County
+1256,26003,"9,108",Alger County
+1257,26005,"118,081",Allegan County
+1258,26007,"28,405",Alpena County
+1259,26009,"23,324",Antrim County
+1260,26011,"14,883",Arenac County
+1261,26013,"8,209",Baraga County
+1262,26015,"61,550",Barry County
+1263,26017,"103,126",Bay County
+1264,26019,"17,766",Benzie County
+1265,26021,"153,401",Berrien County
+1266,26023,"43,517",Branch County
+1267,26025,"134,159",Calhoun County
+1268,26027,"51,787",Cass County
+1269,26029,"26,143",Charlevoix County
+1270,26031,"25,276",Cheboygan County
+1271,26033,"37,349",Chippewa County
+1272,26035,"30,950",Clare County
+1273,26037,"79,595",Clinton County
+1274,26039,"14,029",Crawford County
+1275,26041,"35,784",Delta County
+1276,26043,"25,239",Dickinson County
+1277,26045,"110,268",Eaton County
+1278,26047,"33,415",Emmet County
+1279,26049,"405,813",Genesee County
+1280,26051,"25,449",Gladwin County
+1281,26053,"13,975",Gogebic County
+1282,26055,"93,088",Grand Traverse County
+1283,26057,"40,711",Gratiot County
+1284,26059,"45,605",Hillsdale County
+1285,26061,"35,684",Houghton County
+1286,26063,"30,981",Huron County
+1287,26065,"292,406",Ingham County
+1288,26067,"64,697",Ionia County
+1289,26069,"25,127",Iosco County
+1290,26071,"11,066",Iron County
+1291,26073,"69,872",Isabella County
+1292,26075,"158,510",Jackson County
+1293,26077,"265,066",Kalamazoo County
+1294,26079,"18,038",Kalkaska County
+1295,26081,"656,955",Kent County
+1296,26083,"2,116",Keweenaw County
+1297,26085,"11,853",Lake County
+1298,26087,"87,607",Lapeer County
+1299,26089,"21,761",Leelanau County
+1300,26091,"98,451",Lenawee County
+1301,26093,"191,995",Livingston County
+1302,26095,"6,229",Luce County
+1303,26097,"10,799",Mackinac County
+1304,26099,"873,972",Macomb County
+1305,26101,"24,558",Manistee County
+1306,26103,"66,699",Marquette County
+1307,26105,"29,144",Mason County
+1308,26107,"43,453",Mecosta County
+1309,26109,"22,780",Menominee County
+1310,26111,"83,156",Midland County
+1311,26113,"15,118",Missaukee County
+1312,26115,"150,500",Monroe County
+1313,26117,"63,888",Montcalm County
+1314,26119,"9,328",Montmorency County
+1315,26121,"173,566",Muskegon County
+1316,26123,"48,980",Newaygo County
+1317,26125,"1,257,584",Oakland County
+1318,26127,"26,467",Oceana County
+1319,26129,"20,997",Ogemaw County
+1320,26131,"5,720",Ontonagon County
+1321,26133,"23,460",Osceola County
+1322,26135,"8,241",Oscoda County
+1323,26137,"24,668",Otsego County
+1324,26139,"291,830",Ottawa County
+1325,26141,"12,592",Presque Isle County
+1326,26143,"24,019",Roscommon County
+1327,26145,"190,539",Saginaw County
+1328,26147,"159,128",St. Clair County
+1329,26149,"60,964",St. Joseph County
+1330,26151,"41,170",Sanilac County
+1331,26153,"8,094",Schoolcraft County
+1332,26155,"68,122",Shiawassee County
+1333,26157,"52,245",Tuscola County
+1334,26159,"75,677",Van Buren County
+1335,26161,"367,601",Washtenaw County
+1336,26163,"1,749,343",Wayne County
+1337,26165,"33,631",Wexford County
+1338,27000,"5,639,632",Minnesota
+1339,27001,"15,886",Aitkin County
+1340,27003,"356,921",Anoka County
+1341,27005,"34,423",Becker County
+1342,27007,"47,188",Beltrami County
+1343,27009,"40,889",Benton County
+1344,27011,"4,991",Big Stone County
+1345,27013,"67,653",Blue Earth County
+1346,27015,"25,008",Brown County
+1347,27017,"35,871",Carlton County
+1348,27019,"105,089",Carver County
+1349,27021,"29,779",Cass County
+1350,27023,"11,800",Chippewa County
+1351,27025,"56,579",Chisago County
+1352,27027,"64,222",Clay County
+1353,27029,"8,818",Clearwater County
+1354,27031,"5,463",Cook County
+1355,27033,"11,196",Cottonwood County
+1356,27035,"65,055",Crow Wing County
+1357,27037,"429,021",Dakota County
+1358,27039,"20,934",Dodge County
+1359,27041,"38,141",Douglas County
+1360,27043,"13,653",Faribault County
+1361,27045,"21,067",Fillmore County
+1362,27047,"30,281",Freeborn County
+1363,27049,"46,340",Goodhue County
+1364,27051,"5,972",Grant County
+1365,27053,"1,265,843",Hennepin County
+1366,27055,"18,600",Houston County
+1367,27057,"21,491",Hubbard County
+1368,27059,"40,596",Isanti County
+1369,27061,"45,130",Itasca County
+1370,27063,"9,846",Jackson County
+1371,27065,"16,337",Kanabec County
+1372,27067,"43,199",Kandiyohi County
+1373,27069,"4,298",Kittson County
+1374,27071,"12,229",Koochiching County
+1375,27073,"6,623",Lac qui Parle County
+1376,27075,"10,641",Lake County
+1377,27077,"3,740",Lake of the Woods County
+1378,27079,"28,887",Le Sueur County
+1379,27081,"5,639",Lincoln County
+1380,27083,"25,474",Lyon County
+1381,27085,"35,893",McLeod County
+1382,27087,"5,527",Mahnomen County
+1383,27089,"9,336",Marshall County
+1384,27091,"19,683",Martin County
+1385,27093,"23,222",Meeker County
+1386,27095,"26,277",Mille Lacs County
+1387,27097,"33,386",Morrison County
+1388,27099,"40,062",Mower County
+1389,27101,"8,194",Murray County
+1390,27103,"34,274",Nicollet County
+1391,27105,"21,629",Nobles County
+1392,27107,"6,375",Norman County
+1393,27109,"158,293",Olmsted County
+1394,27111,"58,746",Otter Tail County
+1395,27113,"14,119",Pennington County
+1396,27115,"29,579",Pine County
+1397,27117,"9,126",Pipestone County
+1398,27119,"31,364",Polk County
+1399,27121,"11,249",Pope County
+1400,27123,"550,321",Ramsey County
+1401,27125,"4,055",Red Lake County
+1402,27127,"15,170",Redwood County
+1403,27129,"14,548",Renville County
+1404,27131,"66,972",Rice County
+1405,27133,"9,315",Rock County
+1406,27135,"15,165",Roseau County
+1407,27137,"199,070",St. Louis County
+1408,27139,"149,013",Scott County
+1409,27141,"97,238",Sherburne County
+1410,27143,"14,865",Sibley County
+1411,27145,"161,075",Stearns County
+1412,27147,"36,649",Steele County
+1413,27149,"9,805",Stevens County
+1414,27151,"9,266",Swift County
+1415,27153,"24,664",Todd County
+1416,27155,"3,259",Traverse County
+1417,27157,"21,627",Wabasha County
+1418,27159,"13,682",Wadena County
+1419,27161,"18,612",Waseca County
+1420,27163,"262,440",Washington County
+1421,27165,"10,897",Watonwan County
+1422,27167,"6,207",Wilkin County
+1423,27169,"50,484",Winona County
+1424,27171,"138,377",Wright County
+1425,27173,"9,709",Yellow Medicine County
+1426,28000,"2,976,149",Mississippi
+1427,28001,"30,693",Adams County
+1428,28003,"36,953",Alcorn County
+1429,28005,"12,297",Amite County
+1430,28007,"18,174",Attala County
+1431,28009,"8,259",Benton County
+1432,28011,"30,628",Bolivar County
+1433,28013,"14,361",Calhoun County
+1434,28015,"9,947",Carroll County
+1435,28017,"17,103",Chickasaw County
+1436,28019,"8,210",Choctaw County
+1437,28021,"8,988",Claiborne County
+1438,28023,"15,541",Clarke County
+1439,28025,"19,316",Clay County
+1440,28027,"22,124",Coahoma County
+1441,28029,"28,065",Copiah County
+1442,28031,"18,636",Covington County
+1443,28033,"184,945",DeSoto County
+1444,28035,"74,897",Forrest County
+1445,28037,"7,713",Franklin County
+1446,28039,"24,500",George County
+1447,28041,"13,586",Greene County
+1448,28043,"20,758",Grenada County
+1449,28045,"47,632",Hancock County
+1450,28047,"208,080",Harrison County
+1451,28049,"231,840",Hinds County
+1452,28051,"17,010",Holmes County
+1453,28053,"8,064",Humphreys County
+1454,28055,"1,327",Issaquena County
+1455,28057,"23,390",Itawamba County
+1456,28059,"143,617",Jackson County
+1457,28061,"16,383",Jasper County
+1458,28063,"6,990",Jefferson County
+1459,28065,"11,128",Jefferson Davis County
+1460,28067,"68,098",Jones County
+1461,28069,"9,742",Kemper County
+1462,28071,"54,019",Lafayette County
+1463,28073,"63,343",Lamar County
+1464,28075,"74,125",Lauderdale County
+1465,28077,"12,586",Lawrence County
+1466,28079,"22,786",Leake County
+1467,28081,"85,436",Lee County
+1468,28083,"28,183",Leflore County
+1469,28085,"34,153",Lincoln County
+1470,28087,"58,595",Lowndes County
+1471,28089,"106,272",Madison County
+1472,28091,"24,573",Marion County
+1473,28093,"35,294",Marshall County
+1474,28095,"35,252",Monroe County
+1475,28097,"9,775",Montgomery County
+1476,28099,"29,118",Neshoba County
+1477,28101,"21,018",Newton County
+1478,28103,"10,417",Noxubee County
+1479,28105,"49,587",Oktibbeha County
+1480,28107,"34,192",Panola County
+1481,28109,"55,535",Pearl River County
+1482,28111,"11,973",Perry County
+1483,28113,"39,288",Pike County
+1484,28115,"32,174",Pontotoc County
+1485,28117,"25,126",Prentiss County
+1486,28119,"6,792",Quitman County
+1487,28121,"155,271",Rankin County
+1488,28123,"28,124",Scott County
+1489,28125,"4,321",Sharkey County
+1490,28127,"26,658",Simpson County
+1491,28129,"15,916",Smith County
+1492,28131,"18,336",Stone County
+1493,28133,"25,110",Sunflower County
+1494,28135,"13,809",Tallahatchie County
+1495,28137,"28,321",Tate County
+1496,28139,"22,015",Tippah County
+1497,28141,"19,383",Tishomingo County
+1498,28143,"9,632",Tunica County
+1499,28145,"28,815",Union County
+1500,28147,"14,286",Walthall County
+1501,28149,"45,381",Warren County
+1502,28151,"43,909",Washington County
+1503,28153,"20,183",Wayne County
+1504,28155,"9,689",Webster County
+1505,28157,"8,630",Wilkinson County
+1506,28159,"17,955",Winston County
+1507,28161,"12,108",Yalobusha County
+1508,28163,"29,690",Yazoo County
+1509,29000,"6,137,428",Missouri
+1510,29001,"25,343",Adair County
+1511,29003,"17,712",Andrew County
+1512,29005,"5,143",Atchison County
+1513,29007,"25,388",Audrain County
+1514,29009,"35,789",Barry County
+1515,29011,"11,754",Barton County
+1516,29013,"16,172",Bates County
+1517,29015,"19,443",Benton County
+1518,29017,"12,133",Bollinger County
+1519,29019,"180,463",Boone County
+1520,29021,"87,364",Buchanan County
+1521,29023,"42,478",Butler County
+1522,29025,"9,020",Caldwell County
+1523,29027,"44,743",Callaway County
+1524,29029,"46,305",Camden County
+1525,29031,"78,871",Cape Girardeau County
+1526,29033,"8,679",Carroll County
+1527,29035,"5,982",Carter County
+1528,29037,"105,780",Cass County
+1529,29039,"14,349",Cedar County
+1530,29041,"7,426",Chariton County
+1531,29043,"88,595",Christian County
+1532,29045,"6,797",Clark County
+1533,29047,"249,948",Clay County
+1534,29049,"20,387",Clinton County
+1535,29051,"76,745",Cole County
+1536,29053,"17,709",Cooper County
+1537,29055,"23,920",Crawford County
+1538,29057,"7,561",Dade County
+1539,29059,"16,878",Dallas County
+1540,29061,"8,278",Daviess County
+1541,29063,"12,547",DeKalb County
+1542,29065,"15,573",Dent County
+1543,29067,"13,185",Douglas County
+1544,29069,"29,131",Dunklin County
+1545,29071,"103,967",Franklin County
+1546,29073,"14,706",Gasconade County
+1547,29075,"6,571",Gentry County
+1548,29077,"293,086",Greene County
+1549,29079,"9,850",Grundy County
+1550,29081,"8,352",Harrison County
+1551,29083,"21,824",Henry County
+1552,29085,"9,544",Hickory County
+1553,29087,"4,403",Holt County
+1554,29089,"10,001",Howard County
+1555,29091,"40,117",Howell County
+1556,29093,"10,125",Iron County
+1557,29095,"703,011",Jackson County
+1558,29097,"121,328",Jasper County
+1559,29099,"225,081",Jefferson County
+1560,29101,"54,062",Johnson County
+1561,29103,"3,959",Knox County
+1562,29105,"35,723",Laclede County
+1563,29107,"32,708",Lafayette County
+1564,29109,"38,355",Lawrence County
+1565,29111,"9,776",Lewis County
+1566,29113,"59,013",Lincoln County
+1567,29115,"11,920",Linn County
+1568,29117,"15,227",Livingston County
+1569,29119,"22,837",McDonald County
+1570,29121,"15,117",Macon County
+1571,29123,"12,088",Madison County
+1572,29125,"8,697",Maries County
+1573,29127,"28,530",Marion County
+1574,29129,"3,617",Mercer County
+1575,29131,"25,619",Miller County
+1576,29133,"13,180",Mississippi County
+1577,29135,"16,132",Moniteau County
+1578,29137,"8,644",Monroe County
+1579,29139,"11,551",Montgomery County
+1580,29141,"20,627",Morgan County
+1581,29143,"17,076",New Madrid County
+1582,29145,"58,236",Newton County
+1583,29147,"22,092",Nodaway County
+1584,29149,"10,529",Oregon County
+1585,29151,"13,615",Osage County
+1586,29153,"9,174",Ozark County
+1587,29155,"15,805",Pemiscot County
+1588,29157,"19,136",Perry County
+1589,29159,"42,339",Pettis County
+1590,29161,"44,573",Phelps County
+1591,29163,"18,302",Pike County
+1592,29165,"104,418",Platte County
+1593,29167,"32,149",Polk County
+1594,29169,"52,607",Pulaski County
+1595,29171,"4,696",Putnam County
+1596,29173,"10,309",Ralls County
+1597,29175,"24,748",Randolph County
+1598,29177,"23,018",Ray County
+1599,29179,"6,270",Reynolds County
+1600,29181,"13,288",Ripley County
+1601,29183,"402,022",St. Charles County
+1602,29185,"9,397",St. Clair County
+1603,29186,"17,894",Ste. Genevieve County
+1604,29187,"67,215",St. Francois County
+1605,29189,"994,205",St. Louis County
+1606,29195,"22,761",Saline County
+1607,29197,"4,660",Schuyler County
+1608,29199,"4,902",Scotland County
+1609,29201,"38,280",Scott County
+1610,29203,"8,166",Shannon County
+1611,29205,"5,930",Shelby County
+1612,29207,"29,025",Stoddard County
+1613,29209,"31,952",Stone County
+1614,29211,"6,089",Sullivan County
+1615,29213,"55,928",Taney County
+1616,29215,"25,398",Texas County
+1617,29217,"20,563",Vernon County
+1618,29219,"35,649",Warren County
+1619,29221,"24,730",Washington County
+1620,29223,"12,873",Wayne County
+1621,29225,"39,592",Webster County
+1622,29227,"2,013",Worth County
+1623,29229,"18,289",Wright County
+1624,29510,"300,576",St. Louis city
+1625,30000,"1,068,778",Montana
+1626,30001,"9,453",Beaverhead County
+1627,30003,"13,319",Big Horn County
+1628,30005,"6,681",Blaine County
+1629,30007,"6,237",Broadwater County
+1630,30009,"10,725",Carbon County
+1631,30011,"1,252",Carter County
+1632,30013,"81,366",Cascade County
+1633,30015,"5,635",Chouteau County
+1634,30017,"11,402",Custer County
+1635,30019,"1,690",Daniels County
+1636,30021,"8,613",Dawson County
+1637,30023,"9,140",Deer Lodge County
+1638,30025,"2,846",Fallon County
+1639,30027,"11,050",Fergus County
+1640,30029,"103,806",Flathead County
+1641,30031,"114,434",Gallatin County
+1642,30033,"1,258",Garfield County
+1643,30035,"13,753",Glacier County
+1644,30037,821,Golden Valley County
+1645,30039,"3,379",Granite County
+1646,30041,"16,484",Hill County
+1647,30043,"12,221",Jefferson County
+1648,30045,"2,007",Judith Basin County
+1649,30047,"30,458",Lake County
+1650,30049,"69,432",Lewis and Clark County
+1651,30051,"2,337",Liberty County
+1652,30053,"19,980",Lincoln County
+1653,30055,"1,664",McCone County
+1654,30057,"8,600",Madison County
+1655,30059,"1,862",Meagher County
+1656,30061,"4,397",Mineral County
+1657,30063,"119,600",Missoula County
+1658,30065,"4,633",Musselshell County
+1659,30067,"16,606",Park County
+1660,30069,487,Petroleum County
+1661,30071,"3,954",Phillips County
+1662,30073,"5,911",Pondera County
+1663,30075,"1,682",Powder River County
+1664,30077,"6,890",Powell County
+1665,30079,"1,077",Prairie County
+1666,30081,"43,806",Ravalli County
+1667,30083,"10,803",Richland County
+1668,30085,"11,004",Roosevelt County
+1669,30087,"8,937",Rosebud County
+1670,30089,"12,113",Sanders County
+1671,30091,"3,309",Sheridan County
+1672,30093,"34,915",Silver Bow County
+1673,30095,"9,642",Stillwater County
+1674,30097,"3,737",Sweet Grass County
+1675,30099,"6,147",Teton County
+1676,30101,"4,736",Toole County
+1677,30103,696,Treasure County
+1678,30105,"7,396",Valley County
+1679,30107,"2,126",Wheatland County
+1680,30109,969,Wibaux County
+1681,30111,"161,300",Yellowstone County
+1682,31000,"1,934,408",Nebraska
+1683,31001,"31,363",Adams County
+1684,31003,"6,298",Antelope County
+1685,31005,463,Arthur County
+1686,31007,745,Banner County
+1687,31009,465,Blaine County
+1688,31011,"5,192",Boone County
+1689,31013,"10,783",Box Butte County
+1690,31015,"1,919",Boyd County
+1691,31017,"2,955",Brown County
+1692,31019,"49,659",Buffalo County
+1693,31021,"6,459",Burt County
+1694,31023,"8,016",Butler County
+1695,31025,"26,248",Cass County
+1696,31027,"8,402",Cedar County
+1697,31029,"3,924",Chase County
+1698,31031,"5,689",Cherry County
+1699,31033,"8,910",Cheyenne County
+1700,31035,"6,203",Clay County
+1701,31037,"10,709",Colfax County
+1702,31039,"8,846",Cuming County
+1703,31041,"10,777",Custer County
+1704,31043,"20,026",Dakota County
+1705,31045,"8,589",Dawes County
+1706,31047,"23,595",Dawson County
+1707,31049,"1,794",Deuel County
+1708,31051,"5,636",Dixon County
+1709,31053,"36,565",Dodge County
+1710,31055,"571,327",Douglas County
+1711,31057,"1,693",Dundy County
+1712,31059,"5,462",Fillmore County
+1713,31061,"2,979",Franklin County
+1714,31063,"2,627",Frontier County
+1715,31065,"4,676",Furnas County
+1716,31067,"21,513",Gage County
+1717,31069,"1,837",Garden County
+1718,31071,"1,969",Garfield County
+1719,31073,"1,990",Gosper County
+1720,31075,623,Grant County
+1721,31077,"2,356",Greeley County
+1722,31079,"61,353",Hall County
+1723,31081,"9,324",Hamilton County
+1724,31083,"3,380",Harlan County
+1725,31085,922,Hayes County
+1726,31087,"2,762",Hitchcock County
+1727,31089,"10,067",Holt County
+1728,31091,682,Hooker County
+1729,31093,"6,445",Howard County
+1730,31095,"7,046",Jefferson County
+1731,31097,"5,071",Johnson County
+1732,31099,"6,495",Kearney County
+1733,31101,"8,034",Keith County
+1734,31103,806,Keya Paha County
+1735,31105,"3,632",Kimball County
+1736,31107,"8,332",Knox County
+1737,31109,"319,090",Lancaster County
+1738,31111,"34,914",Lincoln County
+1739,31113,748,Logan County
+1740,31115,664,Loup County
+1741,31117,494,McPherson County
+1742,31119,"35,099",Madison County
+1743,31121,"7,755",Merrick County
+1744,31123,"4,642",Morrill County
+1745,31125,"3,519",Nance County
+1746,31127,"6,972",Nemaha County
+1747,31129,"4,148",Nuckolls County
+1748,31131,"16,012",Otoe County
+1749,31133,"2,613",Pawnee County
+1750,31135,"2,891",Perkins County
+1751,31137,"9,034",Phelps County
+1752,31139,"7,148",Pierce County
+1753,31141,"33,470",Platte County
+1754,31143,"5,213",Polk County
+1755,31145,"10,724",Red Willow County
+1756,31147,"7,865",Richardson County
+1757,31149,"1,357",Rock County
+1758,31151,"14,224",Saline County
+1759,31153,"187,196",Sarpy County
+1760,31155,"21,578",Saunders County
+1761,31157,"35,618",Scotts Bluff County
+1762,31159,"17,284",Seward County
+1763,31161,"5,246",Sheridan County
+1764,31163,"3,001",Sherman County
+1765,31165,"1,166",Sioux County
+1766,31167,"5,920",Stanton County
+1767,31169,"5,003",Thayer County
+1768,31171,722,Thomas County
+1769,31173,"7,224",Thurston County
+1770,31175,"4,158",Valley County
+1771,31177,"20,729",Washington County
+1772,31179,"9,385",Wayne County
+1773,31181,"3,487",Webster County
+1774,31183,783,Wheeler County
+1775,31185,"13,679",York County
+1776,32000,"3,080,156",Nevada
+1777,32001,"24,909",Churchill County
+1778,32003,"2,266,715",Clark County
+1779,32005,"48,905",Douglas County
+1780,32007,"52,778",Elko County
+1781,32009,873,Esmeralda County
+1782,32011,"2,029",Eureka County
+1783,32013,"16,831",Humboldt County
+1784,32015,"5,532",Lander County
+1785,32017,"5,183",Lincoln County
+1786,32019,"57,510",Lyon County
+1787,32021,"4,505",Mineral County
+1788,32023,"46,523",Nye County
+1789,32027,"6,725",Pershing County
+1790,32029,"4,123",Storey County
+1791,32031,"471,519",Washoe County
+1792,32033,"9,580",White Pine County
+1793,32510,"55,916",Carson City
+1794,33000,"1,359,711",New Hampshire
+1795,33001,"61,303",Belknap County
+1796,33003,"48,910",Carroll County
+1797,33005,"76,085",Cheshire County
+1798,33007,"31,563",Coos County
+1799,33009,"89,886",Grafton County
+1800,33011,"417,025",Hillsborough County
+1801,33013,"151,391",Merrimack County
+1802,33015,"309,769",Rockingham County
+1803,33017,"130,633",Strafford County
+1804,33019,"43,146",Sullivan County
+1805,34000,"8,882,190",New Jersey
+1806,34001,"263,670",Atlantic County
+1807,34003,"932,202",Bergen County
+1808,34005,"445,349",Burlington County
+1809,34007,"506,471",Camden County
+1810,34009,"92,039",Cape May County
+1811,34011,"149,527",Cumberland County
+1812,34013,"798,975",Essex County
+1813,34015,"291,636",Gloucester County
+1814,34017,"672,391",Hudson County
+1815,34019,"124,371",Hunterdon County
+1816,34021,"367,430",Mercer County
+1817,34023,"825,062",Middlesex County
+1818,34025,"618,795",Monmouth County
+1819,34027,"491,845",Morris County
+1820,34029,"607,186",Ocean County
+1821,34031,"501,826",Passaic County
+1822,34033,"62,385",Salem County
+1823,34035,"328,934",Somerset County
+1824,34037,"140,488",Sussex County
+1825,34039,"556,341",Union County
+1826,34041,"105,267",Warren County
+1827,35000,"2,096,829",New Mexico
+1828,35001,"679,121",Bernalillo County
+1829,35003,"3,527",Catron County
+1830,35005,"64,615",Chaves County
+1831,35006,"26,675",Cibola County
+1832,35007,"11,941",Colfax County
+1833,35009,"48,954",Curry County
+1834,35011,"1,748",De Baca County
+1835,35013,"218,195",Doña Ana County
+1836,35015,"58,460",Eddy County
+1837,35017,"26,998",Grant County
+1838,35019,"4,300",Guadalupe County
+1839,35021,625,Harding County
+1840,35023,"4,198",Hidalgo County
+1841,35025,"71,070",Lea County
+1842,35027,"19,572",Lincoln County
+1843,35028,"19,369",Los Alamos County
+1844,35029,"23,709",Luna County
+1845,35031,"71,367",McKinley County
+1846,35033,"4,521",Mora County
+1847,35035,"67,490",Otero County
+1848,35037,"8,253",Quay County
+1849,35039,"38,921",Rio Arriba County
+1850,35041,"18,500",Roosevelt County
+1851,35043,"146,748",Sandoval County
+1852,35045,"123,958",San Juan County
+1853,35047,"27,277",San Miguel County
+1854,35049,"150,358",Santa Fe County
+1855,35051,"10,791",Sierra County
+1856,35053,"16,637",Socorro County
+1857,35055,"32,723",Taos County
+1858,35057,"15,461",Torrance County
+1859,35059,"4,059",Union County
+1860,35061,"76,688",Valencia County
+1861,36000,"19,453,561",New York
+1862,36001,"305,506",Albany County
+1863,36003,"46,091",Allegany County
+1864,36005,"1,418,207",Bronx County
+1865,36007,"190,488",Broome County
+1866,36009,"76,117",Cattaraugus County
+1867,36011,"76,576",Cayuga County
+1868,36013,"126,903",Chautauqua County
+1869,36015,"83,456",Chemung County
+1870,36017,"47,207",Chenango County
+1871,36019,"80,485",Clinton County
+1872,36021,"59,461",Columbia County
+1873,36023,"47,581",Cortland County
+1874,36025,"44,135",Delaware County
+1875,36027,"294,218",Dutchess County
+1876,36029,"918,702",Erie County
+1877,36031,"36,885",Essex County
+1878,36033,"50,022",Franklin County
+1879,36035,"53,383",Fulton County
+1880,36037,"57,280",Genesee County
+1881,36039,"47,188",Greene County
+1882,36041,"4,416",Hamilton County
+1883,36043,"61,319",Herkimer County
+1884,36045,"109,834",Jefferson County
+1885,36047,"2,559,903",Kings County
+1886,36049,"26,296",Lewis County
+1887,36051,"62,914",Livingston County
+1888,36053,"70,941",Madison County
+1889,36055,"741,770",Monroe County
+1890,36057,"49,221",Montgomery County
+1891,36059,"1,356,924",Nassau County
+1892,36061,"1,628,706",New York County
+1893,36063,"209,281",Niagara County
+1894,36065,"228,671",Oneida County
+1895,36067,"460,528",Onondaga County
+1896,36069,"109,777",Ontario County
+1897,36071,"384,940",Orange County
+1898,36073,"40,352",Orleans County
+1899,36075,"117,124",Oswego County
+1900,36077,"59,493",Otsego County
+1901,36079,"98,320",Putnam County
+1902,36081,"2,253,858",Queens County
+1903,36083,"158,714",Rensselaer County
+1904,36085,"476,143",Richmond County
+1905,36087,"325,789",Rockland County
+1906,36089,"107,740",St. Lawrence County
+1907,36091,"229,863",Saratoga County
+1908,36093,"155,299",Schenectady County
+1909,36095,"30,999",Schoharie County
+1910,36097,"17,807",Schuyler County
+1911,36099,"34,016",Seneca County
+1912,36101,"95,379",Steuben County
+1913,36103,"1,476,601",Suffolk County
+1914,36105,"75,432",Sullivan County
+1915,36107,"48,203",Tioga County
+1916,36109,"102,180",Tompkins County
+1917,36111,"177,573",Ulster County
+1918,36113,"63,944",Warren County
+1919,36115,"61,204",Washington County
+1920,36117,"89,918",Wayne County
+1921,36119,"967,506",Westchester County
+1922,36121,"39,859",Wyoming County
+1923,36123,"24,913",Yates County
+1924,37000,"10,488,084",North Carolina
+1925,37001,"169,509",Alamance County
+1926,37003,"37,497",Alexander County
+1927,37005,"11,137",Alleghany County
+1928,37007,"24,446",Anson County
+1929,37009,"27,203",Ashe County
+1930,37011,"17,557",Avery County
+1931,37013,"46,994",Beaufort County
+1932,37015,"18,947",Bertie County
+1933,37017,"32,722",Bladen County
+1934,37019,"142,820",Brunswick County
+1935,37021,"261,191",Buncombe County
+1936,37023,"90,485",Burke County
+1937,37025,"216,453",Cabarrus County
+1938,37027,"82,178",Caldwell County
+1939,37029,"10,867",Camden County
+1940,37031,"69,473",Carteret County
+1941,37033,"22,604",Caswell County
+1942,37035,"159,551",Catawba County
+1943,37037,"74,470",Chatham County
+1944,37039,"28,612",Cherokee County
+1945,37041,"13,943",Chowan County
+1946,37043,"11,231",Clay County
+1947,37045,"97,947",Cleveland County
+1948,37047,"55,508",Columbus County
+1949,37049,"102,139",Craven County
+1950,37051,"335,509",Cumberland County
+1951,37053,"27,763",Currituck County
+1952,37055,"37,009",Dare County
+1953,37057,"167,609",Davidson County
+1954,37059,"42,846",Davie County
+1955,37061,"58,741",Duplin County
+1956,37063,"321,488",Durham County
+1957,37065,"51,472",Edgecombe County
+1958,37067,"382,295",Forsyth County
+1959,37069,"69,685",Franklin County
+1960,37071,"224,529",Gaston County
+1961,37073,"11,562",Gates County
+1962,37075,"8,441",Graham County
+1963,37077,"60,443",Granville County
+1964,37079,"21,069",Greene County
+1965,37081,"537,174",Guilford County
+1966,37083,"50,010",Halifax County
+1967,37085,"135,976",Harnett County
+1968,37087,"62,317",Haywood County
+1969,37089,"117,417",Henderson County
+1970,37091,"23,677",Hertford County
+1971,37093,"55,234",Hoke County
+1972,37095,"4,937",Hyde County
+1973,37097,"181,806",Iredell County
+1974,37099,"43,938",Jackson County
+1975,37101,"209,339",Johnston County
+1976,37103,"9,419",Jones County
+1977,37105,"61,779",Lee County
+1978,37107,"55,949",Lenoir County
+1979,37109,"86,111",Lincoln County
+1980,37111,"45,756",McDowell County
+1981,37113,"35,858",Macon County
+1982,37115,"21,755",Madison County
+1983,37117,"22,440",Martin County
+1984,37119,"1,110,356",Mecklenburg County
+1985,37121,"14,964",Mitchell County
+1986,37123,"27,173",Montgomery County
+1987,37125,"100,880",Moore County
+1988,37127,"94,298",Nash County
+1989,37129,"234,473",New Hanover County
+1990,37131,"19,483",Northampton County
+1991,37133,"197,938",Onslow County
+1992,37135,"148,476",Orange County
+1993,37137,"12,726",Pamlico County
+1994,37139,"39,824",Pasquotank County
+1995,37141,"63,060",Pender County
+1996,37143,"13,463",Perquimans County
+1997,37145,"39,490",Person County
+1998,37147,"180,742",Pitt County
+1999,37149,"20,724",Polk County
+2000,37151,"143,667",Randolph County
+2001,37153,"44,829",Richmond County
+2002,37155,"130,625",Robeson County
+2003,37157,"91,010",Rockingham County
+2004,37159,"142,088",Rowan County
+2005,37161,"67,029",Rutherford County
+2006,37163,"63,531",Sampson County
+2007,37165,"34,823",Scotland County
+2008,37167,"62,806",Stanly County
+2009,37169,"45,591",Stokes County
+2010,37171,"71,783",Surry County
+2011,37173,"14,271",Swain County
+2012,37175,"34,385",Transylvania County
+2013,37177,"4,016",Tyrrell County
+2014,37179,"239,859",Union County
+2015,37181,"44,535",Vance County
+2016,37183,"1,111,761",Wake County
+2017,37185,"19,731",Warren County
+2018,37187,"11,580",Washington County
+2019,37189,"56,177",Watauga County
+2020,37191,"123,131",Wayne County
+2021,37193,"68,412",Wilkes County
+2022,37195,"81,801",Wilson County
+2023,37197,"37,667",Yadkin County
+2024,37199,"18,069",Yancey County
+2025,38000,"762,062",North Dakota
+2026,38001,"2,216",Adams County
+2027,38003,"10,415",Barnes County
+2028,38005,"6,832",Benson County
+2029,38007,928,Billings County
+2030,38009,"6,282",Bottineau County
+2031,38011,"3,024",Bowman County
+2032,38013,"2,115",Burke County
+2033,38015,"95,626",Burleigh County
+2034,38017,"181,923",Cass County
+2035,38019,"3,762",Cavalier County
+2036,38021,"4,872",Dickey County
+2037,38023,"2,264",Divide County
+2038,38025,"4,424",Dunn County
+2039,38027,"2,287",Eddy County
+2040,38029,"3,241",Emmons County
+2041,38031,"3,210",Foster County
+2042,38033,"1,761",Golden Valley County
+2043,38035,"69,451",Grand Forks County
+2044,38037,"2,274",Grant County
+2045,38039,"2,231",Griggs County
+2046,38041,"2,499",Hettinger County
+2047,38043,"2,480",Kidder County
+2048,38045,"4,046",LaMoure County
+2049,38047,"1,850",Logan County
+2050,38049,"5,745",McHenry County
+2051,38051,"2,497",McIntosh County
+2052,38053,"15,024",McKenzie County
+2053,38055,"9,450",McLean County
+2054,38057,"8,187",Mercer County
+2055,38059,"31,364",Morton County
+2056,38061,"10,545",Mountrail County
+2057,38063,"2,879",Nelson County
+2058,38065,"1,959",Oliver County
+2059,38067,"6,801",Pembina County
+2060,38069,"3,975",Pierce County
+2061,38071,"11,519",Ramsey County
+2062,38073,"5,218",Ransom County
+2063,38075,"2,327",Renville County
+2064,38077,"16,177",Richland County
+2065,38079,"14,176",Rolette County
+2066,38081,"3,898",Sargent County
+2067,38083,"1,315",Sheridan County
+2068,38085,"4,230",Sioux County
+2069,38087,750,Slope County
+2070,38089,"31,489",Stark County
+2071,38091,"1,890",Steele County
+2072,38093,"20,704",Stutsman County
+2073,38095,"2,189",Towner County
+2074,38097,"8,036",Traill County
+2075,38099,"10,641",Walsh County
+2076,38101,"67,641",Ward County
+2077,38103,"3,834",Wells County
+2078,38105,"37,589",Williams County
+2079,39000,"11,689,100",Ohio
+2080,39001,"27,698",Adams County
+2081,39003,"102,351",Allen County
+2082,39005,"53,484",Ashland County
+2083,39007,"97,241",Ashtabula County
+2084,39009,"65,327",Athens County
+2085,39011,"45,656",Auglaize County
+2086,39013,"67,006",Belmont County
+2087,39015,"43,432",Brown County
+2088,39017,"383,134",Butler County
+2089,39019,"26,914",Carroll County
+2090,39021,"38,885",Champaign County
+2091,39023,"134,083",Clark County
+2092,39025,"206,428",Clermont County
+2093,39027,"41,968",Clinton County
+2094,39029,"101,883",Columbiana County
+2095,39031,"36,600",Coshocton County
+2096,39033,"41,494",Crawford County
+2097,39035,"1,235,072",Cuyahoga County
+2098,39037,"51,113",Darke County
+2099,39039,"38,087",Defiance County
+2100,39041,"209,177",Delaware County
+2101,39043,"74,266",Erie County
+2102,39045,"157,574",Fairfield County
+2103,39047,"28,525",Fayette County
+2104,39049,"1,316,756",Franklin County
+2105,39051,"42,126",Fulton County
+2106,39053,"29,898",Gallia County
+2107,39055,"93,649",Geauga County
+2108,39057,"168,937",Greene County
+2109,39059,"38,875",Guernsey County
+2110,39061,"817,473",Hamilton County
+2111,39063,"75,783",Hancock County
+2112,39065,"31,365",Hardin County
+2113,39067,"15,040",Harrison County
+2114,39069,"27,006",Henry County
+2115,39071,"43,161",Highland County
+2116,39073,"28,264",Hocking County
+2117,39075,"43,960",Holmes County
+2118,39077,"58,266",Huron County
+2119,39079,"32,413",Jackson County
+2120,39081,"65,325",Jefferson County
+2121,39083,"62,322",Knox County
+2122,39085,"230,149",Lake County
+2123,39087,"59,463",Lawrence County
+2124,39089,"176,862",Licking County
+2125,39091,"45,672",Logan County
+2126,39093,"309,833",Lorain County
+2127,39095,"428,348",Lucas County
+2128,39097,"44,731",Madison County
+2129,39099,"228,683",Mahoning County
+2130,39101,"65,093",Marion County
+2131,39103,"179,746",Medina County
+2132,39105,"22,907",Meigs County
+2133,39107,"41,172",Mercer County
+2134,39109,"106,987",Miami County
+2135,39111,"13,654",Monroe County
+2136,39113,"531,687",Montgomery County
+2137,39115,"14,508",Morgan County
+2138,39117,"35,328",Morrow County
+2139,39119,"86,215",Muskingum County
+2140,39121,"14,424",Noble County
+2141,39123,"40,525",Ottawa County
+2142,39125,"18,672",Paulding County
+2143,39127,"36,134",Perry County
+2144,39129,"58,457",Pickaway County
+2145,39131,"27,772",Pike County
+2146,39133,"162,466",Portage County
+2147,39135,"40,882",Preble County
+2148,39137,"33,861",Putnam County
+2149,39139,"121,154",Richland County
+2150,39141,"76,666",Ross County
+2151,39143,"58,518",Sandusky County
+2152,39145,"75,314",Scioto County
+2153,39147,"55,178",Seneca County
+2154,39149,"48,590",Shelby County
+2155,39151,"370,606",Stark County
+2156,39153,"541,013",Summit County
+2157,39155,"197,974",Trumbull County
+2158,39157,"91,987",Tuscarawas County
+2159,39159,"58,988",Union County
+2160,39161,"28,275",Van Wert County
+2161,39163,"13,085",Vinton County
+2162,39165,"234,602",Warren County
+2163,39167,"59,911",Washington County
+2164,39169,"115,710",Wayne County
+2165,39171,"36,692",Williams County
+2166,39173,"130,817",Wood County
+2167,39175,"21,772",Wyandot County
+2168,40000,"3,956,971",Oklahoma
+2169,40001,"22,194",Adair County
+2170,40003,"5,702",Alfalfa County
+2171,40005,"13,758",Atoka County
+2172,40007,"5,311",Beaver County
+2173,40009,"21,859",Beckham County
+2174,40011,"9,429",Blaine County
+2175,40013,"47,995",Bryan County
+2176,40015,"28,762",Caddo County
+2177,40017,"148,306",Canadian County
+2178,40019,"48,111",Carter County
+2179,40021,"48,657",Cherokee County
+2180,40023,"14,672",Choctaw County
+2181,40025,"2,137",Cimarron County
+2182,40027,"284,014",Cleveland County
+2183,40029,"5,495",Coal County
+2184,40031,"120,749",Comanche County
+2185,40033,"5,666",Cotton County
+2186,40035,"14,142",Craig County
+2187,40037,"71,522",Creek County
+2188,40039,"29,003",Custer County
+2189,40041,"43,009",Delaware County
+2190,40043,"4,891",Dewey County
+2191,40045,"3,859",Ellis County
+2192,40047,"61,056",Garfield County
+2193,40049,"27,711",Garvin County
+2194,40051,"55,834",Grady County
+2195,40053,"4,333",Grant County
+2196,40055,"5,712",Greer County
+2197,40057,"2,653",Harmon County
+2198,40059,"3,688",Harper County
+2199,40061,"12,627",Haskell County
+2200,40063,"13,279",Hughes County
+2201,40065,"24,530",Jackson County
+2202,40067,"6,002",Jefferson County
+2203,40069,"11,085",Johnston County
+2204,40071,"43,538",Kay County
+2205,40073,"15,765",Kingfisher County
+2206,40075,"8,708",Kiowa County
+2207,40077,"10,073",Latimer County
+2208,40079,"49,853",Le Flore County
+2209,40081,"34,877",Lincoln County
+2210,40083,"48,011",Logan County
+2211,40085,"10,253",Love County
+2212,40087,"40,474",McClain County
+2213,40089,"32,832",McCurtain County
+2214,40091,"19,596",McIntosh County
+2215,40093,"7,629",Major County
+2216,40095,"16,931",Marshall County
+2217,40097,"41,100",Mayes County
+2218,40099,"14,073",Murray County
+2219,40101,"67,997",Muskogee County
+2220,40103,"11,131",Noble County
+2221,40105,"10,076",Nowata County
+2222,40107,"11,993",Okfuskee County
+2223,40109,"797,434",Oklahoma County
+2224,40111,"38,465",Okmulgee County
+2225,40113,"46,963",Osage County
+2226,40115,"31,127",Ottawa County
+2227,40117,"16,376",Pawnee County
+2228,40119,"81,784",Payne County
+2229,40121,"43,654",Pittsburg County
+2230,40123,"38,284",Pontotoc County
+2231,40125,"72,592",Pottawatomie County
+2232,40127,"11,096",Pushmataha County
+2233,40129,"3,583",Roger Mills County
+2234,40131,"92,459",Rogers County
+2235,40133,"24,258",Seminole County
+2236,40135,"41,569",Sequoyah County
+2237,40137,"43,143",Stephens County
+2238,40139,"19,983",Texas County
+2239,40141,"7,250",Tillman County
+2240,40143,"651,552",Tulsa County
+2241,40145,"81,289",Wagoner County
+2242,40147,"51,527",Washington County
+2243,40149,"10,916",Washita County
+2244,40151,"8,793",Woods County
+2245,40153,"20,211",Woodward County
+2246,41000,"4,217,737",Oregon
+2247,41001,"16,124",Baker County
+2248,41003,"93,053",Benton County
+2249,41005,"418,187",Clackamas County
+2250,41007,"40,224",Clatsop County
+2251,41009,"52,354",Columbia County
+2252,41011,"64,487",Coos County
+2253,41013,"24,404",Crook County
+2254,41015,"22,925",Curry County
+2255,41017,"197,692",Deschutes County
+2256,41019,"110,980",Douglas County
+2257,41021,"1,912",Gilliam County
+2258,41023,"7,199",Grant County
+2259,41025,"7,393",Harney County
+2260,41027,"23,382",Hood River County
+2261,41029,"220,944",Jackson County
+2262,41031,"24,658",Jefferson County
+2263,41033,"87,487",Josephine County
+2264,41035,"68,238",Klamath County
+2265,41037,"7,869",Lake County
+2266,41039,"382,067",Lane County
+2267,41041,"49,962",Lincoln County
+2268,41043,"129,749",Linn County
+2269,41045,"30,571",Malheur County
+2270,41047,"347,818",Marion County
+2271,41049,"11,603",Morrow County
+2272,41051,"812,855",Multnomah County
+2273,41053,"86,085",Polk County
+2274,41055,"1,780",Sherman County
+2275,41057,"27,036",Tillamook County
+2276,41059,"77,950",Umatilla County
+2277,41061,"26,835",Union County
+2278,41063,"7,208",Wallowa County
+2279,41065,"26,682",Wasco County
+2280,41067,"601,592",Washington County
+2281,41069,"1,332",Wheeler County
+2282,41071,"107,100",Yamhill County
+2283,42000,"12,801,989",Pennsylvania
+2284,42001,"103,009",Adams County
+2285,42003,"1,216,045",Allegheny County
+2286,42005,"64,735",Armstrong County
+2287,42007,"163,929",Beaver County
+2288,42009,"47,888",Bedford County
+2289,42011,"421,164",Berks County
+2290,42013,"121,829",Blair County
+2291,42015,"60,323",Bradford County
+2292,42017,"628,270",Bucks County
+2293,42019,"187,853",Butler County
+2294,42021,"130,192",Cambria County
+2295,42023,"4,447",Cameron County
+2296,42025,"64,182",Carbon County
+2297,42027,"162,385",Centre County
+2298,42029,"524,989",Chester County
+2299,42031,"38,438",Clarion County
+2300,42033,"79,255",Clearfield County
+2301,42035,"38,632",Clinton County
+2302,42037,"64,964",Columbia County
+2303,42039,"84,629",Crawford County
+2304,42041,"253,370",Cumberland County
+2305,42043,"278,299",Dauphin County
+2306,42045,"566,747",Delaware County
+2307,42047,"29,910",Elk County
+2308,42049,"269,728",Erie County
+2309,42051,"129,274",Fayette County
+2310,42053,"7,247",Forest County
+2311,42055,"155,027",Franklin County
+2312,42057,"14,530",Fulton County
+2313,42059,"36,233",Greene County
+2314,42061,"45,144",Huntingdon County
+2315,42063,"84,073",Indiana County
+2316,42065,"43,425",Jefferson County
+2317,42067,"24,763",Juniata County
+2318,42069,"209,674",Lackawanna County
+2319,42071,"545,724",Lancaster County
+2320,42073,"85,512",Lawrence County
+2321,42075,"141,793",Lebanon County
+2322,42077,"369,318",Lehigh County
+2323,42079,"317,417",Luzerne County
+2324,42081,"113,299",Lycoming County
+2325,42083,"40,625",McKean County
+2326,42085,"109,424",Mercer County
+2327,42087,"46,138",Mifflin County
+2328,42089,"170,271",Monroe County
+2329,42091,"830,915",Montgomery County
+2330,42093,"18,230",Montour County
+2331,42095,"305,285",Northampton County
+2332,42097,"90,843",Northumberland County
+2333,42099,"46,272",Perry County
+2334,42101,"1,584,064",Philadelphia County
+2335,42103,"55,809",Pike County
+2336,42105,"16,526",Potter County
+2337,42107,"141,359",Schuylkill County
+2338,42109,"40,372",Snyder County
+2339,42111,"73,447",Somerset County
+2340,42113,"6,066",Sullivan County
+2341,42115,"40,328",Susquehanna County
+2342,42117,"40,591",Tioga County
+2343,42119,"44,923",Union County
+2344,42121,"50,668",Venango County
+2345,42123,"39,191",Warren County
+2346,42125,"206,865",Washington County
+2347,42127,"51,361",Wayne County
+2348,42129,"348,899",Westmoreland County
+2349,42131,"26,794",Wyoming County
+2350,42133,"449,058",York County
+2351,44000,"1,059,361",Rhode Island
+2352,44001,"48,479",Bristol County
+2353,44003,"164,292",Kent County
+2354,44005,"82,082",Newport County
+2355,44007,"638,931",Providence County
+2356,44009,"125,577",Washington County
+2357,45000,"5,148,714",South Carolina
+2358,45001,"24,527",Abbeville County
+2359,45003,"170,872",Aiken County
+2360,45005,"8,688",Allendale County
+2361,45007,"202,558",Anderson County
+2362,45009,"14,066",Bamberg County
+2363,45011,"20,866",Barnwell County
+2364,45013,"192,122",Beaufort County
+2365,45015,"227,907",Berkeley County
+2366,45017,"14,553",Calhoun County
+2367,45019,"411,406",Charleston County
+2368,45021,"57,300",Cherokee County
+2369,45023,"32,244",Chester County
+2370,45025,"45,650",Chesterfield County
+2371,45027,"33,745",Clarendon County
+2372,45029,"37,677",Colleton County
+2373,45031,"66,618",Darlington County
+2374,45033,"30,479",Dillon County
+2375,45035,"162,809",Dorchester County
+2376,45037,"27,260",Edgefield County
+2377,45039,"22,347",Fairfield County
+2378,45041,"138,293",Florence County
+2379,45043,"62,680",Georgetown County
+2380,45045,"523,542",Greenville County
+2381,45047,"70,811",Greenwood County
+2382,45049,"19,222",Hampton County
+2383,45051,"354,081",Horry County
+2384,45053,"30,073",Jasper County
+2385,45055,"66,551",Kershaw County
+2386,45057,"98,012",Lancaster County
+2387,45059,"67,493",Laurens County
+2388,45061,"16,828",Lee County
+2389,45063,"298,750",Lexington County
+2390,45065,"9,463",McCormick County
+2391,45067,"30,657",Marion County
+2392,45069,"26,118",Marlboro County
+2393,45071,"38,440",Newberry County
+2394,45073,"79,546",Oconee County
+2395,45075,"86,175",Orangeburg County
+2396,45077,"126,884",Pickens County
+2397,45079,"415,759",Richland County
+2398,45081,"20,473",Saluda County
+2399,45083,"319,785",Spartanburg County
+2400,45085,"106,721",Sumter County
+2401,45087,"27,316",Union County
+2402,45089,"30,368",Williamsburg County
+2403,45091,"280,979",York County
+2404,46000,"884,659",South Dakota
+2405,46003,"2,751",Aurora County
+2406,46005,"18,453",Beadle County
+2407,46007,"3,365",Bennett County
+2408,46009,"6,901",Bon Homme County
+2409,46011,"35,077",Brookings County
+2410,46013,"38,839",Brown County
+2411,46015,"5,297",Brule County
+2412,46017,"1,962",Buffalo County
+2413,46019,"10,429",Butte County
+2414,46021,"1,376",Campbell County
+2415,46023,"9,292",Charles Mix County
+2416,46025,"3,736",Clark County
+2417,46027,"14,070",Clay County
+2418,46029,"28,009",Codington County
+2419,46031,"4,086",Corson County
+2420,46033,"8,972",Custer County
+2421,46035,"19,775",Davison County
+2422,46037,"5,424",Day County
+2423,46039,"4,351",Deuel County
+2424,46041,"5,892",Dewey County
+2425,46043,"2,921",Douglas County
+2426,46045,"3,829",Edmunds County
+2427,46047,"6,713",Fall River County
+2428,46049,"2,299",Faulk County
+2429,46051,"7,052",Grant County
+2430,46053,"4,185",Gregory County
+2431,46055,"1,899",Haakon County
+2432,46057,"6,164",Hamlin County
+2433,46059,"3,191",Hand County
+2434,46061,"3,453",Hanson County
+2435,46063,"1,298",Harding County
+2436,46065,"17,526",Hughes County
+2437,46067,"7,291",Hutchinson County
+2438,46069,"1,301",Hyde County
+2439,46071,"3,344",Jackson County
+2440,46073,"2,013",Jerauld County
+2441,46075,903,Jones County
+2442,46077,"4,939",Kingsbury County
+2443,46079,"12,797",Lake County
+2444,46081,"25,844",Lawrence County
+2445,46083,"61,128",Lincoln County
+2446,46085,"3,781",Lyman County
+2447,46087,"5,586",McCook County
+2448,46089,"2,379",McPherson County
+2449,46091,"4,935",Marshall County
+2450,46093,"28,332",Meade County
+2451,46095,"2,061",Mellette County
+2452,46097,"2,216",Miner County
+2453,46099,"193,134",Minnehaha County
+2454,46101,"6,576",Moody County
+2455,46102,"14,177",Oglala Lakota County
+2456,46103,"113,775",Pennington County
+2457,46105,"2,865",Perkins County
+2458,46107,"2,153",Potter County
+2459,46109,"10,394",Roberts County
+2460,46111,"2,344",Sanborn County
+2461,46115,"6,376",Spink County
+2462,46117,"3,098",Stanley County
+2463,46119,"1,391",Sully County
+2464,46121,"10,177",Todd County
+2465,46123,"5,441",Tripp County
+2466,46125,"8,384",Turner County
+2467,46127,"15,932",Union County
+2468,46129,"5,435",Walworth County
+2469,46135,"22,814",Yankton County
+2470,46137,"2,756",Ziebach County
+2471,47000,"6,829,174",Tennessee
+2472,47001,"76,978",Anderson County
+2473,47003,"49,713",Bedford County
+2474,47005,"16,160",Benton County
+2475,47007,"15,064",Bledsoe County
+2476,47009,"133,088",Blount County
+2477,47011,"108,110",Bradley County
+2478,47013,"39,842",Campbell County
+2479,47015,"14,678",Cannon County
+2480,47017,"27,767",Carroll County
+2481,47019,"56,391",Carter County
+2482,47021,"40,667",Cheatham County
+2483,47023,"17,297",Chester County
+2484,47025,"31,959",Claiborne County
+2485,47027,"7,615",Clay County
+2486,47029,"36,004",Cocke County
+2487,47031,"56,520",Coffee County
+2488,47033,"14,230",Crockett County
+2489,47035,"60,520",Cumberland County
+2490,47037,"694,144",Davidson County
+2491,47039,"11,663",Decatur County
+2492,47041,"20,490",DeKalb County
+2493,47043,"53,948",Dickson County
+2494,47045,"37,159",Dyer County
+2495,47047,"41,133",Fayette County
+2496,47049,"18,523",Fentress County
+2497,47051,"42,208",Franklin County
+2498,47053,"49,133",Gibson County
+2499,47055,"29,464",Giles County
+2500,47057,"23,320",Grainger County
+2501,47059,"69,069",Greene County
+2502,47061,"13,427",Grundy County
+2503,47063,"64,934",Hamblen County
+2504,47065,"367,804",Hamilton County
+2505,47067,"6,620",Hancock County
+2506,47069,"25,050",Hardeman County
+2507,47071,"25,652",Hardin County
+2508,47073,"56,786",Hawkins County
+2509,47075,"17,304",Haywood County
+2510,47077,"28,117",Henderson County
+2511,47079,"32,345",Henry County
+2512,47081,"25,178",Hickman County
+2513,47083,"8,201",Houston County
+2514,47085,"18,582",Humphreys County
+2515,47087,"11,786",Jackson County
+2516,47089,"54,495",Jefferson County
+2517,47091,"17,788",Johnson County
+2518,47093,"470,313",Knox County
+2519,47095,"7,016",Lake County
+2520,47097,"25,633",Lauderdale County
+2521,47099,"44,142",Lawrence County
+2522,47101,"12,268",Lewis County
+2523,47103,"34,366",Lincoln County
+2524,47105,"54,068",Loudon County
+2525,47107,"53,794",McMinn County
+2526,47109,"25,694",McNairy County
+2527,47111,"24,602",Macon County
+2528,47113,"97,984",Madison County
+2529,47115,"28,907",Marion County
+2530,47117,"34,375",Marshall County
+2531,47119,"96,387",Maury County
+2532,47121,"12,422",Meigs County
+2533,47123,"46,545",Monroe County
+2534,47125,"208,993",Montgomery County
+2535,47127,"6,488",Moore County
+2536,47129,"21,403",Morgan County
+2537,47131,"30,069",Obion County
+2538,47133,"22,241",Overton County
+2539,47135,"8,076",Perry County
+2540,47137,"5,048",Pickett County
+2541,47139,"16,832",Polk County
+2542,47141,"80,245",Putnam County
+2543,47143,"33,167",Rhea County
+2544,47145,"53,382",Roane County
+2545,47147,"71,813",Robertson County
+2546,47149,"332,285",Rutherford County
+2547,47151,"22,068",Scott County
+2548,47153,"15,026",Sequatchie County
+2549,47155,"98,250",Sevier County
+2550,47157,"937,166",Shelby County
+2551,47159,"20,157",Smith County
+2552,47161,"13,715",Stewart County
+2553,47163,"158,348",Sullivan County
+2554,47165,"191,283",Sumner County
+2555,47167,"61,599",Tipton County
+2556,47169,"11,284",Trousdale County
+2557,47171,"17,883",Unicoi County
+2558,47173,"19,972",Union County
+2559,47175,"5,872",Van Buren County
+2560,47177,"41,277",Warren County
+2561,47179,"129,375",Washington County
+2562,47181,"16,673",Wayne County
+2563,47183,"33,328",Weakley County
+2564,47185,"27,345",White County
+2565,47187,"238,412",Williamson County
+2566,47189,"144,657",Wilson County
+2567,48000,"28,995,881",Texas
+2568,48001,"57,735",Anderson County
+2569,48003,"18,705",Andrews County
+2570,48005,"86,715",Angelina County
+2571,48007,"23,510",Aransas County
+2572,48009,"8,553",Archer County
+2573,48011,"1,887",Armstrong County
+2574,48013,"51,153",Atascosa County
+2575,48015,"30,032",Austin County
+2576,48017,"7,000",Bailey County
+2577,48019,"23,112",Bandera County
+2578,48021,"88,723",Bastrop County
+2579,48023,"3,509",Baylor County
+2580,48025,"32,565",Bee County
+2581,48027,"362,924",Bell County
+2582,48029,"2,003,554",Bexar County
+2583,48031,"11,931",Blanco County
+2584,48033,654,Borden County
+2585,48035,"18,685",Bosque County
+2586,48037,"93,245",Bowie County
+2587,48039,"374,264",Brazoria County
+2588,48041,"229,211",Brazos County
+2589,48043,"9,203",Brewster County
+2590,48045,"1,546",Briscoe County
+2591,48047,"7,093",Brooks County
+2592,48049,"37,864",Brown County
+2593,48051,"18,443",Burleson County
+2594,48053,"48,155",Burnet County
+2595,48055,"43,664",Caldwell County
+2596,48057,"21,290",Calhoun County
+2597,48059,"13,943",Callahan County
+2598,48061,"423,163",Cameron County
+2599,48063,"13,094",Camp County
+2600,48065,"5,926",Carson County
+2601,48067,"30,026",Cass County
+2602,48069,"7,530",Castro County
+2603,48071,"43,837",Chambers County
+2604,48073,"52,646",Cherokee County
+2605,48075,"7,306",Childress County
+2606,48077,"10,471",Clay County
+2607,48079,"2,853",Cochran County
+2608,48081,"3,387",Coke County
+2609,48083,"8,175",Coleman County
+2610,48085,"1,034,730",Collin County
+2611,48087,"2,920",Collingsworth County
+2612,48089,"21,493",Colorado County
+2613,48091,"156,209",Comal County
+2614,48093,"13,635",Comanche County
+2615,48095,"2,726",Concho County
+2616,48097,"41,257",Cooke County
+2617,48099,"75,951",Coryell County
+2618,48101,"1,398",Cottle County
+2619,48103,"4,797",Crane County
+2620,48105,"3,464",Crockett County
+2621,48107,"5,737",Crosby County
+2622,48109,"2,171",Culberson County
+2623,48111,"7,287",Dallam County
+2624,48113,"2,635,516",Dallas County
+2625,48115,"12,728",Dawson County
+2626,48117,"18,546",Deaf Smith County
+2627,48119,"5,331",Delta County
+2628,48121,"887,207",Denton County
+2629,48123,"20,160",DeWitt County
+2630,48125,"2,211",Dickens County
+2631,48127,"10,124",Dimmit County
+2632,48129,"3,278",Donley County
+2633,48131,"11,157",Duval County
+2634,48133,"18,360",Eastland County
+2635,48135,"166,223",Ector County
+2636,48137,"1,932",Edwards County
+2637,48139,"184,826",Ellis County
+2638,48141,"839,238",El Paso County
+2639,48143,"42,698",Erath County
+2640,48145,"17,297",Falls County
+2641,48147,"35,514",Fannin County
+2642,48149,"25,346",Fayette County
+2643,48151,"3,830",Fisher County
+2644,48153,"5,712",Floyd County
+2645,48155,"1,155",Foard County
+2646,48157,"811,688",Fort Bend County
+2647,48159,"10,725",Franklin County
+2648,48161,"19,717",Freestone County
+2649,48163,"20,306",Frio County
+2650,48165,"21,492",Gaines County
+2651,48167,"342,139",Galveston County
+2652,48169,"6,229",Garza County
+2653,48171,"26,988",Gillespie County
+2654,48173,"1,409",Glasscock County
+2655,48175,"7,658",Goliad County
+2656,48177,"20,837",Gonzales County
+2657,48179,"21,886",Gray County
+2658,48181,"136,212",Grayson County
+2659,48183,"123,945",Gregg County
+2660,48185,"28,880",Grimes County
+2661,48187,"166,847",Guadalupe County
+2662,48189,"33,406",Hale County
+2663,48191,"2,964",Hall County
+2664,48193,"8,461",Hamilton County
+2665,48195,"5,399",Hansford County
+2666,48197,"3,933",Hardeman County
+2667,48199,"57,602",Hardin County
+2668,48201,"4,713,325",Harris County
+2669,48203,"66,553",Harrison County
+2670,48205,"5,576",Hartley County
+2671,48207,"5,658",Haskell County
+2672,48209,"230,191",Hays County
+2673,48211,"3,819",Hemphill County
+2674,48213,"82,737",Henderson County
+2675,48215,"868,707",Hidalgo County
+2676,48217,"36,649",Hill County
+2677,48219,"23,021",Hockley County
+2678,48221,"61,643",Hood County
+2679,48223,"37,084",Hopkins County
+2680,48225,"22,968",Houston County
+2681,48227,"36,664",Howard County
+2682,48229,"4,886",Hudspeth County
+2683,48231,"98,594",Hunt County
+2684,48233,"20,938",Hutchinson County
+2685,48235,"1,536",Irion County
+2686,48237,"8,935",Jack County
+2687,48239,"14,760",Jackson County
+2688,48241,"35,529",Jasper County
+2689,48243,"2,274",Jeff Davis County
+2690,48245,"251,565",Jefferson County
+2691,48247,"5,200",Jim Hogg County
+2692,48249,"40,482",Jim Wells County
+2693,48251,"175,817",Johnson County
+2694,48253,"20,083",Jones County
+2695,48255,"15,601",Karnes County
+2696,48257,"136,154",Kaufman County
+2697,48259,"47,431",Kendall County
+2698,48261,404,Kenedy County
+2699,48263,762,Kent County
+2700,48265,"52,600",Kerr County
+2701,48267,"4,337",Kimble County
+2702,48269,272,King County
+2703,48271,"3,667",Kinney County
+2704,48273,"30,680",Kleberg County
+2705,48275,"3,664",Knox County
+2706,48277,"49,859",Lamar County
+2707,48279,"12,893",Lamb County
+2708,48281,"21,428",Lampasas County
+2709,48283,"7,520",La Salle County
+2710,48285,"20,154",Lavaca County
+2711,48287,"17,239",Lee County
+2712,48289,"17,404",Leon County
+2713,48291,"88,219",Liberty County
+2714,48293,"23,437",Limestone County
+2715,48295,"3,233",Lipscomb County
+2716,48297,"12,207",Live Oak County
+2717,48299,"21,795",Llano County
+2718,48301,169,Loving County
+2719,48303,"310,569",Lubbock County
+2720,48305,"5,951",Lynn County
+2721,48307,"7,984",McCulloch County
+2722,48309,"256,623",McLennan County
+2723,48311,743,McMullen County
+2724,48313,"14,284",Madison County
+2725,48315,"9,854",Marion County
+2726,48317,"5,771",Martin County
+2727,48319,"4,274",Mason County
+2728,48321,"36,643",Matagorda County
+2729,48323,"58,722",Maverick County
+2730,48325,"51,584",Medina County
+2731,48327,"2,138",Menard County
+2732,48329,"176,832",Midland County
+2733,48331,"24,823",Milam County
+2734,48333,"4,873",Mills County
+2735,48335,"8,545",Mitchell County
+2736,48337,"19,818",Montague County
+2737,48339,"607,391",Montgomery County
+2738,48341,"20,940",Moore County
+2739,48343,"12,388",Morris County
+2740,48345,"1,200",Motley County
+2741,48347,"65,204",Nacogdoches County
+2742,48349,"50,113",Navarro County
+2743,48351,"13,595",Newton County
+2744,48353,"14,714",Nolan County
+2745,48355,"362,294",Nueces County
+2746,48357,"9,836",Ochiltree County
+2747,48359,"2,112",Oldham County
+2748,48361,"83,396",Orange County
+2749,48363,"29,189",Palo Pinto County
+2750,48365,"23,194",Panola County
+2751,48367,"142,878",Parker County
+2752,48369,"9,605",Parmer County
+2753,48371,"15,823",Pecos County
+2754,48373,"51,353",Polk County
+2755,48375,"117,415",Potter County
+2756,48377,"6,704",Presidio County
+2757,48379,"12,514",Rains County
+2758,48381,"137,713",Randall County
+2759,48383,"3,849",Reagan County
+2760,48385,"3,452",Real County
+2761,48387,"12,023",Red River County
+2762,48389,"15,976",Reeves County
+2763,48391,"6,948",Refugio County
+2764,48393,854,Roberts County
+2765,48395,"17,074",Robertson County
+2766,48397,"104,915",Rockwall County
+2767,48399,"10,264",Runnels County
+2768,48401,"54,406",Rusk County
+2769,48403,"10,542",Sabine County
+2770,48405,"8,237",San Augustine County
+2771,48407,"28,859",San Jacinto County
+2772,48409,"66,730",San Patricio County
+2773,48411,"6,055",San Saba County
+2774,48413,"2,793",Schleicher County
+2775,48415,"16,703",Scurry County
+2776,48417,"3,265",Shackelford County
+2777,48419,"25,274",Shelby County
+2778,48421,"3,022",Sherman County
+2779,48423,"232,751",Smith County
+2780,48425,"9,128",Somervell County
+2781,48427,"64,633",Starr County
+2782,48429,"9,366",Stephens County
+2783,48431,"1,291",Sterling County
+2784,48433,"1,350",Stonewall County
+2785,48435,"3,776",Sutton County
+2786,48437,"7,397",Swisher County
+2787,48439,"2,102,515",Tarrant County
+2788,48441,"138,034",Taylor County
+2789,48443,776,Terrell County
+2790,48445,"12,337",Terry County
+2791,48447,"1,501",Throckmorton County
+2792,48449,"32,750",Titus County
+2793,48451,"119,200",Tom Green County
+2794,48453,"1,273,954",Travis County
+2795,48455,"14,651",Trinity County
+2796,48457,"21,672",Tyler County
+2797,48459,"41,753",Upshur County
+2798,48461,"3,657",Upton County
+2799,48463,"26,741",Uvalde County
+2800,48465,"49,025",Val Verde County
+2801,48467,"56,590",Van Zandt County
+2802,48469,"92,084",Victoria County
+2803,48471,"72,971",Walker County
+2804,48473,"55,246",Waller County
+2805,48475,"11,998",Ward County
+2806,48477,"35,882",Washington County
+2807,48479,"276,652",Webb County
+2808,48481,"41,556",Wharton County
+2809,48483,"5,056",Wheeler County
+2810,48485,"132,230",Wichita County
+2811,48487,"12,769",Wilbarger County
+2812,48489,"21,358",Willacy County
+2813,48491,"590,551",Williamson County
+2814,48493,"51,070",Wilson County
+2815,48495,"8,010",Winkler County
+2816,48497,"69,984",Wise County
+2817,48499,"45,539",Wood County
+2818,48501,"8,713",Yoakum County
+2819,48503,"18,010",Young County
+2820,48505,"14,179",Zapata County
+2821,48507,"11,840",Zavala County
+2822,49000,"3,205,958",Utah
+2823,49001,"6,710",Beaver County
+2824,49003,"56,046",Box Elder County
+2825,49005,"128,289",Cache County
+2826,49007,"20,463",Carbon County
+2827,49009,950,Daggett County
+2828,49011,"355,481",Davis County
+2829,49013,"19,938",Duchesne County
+2830,49015,"10,012",Emery County
+2831,49017,"5,051",Garfield County
+2832,49019,"9,754",Grand County
+2833,49021,"54,839",Iron County
+2834,49023,"12,017",Juab County
+2835,49025,"7,886",Kane County
+2836,49027,"13,188",Millard County
+2837,49029,"12,124",Morgan County
+2838,49031,"1,479",Piute County
+2839,49033,"2,483",Rich County
+2840,49035,"1,160,437",Salt Lake County
+2841,49037,"15,308",San Juan County
+2842,49039,"30,939",Sanpete County
+2843,49041,"21,620",Sevier County
+2844,49043,"42,145",Summit County
+2845,49045,"72,259",Tooele County
+2846,49047,"35,734",Uintah County
+2847,49049,"636,235",Utah County
+2848,49051,"34,091",Wasatch County
+2849,49053,"177,556",Washington County
+2850,49055,"2,711",Wayne County
+2851,49057,"260,213",Weber County
+2852,50000,"623,989",Vermont
+2853,50001,"36,777",Addison County
+2854,50003,"35,470",Bennington County
+2855,50005,"29,993",Caledonia County
+2856,50007,"163,774",Chittenden County
+2857,50009,"6,163",Essex County
+2858,50011,"49,402",Franklin County
+2859,50013,"7,235",Grand Isle County
+2860,50015,"25,362",Lamoille County
+2861,50017,"28,892",Orange County
+2862,50019,"27,037",Orleans County
+2863,50021,"58,191",Rutland County
+2864,50023,"58,409",Washington County
+2865,50025,"42,222",Windham County
+2866,50027,"55,062",Windsor County
+2867,51000,"8,535,519",Virginia
+2868,51001,"32,316",Accomack County
+2869,51003,"109,330",Albemarle County
+2870,51005,"14,860",Alleghany County
+2871,51007,"13,145",Amelia County
+2872,51009,"31,605",Amherst County
+2873,51011,"15,911",Appomattox County
+2874,51013,"236,842",Arlington County
+2875,51015,"75,558",Augusta County
+2876,51017,"4,147",Bath County
+2877,51019,"78,997",Bedford County
+2878,51021,"6,280",Bland County
+2879,51023,"33,419",Botetourt County
+2880,51025,"16,231",Brunswick County
+2881,51027,"21,004",Buchanan County
+2882,51029,"17,148",Buckingham County
+2883,51031,"54,885",Campbell County
+2884,51033,"30,725",Caroline County
+2885,51035,"29,791",Carroll County
+2886,51036,"6,963",Charles City County
+2887,51037,"11,880",Charlotte County
+2888,51041,"352,802",Chesterfield County
+2889,51043,"14,619",Clarke County
+2890,51045,"5,131",Craig County
+2891,51047,"52,605",Culpeper County
+2892,51049,"9,932",Cumberland County
+2893,51051,"14,318",Dickenson County
+2894,51053,"28,544",Dinwiddie County
+2895,51057,"10,953",Essex County
+2896,51059,"1,147,532",Fairfax County
+2897,51061,"71,222",Fauquier County
+2898,51063,"15,749",Floyd County
+2899,51065,"27,270",Fluvanna County
+2900,51067,"56,042",Franklin County
+2901,51069,"89,313",Frederick County
+2902,51071,"16,720",Giles County
+2903,51073,"37,348",Gloucester County
+2904,51075,"23,753",Goochland County
+2905,51077,"15,550",Grayson County
+2906,51079,"19,819",Greene County
+2907,51081,"11,336",Greensville County
+2908,51083,"33,911",Halifax County
+2909,51085,"107,766",Hanover County
+2910,51087,"330,818",Henrico County
+2911,51089,"50,557",Henry County
+2912,51091,"2,190",Highland County
+2913,51093,"37,109",Isle of Wight County
+2914,51095,"76,523",James City County
+2915,51097,"7,025",King and Queen County
+2916,51099,"26,836",King George County
+2917,51101,"17,148",King William County
+2918,51103,"10,603",Lancaster County
+2919,51105,"23,423",Lee County
+2920,51107,"413,538",Loudoun County
+2921,51109,"37,591",Louisa County
+2922,51111,"12,196",Lunenburg County
+2923,51113,"13,261",Madison County
+2924,51115,"8,834",Mathews County
+2925,51117,"30,587",Mecklenburg County
+2926,51119,"10,582",Middlesex County
+2927,51121,"98,535",Montgomery County
+2928,51125,"14,930",Nelson County
+2929,51127,"23,091",New Kent County
+2930,51131,"11,710",Northampton County
+2931,51133,"12,095",Northumberland County
+2932,51135,"15,232",Nottoway County
+2933,51137,"37,051",Orange County
+2934,51139,"23,902",Page County
+2935,51141,"17,608",Patrick County
+2936,51143,"60,354",Pittsylvania County
+2937,51145,"29,652",Powhatan County
+2938,51147,"22,802",Prince Edward County
+2939,51149,"38,353",Prince George County
+2940,51153,"470,335",Prince William County
+2941,51155,"34,027",Pulaski County
+2942,51157,"7,370",Rappahannock County
+2943,51159,"9,023",Richmond County
+2944,51161,"94,186",Roanoke County
+2945,51163,"22,573",Rockbridge County
+2946,51165,"81,948",Rockingham County
+2947,51167,"26,586",Russell County
+2948,51169,"21,566",Scott County
+2949,51171,"43,616",Shenandoah County
+2950,51173,"30,104",Smyth County
+2951,51175,"17,631",Southampton County
+2952,51177,"136,215",Spotsylvania County
+2953,51179,"152,882",Stafford County
+2954,51181,"6,422",Surry County
+2955,51183,"11,159",Sussex County
+2956,51185,"40,595",Tazewell County
+2957,51187,"40,164",Warren County
+2958,51191,"53,740",Washington County
+2959,51193,"18,015",Westmoreland County
+2960,51195,"37,383",Wise County
+2961,51197,"28,684",Wythe County
+2962,51199,"68,280",York County
+2963,51510,"159,428",Alexandria city
+2964,51520,"16,762",Bristol city
+2965,51530,"6,478",Buena Vista city
+2966,51540,"47,266",Charlottesville city
+2967,51550,"244,835",Chesapeake city
+2968,51570,"17,370",Colonial Heights city
+2969,51580,"5,538",Covington city
+2970,51590,"40,044",Danville city
+2971,51595,"5,346",Emporia city
+2972,51600,"24,019",Fairfax city
+2973,51610,"14,617",Falls Church city
+2974,51620,"7,967",Franklin city
+2975,51630,"29,036",Fredericksburg city
+2976,51640,"6,347",Galax city
+2977,51650,"134,510",Hampton city
+2978,51660,"53,016",Harrisonburg city
+2979,51670,"22,529",Hopewell city
+2980,51678,"7,446",Lexington city
+2981,51680,"82,168",Lynchburg city
+2982,51683,"41,085",Manassas city
+2983,51685,"17,478",Manassas Park city
+2984,51690,"12,554",Martinsville city
+2985,51700,"179,225",Newport News city
+2986,51710,"242,742",Norfolk city
+2987,51720,"3,981",Norton city
+2988,51730,"31,346",Petersburg city
+2989,51735,"12,271",Poquoson city
+2990,51740,"94,398",Portsmouth city
+2991,51750,"18,249",Radford city
+2992,51760,"230,436",Richmond city
+2993,51770,"99,143",Roanoke city
+2994,51775,"25,301",Salem city
+2995,51790,"24,932",Staunton city
+2996,51800,"92,108",Suffolk city
+2997,51810,"449,974",Virginia Beach city
+2998,51820,"22,630",Waynesboro city
+2999,51830,"14,954",Williamsburg city
+3000,51840,"28,078",Winchester city
+3001,53000,"7,614,893",Washington
+3002,53001,"19,983",Adams County
+3003,53003,"22,582",Asotin County
+3004,53005,"204,390",Benton County
+3005,53007,"77,200",Chelan County
+3006,53009,"77,331",Clallam County
+3007,53011,"488,241",Clark County
+3008,53013,"3,985",Columbia County
+3009,53015,"110,593",Cowlitz County
+3010,53017,"43,429",Douglas County
+3011,53019,"7,627",Ferry County
+3012,53021,"95,222",Franklin County
+3013,53023,"2,225",Garfield County
+3014,53025,"97,733",Grant County
+3015,53027,"75,061",Grays Harbor County
+3016,53029,"85,141",Island County
+3017,53031,"32,221",Jefferson County
+3018,53033,"2,252,782",King County
+3019,53035,"271,473",Kitsap County
+3020,53037,"47,935",Kittitas County
+3021,53039,"22,425",Klickitat County
+3022,53041,"80,707",Lewis County
+3023,53043,"10,939",Lincoln County
+3024,53045,"66,768",Mason County
+3025,53047,"42,243",Okanogan County
+3026,53049,"22,471",Pacific County
+3027,53051,"13,724",Pend Oreille County
+3028,53053,"904,980",Pierce County
+3029,53055,"17,582",San Juan County
+3030,53057,"129,205",Skagit County
+3031,53059,"12,083",Skamania County
+3032,53061,"822,083",Snohomish County
+3033,53063,"522,798",Spokane County
+3034,53065,"45,723",Stevens County
+3035,53067,"290,536",Thurston County
+3036,53069,"4,488",Wahkiakum County
+3037,53071,"60,760",Walla Walla County
+3038,53073,"229,247",Whatcom County
+3039,53075,"50,104",Whitman County
+3040,53077,"250,873",Yakima County
+3041,54000,"1,792,147",West Virginia
+3042,54001,"16,441",Barbour County
+3043,54003,"119,171",Berkeley County
+3044,54005,"21,457",Boone County
+3045,54007,"13,957",Braxton County
+3046,54009,"21,939",Brooke County
+3047,54011,"91,945",Cabell County
+3048,54013,"7,109",Calhoun County
+3049,54015,"8,508",Clay County
+3050,54017,"8,448",Doddridge County
+3051,54019,"42,406",Fayette County
+3052,54021,"7,823",Gilmer County
+3053,54023,"11,568",Grant County
+3054,54025,"34,662",Greenbrier County
+3055,54027,"23,175",Hampshire County
+3056,54029,"28,810",Hancock County
+3057,54031,"13,776",Hardy County
+3058,54033,"67,256",Harrison County
+3059,54035,"28,576",Jackson County
+3060,54037,"57,146",Jefferson County
+3061,54039,"178,124",Kanawha County
+3062,54041,"15,907",Lewis County
+3063,54043,"20,409",Lincoln County
+3064,54045,"32,019",Logan County
+3065,54047,"17,624",McDowell County
+3066,54049,"56,072",Marion County
+3067,54051,"30,531",Marshall County
+3068,54053,"26,516",Mason County
+3069,54055,"58,758",Mercer County
+3070,54057,"26,868",Mineral County
+3071,54059,"23,424",Mingo County
+3072,54061,"105,612",Monongalia County
+3073,54063,"13,275",Monroe County
+3074,54065,"17,884",Morgan County
+3075,54067,"24,496",Nicholas County
+3076,54069,"41,411",Ohio County
+3077,54071,"6,969",Pendleton County
+3078,54073,"7,460",Pleasants County
+3079,54075,"8,247",Pocahontas County
+3080,54077,"33,432",Preston County
+3081,54079,"56,450",Putnam County
+3082,54081,"73,361",Raleigh County
+3083,54083,"28,695",Randolph County
+3084,54085,"9,554",Ritchie County
+3085,54087,"13,688",Roane County
+3086,54089,"12,573",Summers County
+3087,54091,"16,695",Taylor County
+3088,54093,"6,839",Tucker County
+3089,54095,"8,591",Tyler County
+3090,54097,"24,176",Upshur County
+3091,54099,"39,402",Wayne County
+3092,54101,"8,114",Webster County
+3093,54103,"15,065",Wetzel County
+3094,54105,"5,821",Wirt County
+3095,54107,"83,518",Wood County
+3096,54109,"20,394",Wyoming County
+3097,55000,"5,822,434",Wisconsin
+3098,55001,"20,220",Adams County
+3099,55003,"15,562",Ashland County
+3100,55005,"45,244",Barron County
+3101,55007,"15,036",Bayfield County
+3102,55009,"264,542",Brown County
+3103,55011,"13,031",Buffalo County
+3104,55013,"15,414",Burnett County
+3105,55015,"50,089",Calumet County
+3106,55017,"64,658",Chippewa County
+3107,55019,"34,774",Clark County
+3108,55021,"57,532",Columbia County
+3109,55023,"16,131",Crawford County
+3110,55025,"546,695",Dane County
+3111,55027,"87,839",Dodge County
+3112,55029,"27,668",Door County
+3113,55031,"43,150",Douglas County
+3114,55033,"45,368",Dunn County
+3115,55035,"104,646",Eau Claire County
+3116,55037,"4,295",Florence County
+3117,55039,"103,403",Fond du Lac County
+3118,55041,"9,004",Forest County
+3119,55043,"51,439",Grant County
+3120,55045,"36,960",Green County
+3121,55047,"18,913",Green Lake County
+3122,55049,"23,678",Iowa County
+3123,55051,"5,687",Iron County
+3124,55053,"20,643",Jackson County
+3125,55055,"84,769",Jefferson County
+3126,55057,"26,687",Juneau County
+3127,55059,"169,561",Kenosha County
+3128,55061,"20,434",Kewaunee County
+3129,55063,"118,016",La Crosse County
+3130,55065,"16,665",Lafayette County
+3131,55067,"19,189",Langlade County
+3132,55069,"27,593",Lincoln County
+3133,55071,"78,981",Manitowoc County
+3134,55073,"135,692",Marathon County
+3135,55075,"40,350",Marinette County
+3136,55077,"15,574",Marquette County
+3137,55078,"4,556",Menominee County
+3138,55079,"945,726",Milwaukee County
+3139,55081,"46,253",Monroe County
+3140,55083,"37,930",Oconto County
+3141,55085,"35,595",Oneida County
+3142,55087,"187,885",Outagamie County
+3143,55089,"89,221",Ozaukee County
+3144,55091,"7,287",Pepin County
+3145,55093,"42,754",Pierce County
+3146,55095,"43,783",Polk County
+3147,55097,"70,772",Portage County
+3148,55099,"13,351",Price County
+3149,55101,"196,311",Racine County
+3150,55103,"17,252",Richland County
+3151,55105,"163,354",Rock County
+3152,55107,"14,178",Rusk County
+3153,55109,"90,687",St. Croix County
+3154,55111,"64,442",Sauk County
+3155,55113,"16,558",Sawyer County
+3156,55115,"40,899",Shawano County
+3157,55117,"115,340",Sheboygan County
+3158,55119,"20,343",Taylor County
+3159,55121,"29,649",Trempealeau County
+3160,55123,"30,822",Vernon County
+3161,55125,"22,195",Vilas County
+3162,55127,"103,868",Walworth County
+3163,55129,"15,720",Washburn County
+3164,55131,"136,034",Washington County
+3165,55133,"404,198",Waukesha County
+3166,55135,"50,990",Waupaca County
+3167,55137,"24,443",Waushara County
+3168,55139,"171,907",Winnebago County
+3169,55141,"72,999",Wood County
+3170,56000,"578,759",Wyoming
+3171,56001,"38,880",Albany County
+3172,56003,"11,790",Big Horn County
+3173,56005,"46,341",Campbell County
+3174,56007,"14,800",Carbon County
+3175,56009,"13,822",Converse County
+3176,56011,"7,584",Crook County
+3177,56013,"39,261",Fremont County
+3178,56015,"13,211",Goshen County
+3179,56017,"4,413",Hot Springs County
+3180,56019,"8,445",Johnson County
+3181,56021,"99,500",Laramie County
+3182,56023,"19,830",Lincoln County
+3183,56025,"79,858",Natrona County
+3184,56027,"2,356",Niobrara County
+3185,56029,"29,194",Park County
+3186,56031,"8,393",Platte County
+3187,56033,"30,485",Sheridan County
+3188,56035,"9,831",Sublette County
+3189,56037,"42,343",Sweetwater County
+3190,56039,"23,464",Teton County
+3191,56041,"20,226",Uinta County
+3192,56043,"7,805",Washakie County
+3193,56045,"6,927",Weston County
+3194,72000,"3,193,694",Puerto Rico
+3195,72001,"17,363","Adjuntas Municipio, Puerto Rico"
+3196,72003,"36,694","Aguada Municipio, Puerto Rico"
+3197,72005,"50,265","Aguadilla Municipio, Puerto Rico"
+3198,72007,"24,814","Aguas Buenas Municipio, Puerto Rico"
+3199,72009,"22,108","Aibonito Municipio, Puerto Rico"
+3200,72011,"26,161","Añasco Municipio, Puerto Rico"
+3201,72013,"81,966","Arecibo Municipio, Puerto Rico"
+3202,72015,"17,238","Arroyo Municipio, Puerto Rico"
+3203,72017,"23,727","Barceloneta Municipio, Puerto Rico"
+3204,72019,"27,725","Barranquitas Municipio, Puerto Rico"
+3205,72021,"169,269","Bayamón Municipio, Puerto Rico"
+3206,72023,"47,515","Cabo Rojo Municipio, Puerto Rico"
+3207,72025,"124,606","Caguas Municipio, Puerto Rico"
+3208,72027,"30,504","Camuy Municipio, Puerto Rico"
+3209,72029,"44,674","Canóvanas Municipio, Puerto Rico"
+3210,72031,"146,984","Carolina Municipio, Puerto Rico"
+3211,72033,"23,121","Cataño Municipio, Puerto Rico"
+3212,72035,"42,409","Cayey Municipio, Puerto Rico"
+3213,72037,"10,904","Ceiba Municipio, Puerto Rico"
+3214,72039,"15,808","Ciales Municipio, Puerto Rico"
+3215,72041,"38,307","Cidra Municipio, Puerto Rico"
+3216,72043,"38,336","Coamo Municipio, Puerto Rico"
+3217,72045,"18,648","Comerío Municipio, Puerto Rico"
+3218,72047,"32,293","Corozal Municipio, Puerto Rico"
+3219,72049,"1,714","Culebra Municipio, Puerto Rico"
+3220,72051,"36,141","Dorado Municipio, Puerto Rico"
+3221,72053,"29,454","Fajardo Municipio, Puerto Rico"
+3222,72054,"11,317","Florida Municipio, Puerto Rico"
+3223,72055,"15,383","Guánica Municipio, Puerto Rico"
+3224,72057,"39,465","Guayama Municipio, Puerto Rico"
+3225,72059,"17,623","Guayanilla Municipio, Puerto Rico"
+3226,72061,"83,728","Guaynabo Municipio, Puerto Rico"
+3227,72063,"47,093","Gurabo Municipio, Puerto Rico"
+3228,72065,"39,218","Hatillo Municipio, Puerto Rico"
+3229,72067,"15,518","Hormigueros Municipio, Puerto Rico"
+3230,72069,"50,653","Humacao Municipio, Puerto Rico"
+3231,72071,"40,423","Isabela Municipio, Puerto Rico"
+3232,72073,"13,891","Jayuya Municipio, Puerto Rico"
+3233,72075,"44,679","Juana Díaz Municipio, Puerto Rico"
+3234,72077,"38,155","Juncos Municipio, Puerto Rico"
+3235,72079,"22,010","Lajas Municipio, Puerto Rico"
+3236,72081,"24,276","Lares Municipio, Puerto Rico"
+3237,72083,"7,927","Las Marías Municipio, Puerto Rico"
+3238,72085,"37,007","Las Piedras Municipio, Puerto Rico"
+3239,72087,"24,553","Loíza Municipio, Puerto Rico"
+3240,72089,"17,665","Luquillo Municipio, Puerto Rico"
+3241,72091,"37,287","Manatí Municipio, Puerto Rico"
+3242,72093,"5,430","Maricao Municipio, Puerto Rico"
+3243,72095,"10,321","Maunabo Municipio, Puerto Rico"
+3244,72097,"71,530","Mayagüez Municipio, Puerto Rico"
+3245,72099,"34,891","Moca Municipio, Puerto Rico"
+3246,72101,"30,335","Morovis Municipio, Puerto Rico"
+3247,72103,"25,761","Naguabo Municipio, Puerto Rico"
+3248,72105,"27,349","Naranjito Municipio, Puerto Rico"
+3249,72107,"20,220","Orocovis Municipio, Puerto Rico"
+3250,72109,"16,211","Patillas Municipio, Puerto Rico"
+3251,72111,"19,249","Peñuelas Municipio, Puerto Rico"
+3252,72113,"131,881","Ponce Municipio, Puerto Rico"
+3253,72115,"22,918","Quebradillas Municipio, Puerto Rico"
+3254,72117,"13,656","Rincón Municipio, Puerto Rico"
+3255,72119,"48,025","Río Grande Municipio, Puerto Rico"
+3256,72121,"21,712","Sabana Grande Municipio, Puerto Rico"
+3257,72123,"27,128","Salinas Municipio, Puerto Rico"
+3258,72125,"30,227","San Germán Municipio, Puerto Rico"
+3259,72127,"318,441","San Juan Municipio, Puerto Rico"
+3260,72129,"35,989","San Lorenzo Municipio, Puerto Rico"
+3261,72131,"35,528","San Sebastián Municipio, Puerto Rico"
+3262,72133,"21,209","Santa Isabel Municipio, Puerto Rico"
+3263,72135,"72,025","Toa Alta Municipio, Puerto Rico"
+3264,72137,"74,271","Toa Baja Municipio, Puerto Rico"
+3265,72139,"63,674","Trujillo Alto Municipio, Puerto Rico"
+3266,72141,"27,395","Utuado Municipio, Puerto Rico"
+3267,72143,"36,061","Vega Alta Municipio, Puerto Rico"
+3268,72145,"50,023","Vega Baja Municipio, Puerto Rico"
+3269,72147,"8,386","Vieques Municipio, Puerto Rico"
+3270,72149,"21,372","Villalba Municipio, Puerto Rico"
+3271,72151,"32,282","Yabucoa Municipio, Puerto Rico"
+3272,72153,"33,575","Yauco Municipio, Puerto Rico"

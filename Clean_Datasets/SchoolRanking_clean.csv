@@ -1,0 +1,151 @@
+,Rank,Institution,City,State
+0,0,Massachusetts Institute of Technology,Cambridge, MA 
+1,1,Stanford University,Stanford, CA 
+2,2,Harvard University,Cambridge, MA 
+3,3,Yale University,New Haven, CT 
+4,4,Princeton University,Princeton, NJ 
+5,5,University of Pennsylvania,Philadelphia, PA 
+6,6,Columbia University,New York, NY 
+7,7,Duke University,Durham, NC 
+8,8,Brown University,Providence, RI 
+9,9,California Institute of Technology,Pasadena, CA 
+10,10,Washington University in St. Louis,Saint Louis, MO 
+11,11,Rice University,Houston, TX 
+12,12,University of Notre Dame,Notre Dame, IN 
+13,13,Northwestern University,Evanston, IL 
+14,14,University of Chicago,Chicago, IL 
+15,15,Pomona College,Claremont, CA 
+16,16,Bowdoin College,Brunswick, ME 
+17,17,Vanderbilt University,Nashville, TN 
+18,18,Dartmouth College,Hanover, NH 
+19,19,University of Southern California,Los Angeles, CA 
+20,20,Cornell University,Ithaca, NY 
+21,21,Georgetown University,Washington, DC 
+22,22,University of Michigan at Ann Arbor,Ann Arbor, MI 
+23,23,Amherst College,Amherst, MA 
+24,24,Tufts University,Medford, MA 
+25,25,Johns Hopkins University,Baltimore, MD 
+26,26,Emory University,Atlanta, GA 
+27,27,University of Virginia,Charlottesville, VA 
+28,28,University of California at Los Angeles,Los Angeles, CA 
+29,29,Swarthmore College,Swarthmore, PA 
+30,30,United States Military Academy at West Point,West Point, NY 
+31,31,Middlebury College,Middlebury, VT 
+32,32,Carnegie Mellon University,Pittsburgh, PA 
+33,33,Barnard College,New York, NY 
+34,34,Carleton College,Northfield, MN 
+35,35,Washington & Lee University,Lexington, VA 
+36,36,University of California at Berkeley,Berkeley, CA 
+37,37,Georgia Institute of Technology,Atlanta, GA 
+38,38,Wellesley College,Wellesley, MA 
+39,39,Haverford College,Haverford, PA 
+40,40,Claremont McKenna College,Claremont, CA 
+41,41,Williams College,Williamstown, MA 
+42,42,Bates College,Lewiston, ME 
+43,43,University of North Carolina at Chapel Hill,Chapel Hill, NC 
+44,44,Wake Forest University,Winston-Salem, NC 
+45,45,Northeastern University,Boston, MA 
+46,46,Virginia Tech,Blacksburg, VA 
+47,47,University of Texas at Austin,Austin, TX 
+48,48,Lehigh University,Bethlehem, PA 
+49,49,Colby College,Waterville, ME 
+50,50,Boston College,Chestnut Hill, MA 
+51,51,College of William & Mary,Williamsburg, VA 
+52,52,Hamilton College,Clinton, NY 
+53,53,Davidson College,Davidson, NC 
+54,54,Colgate University,Hamilton, NY 
+55,55,Smith College,Northampton, MA 
+56,56,New York University,New York, NY 
+57,57,University of Richmond,University of Richmond, VA 
+58,58,Wesleyan University,Middletown, CT 
+59,59,University of Wisconsin at Madison,Madison, WI 
+60,60,Harvey Mudd College,Claremont, CA 
+61,61,University of Florida,Gainesville, FL 
+62,62,University of Rochester,Rochester, NY 
+63,63,University of Illinois at Urbana-Champaign,Champaign, IL 
+64,64,Bucknell University,Lewisburg, PA 
+65,65,Boston University,Boston, MA 
+66,66,University of Georgia,Athens, GA 
+67,67,Grinnell College,Grinnell, IA 
+68,68,Brigham Young University,Provo, UT 
+69,69,Tulane University,New Orleans, LA 
+70,70,Colorado School of Mines,Golden, CO 
+71,71,Vassar College,Poughkeepsie, NY 
+72,72,Kenyon College,Gambier, OH 
+73,73,University of Washington,Seattle, WA 
+74,74,Lafayette College,Easton, PA 
+75,75,Case Western Reserve University,Cleveland, OH 
+76,76,The Cooper Union for the Advancement of Science and Art,New York, NY 
+77,77,Southern Methodist University,Dallas, TX 
+78,78,Rensselaer Polytechnic Institute,Troy, NY 
+79,79,Purdue University,West Lafayette, IN 
+80,80,University of Miami,Coral Gables, FL 
+81,81,Worcester Polytechnic Institute,Worcester, MA 
+82,82,Bryn Mawr College,Bryn Mawr, PA 
+83,83,Colorado College,Colorado Springs, CO 
+84,84,Macalester College,Saint Paul, MN 
+85,85,University of California at Santa Barbara,Santa Barbara, CA 
+86,86,College of the Holy Cross,Worcester, MA 
+87,87,University of Minnesota,Minneapolis, MN 
+88,88,Pennsylvania State University,University Park, PA 
+89,89,Texas A&M University,College Station, TX 
+90,90,Ohio State University,Columbus, OH 
+91,91,Stevens Institute of Technology,Hoboken, NJ 
+92,92,Pitzer College,Claremont, CA 
+93,93,Mount Holyoke,South Hadley, MA 
+94,94,North Carolina State University,Raleigh, NC 
+95,95,Santa Clara University,Santa Clara, CA 
+96,96,Reed College,Portland, OR 
+97,97,Villanova University,Villanova, PA 
+98,98,Rose-Hulman Institute of Technology,Terre Haute, IN 
+99,99,Whitman College,Walla Walla, WA 
+100,100,Scripps College,Claremont, CA 
+101,101,Clemson University,Clemson, SC 
+102,102,Michigan State University,East Lansing, MI 
+103,103,University of Tulsa,Tulsa, OK 
+104,104,University of Maryland - College Park,College Park, MD 
+105,105,Babson College,Wellesley, MA 
+106,106,Wheaton College (Ill.),Wheaton, IL 
+107,107,Trinity University,San Antonio, TX 
+108,108,University of Pittsburgh,Pittsburgh, PA 
+109,109,University of California at Davis,Davis, CA 
+110,110,Yeshiva University,New York, NY 
+111,111,Gettysburg College,Gettysburg, PA 
+112,112,Brandeis University,Waltham, MA 
+113,113,George Washington University,Washington, DC 
+114,114,Skidmore College,Saratoga Springs, NY 
+115,115,St. Olaf College,Northfield, MN 
+116,116,Michigan Technological University,Houghton, MI 
+117,117,University of California at Irvine,Irvine, CA 
+118,118,Indiana University,Bloomington, IN 
+119,119,Occidental College,Los Angeles, CA 
+120,120,Florida State University,Tallahassee, FL 
+121,121,University of California at San Diego,La Jolla, CA 
+122,122,University of Iowa,Iowa City, IA 
+123,123,Loyola Marymount University,Los Angeles, CA 
+124,124,California Polytechnic State University - San Luis Obispo,San Luis Obispo, CA 
+125,125,Union College,Schenectady, NY 
+126,126,University of Delaware,Newark, DE 
+127,127,Iowa State University,Ames, IA 
+128,128,Lawrence University,Appleton, WI 
+129,129,American University,Washington, DC 
+130,130,Texas Christian University,Fort Worth, TX 
+131,131,Syracuse University,Syracuse, NY 
+132,132,Rutgers University,Piscataway, NJ 
+133,133,Franklin and Marshall College,Lancaster, PA 
+134,134,University of Massachusets Amherst,Amherst, MA 
+135,135,Wabash College,Crawfordsville, IN 
+136,136,Denison University,Granville, OH 
+137,137,Gustavus Adolphus College,Saint Peter, MN 
+138,138,Bentley University,Waltham, MA 
+139,139,Auburn University,Auburn, AL 
+140,140,Oberlin College,Oberlin, OH 
+141,141,James Madison University,Harrisonburg, VA 
+142,142,Pepperdine University,Malibu, CA 
+143,143,Sewanee: The University of the South,Sewanee, TN 
+144,144,St. Louis University,St. Louis, MO 
+145,145,University of Portland,Portland, OR 
+146,146,University of Oklahoma,Norman, OK 
+147,147,University of Denver,Denver, CO 
+148,148,University of San Diego,San Diego, CA 
+149,149,Oklahoma State University,Stillwater, OK 
